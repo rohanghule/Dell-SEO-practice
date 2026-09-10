@@ -1,0 +1,51 @@
+product_id,product_name,product_category,product_family,business_unit,active_flag,updated_timestamp
+P1001,Dell XPS 13,Laptop,XPS,Client,1,2025-10-01 02:00:00
+P1002,Dell XPS 15,Laptop,XPS,Client,1,2025-10-01 02:05:00
+P1003,Dell Inspiron 15,Laptop,Inspiron,Client,1,2025-10-01 02:10:00
+P1004,Dell UltraSharp Monitor,Monitor,UltraSharp,Client,1,2025-10-01 02:15:00
+P1005,Dell Latitude 5440,Laptop,Latitude,Client,1,2025-10-01 02:20:00
+P1006,Dell Precision 5680,Workstation,Precision,Client,1,2025-10-01 02:25:00
+P1007,Dell Alienware M16,Gaming Laptop,Alienware,Client,1,2025-10-01 02:30:00
+P1008,Dell G15 Gaming Laptop,Gaming Laptop,Gaming,Client,1,2025-10-01 02:35:00
+P1009,Dell P2425 Monitor,Monitor,P Series,Client,1,2025-10-01 02:40:00
+P1010,Dell PowerEdge R760,Server,PowerEdge,Client,1,2025-10-01 02:45:00
+P1011,Dell OptiPlex 7010,Desktop,OptiPlex,Client,1,2025-10-01 02:50:00
+P1012,Dell Vostro 3520,Laptop,Vostro,Client,1,2025-10-01 02:55:00
+P1013,Dell Precision 3660,Workstation,Precision,Client,1,2025-10-01 03:00:00
+P1014,Dell Pro Wireless Mouse,Accessories,Accessories,Client,1,2025-10-01 03:05:00
+P1015,Dell Pro Wireless Keyboard,Accessories,Accessories,Client,1,2025-10-01 03:10:00
+P1016,Dell WD22TB4 Dock,Accessories,Docking,Client,1,2025-10-01 03:15:00
+P1017,Dell U2724D Monitor,Monitor,UltraSharp,Client,1,2025-10-01 03:20:00
+P1018,Dell Latitude 7450,Laptop,Latitude,Client,1,2025-10-01 03:25:00
+P1019,Dell XPS 16,Laptop,XPS,Client,1,2025-10-01 03:30:00
+P1020,Dell PowerEdge R660,Server,PowerEdge,Client,1,2025-10-01 03:35:00
+P1021,Dell Precision 5680 Mobile,Workstation,Precision,Client,1,2025-10-01 03:40:00
+P1022,Dell Inspiron 14,Laptop,Inspiron,Client,1,2025-10-01 03:45:00
+P1023,Dell G16 Gaming Laptop,Gaming Laptop,Gaming,Client,1,2025-10-01 03:50:00
+P1024,Dell UltraSharp U4025QW,Monitor,UltraSharp,Client,1,2025-10-01 03:55:00
+P1025,Dell OptiPlex Micro,Desktop,OptiPlex,Client,1,2025-10-01 04:00:00
+P1026,Dell Pro Slim Backpack,Accessories,Accessories,Client,1,2025-10-01 04:05:00
+P1027,Dell Thunderbolt Dock,Accessories,Docking,Client,1,2025-10-01 04:10:00
+P1028,Dell P2725H Monitor,Monitor,P Series,Client,1,2025-10-01 04:15:00
+P1029,Dell Vostro 3530,Laptop,Vostro,Client,1,2025-10-01 04:20:00
+P1030,Dell Latitude 5550,Laptop,Latitude,Client,1,2025-10-01 04:25:00
+P1031,Dell Precision 5480,Workstation,Precision,Client,1,2025-10-01 04:30:00
+P1032,Dell PowerEdge T560,Server,PowerEdge,Client,1,2025-10-01 04:35:00
+P1033,Dell Inspiron 16,Laptop,Inspiron,Client,1,2025-10-01 04:40:00
+P1034,Dell XPS Desktop,Desktop,XPS,Client,1,2025-10-01 04:45:00
+P1035,Dell Alienware AW3423DWF,Monitor,Alienware,Client,1,2025-10-01 04:50:00
+P1036,Dell G2724D Gaming Monitor,Monitor,Gaming,Client,1,2025-10-01 04:55:00
+P1037,Dell Pro Webcam,Accessories,Accessories,Client,1,2025-10-01 05:00:00
+P1038,Dell Pro Headset,Accessories,Accessories,Client,1,2025-10-01 05:05:00
+P1039,Dell Latitude 7350,Laptop,Latitude,Client,1,2025-10-01 05:10:00
+P1040,Dell Precision 5860 Tower,Workstation,Precision,Client,1,2025-10-01 05:15:00
+P1041,Dell PowerEdge R860,Server,PowerEdge,Client,1,2025-10-01 05:20:00
+P1042,Dell OptiPlex Tower,Desktop,OptiPlex,Client,1,2025-10-01 05:25:00
+P1043,Dell S2725DS Monitor,Monitor,S Series,Client,1,2025-10-01 05:30:00
+P1044,Dell XPS 14,Laptop,XPS,Client,1,2025-10-01 05:35:00
+P1045,Dell Inspiron 16 2-in-1,Laptop,Inspiron,Client,1,2025-10-01 05:40:00
+P1046,Dell Latitude 9440,Laptop,Latitude,Client,1,2025-10-01 05:45:00
+P1047,Dell Precision 5690,Workstation,Precision,Client,1,2025-10-01 05:50:00
+P1048,Dell Alienware Aurora,Desktop,Alienware,Client,1,2025-10-01 05:55:00
+P1049,Dell Pro Compact Keyboard,Accessories,Accessories,Client,1,2025-10-01 06:00:00
+P1050,Dell Universal Dock,Accessories,Docking,Client,1,2025-10-01 06:05:00

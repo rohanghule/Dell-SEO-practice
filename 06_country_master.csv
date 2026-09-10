@@ -1,0 +1,11 @@
+country_code,country_name,region,sub_region,active_flag,updated_timestamp
+US,United States,North America,North America,1,2025-10-01 01:00:00
+CA,Canada,North America,North America,1,2025-10-01 01:05:00
+UK,United Kingdom,Europe,Western Europe,1,2025-10-01 01:10:00
+DE,Germany,Europe,Western Europe,1,2025-10-01 01:15:00
+FR,France,Europe,Western Europe,1,2025-10-01 01:20:00
+JP,Japan,APAC,East Asia,1,2025-10-01 01:25:00
+AU,Australia,APAC,Oceania,1,2025-10-01 01:30:00
+IN,India,APAC,South Asia,1,2025-10-01 01:35:00
+BR,Brazil,LATAM,South America,1,2025-10-01 01:40:00
+MX,Mexico,LATAM,North America,1,2025-10-01 01:45:00

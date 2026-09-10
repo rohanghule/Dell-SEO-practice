@@ -1,0 +1,2001 @@
+keyword_id,keyword,keyword_type,category,search_intent,search_engine,active_flag,updated_timestamp
+KW10001,dell laptop,Branded,Laptop,Informational,Google,0,2025-10-01 00:00:00
+KW10002,dell xps,Branded,Laptop,Navigational,Google,1,2025-10-01 00:01:00
+KW10003,dell xps 13,Branded,Laptop,Commercial,Google,1,2025-10-01 00:02:00
+KW10004,dell xps 15,Branded,Laptop,Transactional,Google,1,2025-10-01 00:03:00
+KW10005,dell inspiron,Branded,Laptop,Informational,Google,1,2025-10-01 00:04:00
+KW10006,dell latitude,Branded,Laptop,Navigational,Google,1,2025-10-01 00:05:00
+KW10007,dell precision,Branded,Laptop,Commercial,Google,1,2025-10-01 00:06:00
+KW10008,dell monitor,Branded,Monitor,Transactional,Google,1,2025-10-01 00:07:00
+KW10009,dell ultrasharp,Branded,Laptop,Informational,Google,1,2025-10-01 00:08:00
+KW10010,dell alienware,Branded,Laptop,Navigational,Google,1,2025-10-01 00:09:00
+KW10011,dell poweredge,Branded,Server,Commercial,Google,1,2025-10-01 00:10:00
+KW10012,dell optiplex,Branded,Desktop,Transactional,Google,1,2025-10-01 00:11:00
+KW10013,dell docking station,Branded,Accessories,Informational,Google,1,2025-10-01 00:12:00
+KW10014,dell wireless mouse,Branded,Accessories,Navigational,Google,1,2025-10-01 00:13:00
+KW10015,dell wireless keyboard,Branded,Accessories,Commercial,Google,1,2025-10-01 00:14:00
+KW10016,dell gaming laptop,Branded,Laptop,Transactional,Google,1,2025-10-01 00:15:00
+KW10017,best business laptop,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:16:00
+KW10018,best laptop for work,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:17:00
+KW10019,best gaming laptop,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 00:18:00
+KW10020,business laptop,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 00:19:00
+KW10021,lightweight laptop,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:20:00
+KW10022,student laptop,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:21:00
+KW10023,professional laptop,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 00:22:00
+KW10024,4k monitor,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 00:23:00
+KW10025,best monitor for work,Non-Branded,Monitor,Informational,Google,1,2025-10-01 00:24:00
+KW10026,usb c monitor,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 00:25:00
+KW10027,computer monitor,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 00:26:00
+KW10028,high performance workstation,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 00:27:00
+KW10029,enterprise server,Non-Branded,Server,Informational,Google,1,2025-10-01 00:28:00
+KW10030,rack server,Non-Branded,Server,Navigational,Google,1,2025-10-01 00:29:00
+KW10031,desktop computer,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 00:30:00
+KW10032,office desktop,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 00:31:00
+KW10033,thunderbolt dock,Non-Branded,Accessories,Informational,Google,1,2025-10-01 00:32:00
+KW10034,usb c docking station,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 00:33:00
+KW10035,wireless keyboard,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 00:34:00
+KW10036,wireless mouse,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 00:35:00
+KW10037,gaming monitor,Non-Branded,Monitor,Informational,Google,1,2025-10-01 00:36:00
+KW10038,ultrawide monitor,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 00:37:00
+KW10039,laptop for programming,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 00:38:00
+KW10040,laptop for engineering,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 00:39:00
+KW10041,work from home laptop,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:40:00
+KW10042,dell laptop deals,Branded,Laptop,Navigational,Google,1,2025-10-01 00:41:00
+KW10043,dell xps deals,Branded,Laptop,Commercial,Google,1,2025-10-01 00:42:00
+KW10044,dell xps 13 deals,Branded,Laptop,Transactional,Google,1,2025-10-01 00:43:00
+KW10045,dell xps 15 deals,Branded,Laptop,Informational,Google,1,2025-10-01 00:44:00
+KW10046,dell inspiron deals,Branded,Laptop,Navigational,Google,1,2025-10-01 00:45:00
+KW10047,dell latitude deals,Branded,Laptop,Commercial,Google,1,2025-10-01 00:46:00
+KW10048,dell precision deals,Branded,Laptop,Transactional,Google,1,2025-10-01 00:47:00
+KW10049,dell monitor deals,Branded,Monitor,Informational,Google,1,2025-10-01 00:48:00
+KW10050,dell ultrasharp deals,Branded,Laptop,Navigational,Google,1,2025-10-01 00:49:00
+KW10051,dell alienware deals,Branded,Laptop,Commercial,Google,1,2025-10-01 00:50:00
+KW10052,dell poweredge deals,Branded,Server,Transactional,Google,1,2025-10-01 00:51:00
+KW10053,dell optiplex deals,Branded,Desktop,Informational,Google,1,2025-10-01 00:52:00
+KW10054,dell docking station deals,Branded,Accessories,Navigational,Google,1,2025-10-01 00:53:00
+KW10055,dell wireless mouse deals,Branded,Accessories,Commercial,Google,1,2025-10-01 00:54:00
+KW10056,dell wireless keyboard deals,Branded,Accessories,Transactional,Google,1,2025-10-01 00:55:00
+KW10057,dell gaming laptop deals,Branded,Laptop,Informational,Google,1,2025-10-01 00:56:00
+KW10058,best business laptop deals,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:57:00
+KW10059,best laptop for work deals,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 00:58:00
+KW10060,best gaming laptop deals,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 00:59:00
+KW10061,business laptop deals,Non-Branded,Laptop,Informational,Google,1,2025-10-01 01:00:00
+KW10062,lightweight laptop deals,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 01:01:00
+KW10063,student laptop deals,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 01:02:00
+KW10064,professional laptop deals,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:03:00
+KW10065,4k monitor deals,Non-Branded,Monitor,Informational,Google,1,2025-10-01 01:04:00
+KW10066,best monitor for work deals,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:05:00
+KW10067,usb c monitor deals,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:06:00
+KW10068,computer monitor deals,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 01:07:00
+KW10069,high performance workstation deals,Non-Branded,Workstation,Informational,Google,1,2025-10-01 01:08:00
+KW10070,enterprise server deals,Non-Branded,Server,Navigational,Google,1,2025-10-01 01:09:00
+KW10071,rack server deals,Non-Branded,Server,Commercial,Google,1,2025-10-01 01:10:00
+KW10072,desktop computer deals,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 01:11:00
+KW10073,office desktop deals,Non-Branded,Desktop,Informational,Google,1,2025-10-01 01:12:00
+KW10074,thunderbolt dock deals,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 01:13:00
+KW10075,usb c docking station deals,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 01:14:00
+KW10076,wireless keyboard deals,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 01:15:00
+KW10077,wireless mouse deals,Non-Branded,Accessories,Informational,Google,1,2025-10-01 01:16:00
+KW10078,gaming monitor deals,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:17:00
+KW10079,ultrawide monitor deals,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:18:00
+KW10080,laptop for programming deals,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:19:00
+KW10081,laptop for engineering deals,Non-Branded,Workstation,Informational,Google,1,2025-10-01 01:20:00
+KW10082,work from home laptop deals,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 01:21:00
+KW10083,dell laptop online,Branded,Laptop,Commercial,Google,1,2025-10-01 01:22:00
+KW10084,dell xps online,Branded,Laptop,Transactional,Google,0,2025-10-01 01:23:00
+KW10085,dell xps 13 online,Branded,Laptop,Informational,Google,1,2025-10-01 01:24:00
+KW10086,dell xps 15 online,Branded,Laptop,Navigational,Google,1,2025-10-01 01:25:00
+KW10087,dell inspiron online,Branded,Laptop,Commercial,Google,1,2025-10-01 01:26:00
+KW10088,dell latitude online,Branded,Laptop,Transactional,Google,1,2025-10-01 01:27:00
+KW10089,dell precision online,Branded,Laptop,Informational,Google,1,2025-10-01 01:28:00
+KW10090,dell monitor online,Branded,Monitor,Navigational,Google,1,2025-10-01 01:29:00
+KW10091,dell ultrasharp online,Branded,Laptop,Commercial,Google,1,2025-10-01 01:30:00
+KW10092,dell alienware online,Branded,Laptop,Transactional,Google,1,2025-10-01 01:31:00
+KW10093,dell poweredge online,Branded,Server,Informational,Google,1,2025-10-01 01:32:00
+KW10094,dell optiplex online,Branded,Desktop,Navigational,Google,1,2025-10-01 01:33:00
+KW10095,dell docking station online,Branded,Accessories,Commercial,Google,1,2025-10-01 01:34:00
+KW10096,dell wireless mouse online,Branded,Accessories,Transactional,Google,1,2025-10-01 01:35:00
+KW10097,dell wireless keyboard online,Branded,Accessories,Informational,Google,1,2025-10-01 01:36:00
+KW10098,dell gaming laptop online,Branded,Laptop,Navigational,Google,1,2025-10-01 01:37:00
+KW10099,best business laptop online,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 01:38:00
+KW10100,best laptop for work online,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:39:00
+KW10101,best gaming laptop online,Non-Branded,Laptop,Informational,Google,1,2025-10-01 01:40:00
+KW10102,business laptop online,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 01:41:00
+KW10103,lightweight laptop online,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 01:42:00
+KW10104,student laptop online,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:43:00
+KW10105,professional laptop online,Non-Branded,Laptop,Informational,Google,1,2025-10-01 01:44:00
+KW10106,4k monitor online,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:45:00
+KW10107,best monitor for work online,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:46:00
+KW10108,usb c monitor online,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 01:47:00
+KW10109,computer monitor online,Non-Branded,Monitor,Informational,Google,1,2025-10-01 01:48:00
+KW10110,high performance workstation online,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 01:49:00
+KW10111,enterprise server online,Non-Branded,Server,Commercial,Google,1,2025-10-01 01:50:00
+KW10112,rack server online,Non-Branded,Server,Transactional,Google,1,2025-10-01 01:51:00
+KW10113,desktop computer online,Non-Branded,Desktop,Informational,Google,1,2025-10-01 01:52:00
+KW10114,office desktop online,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 01:53:00
+KW10115,thunderbolt dock online,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 01:54:00
+KW10116,usb c docking station online,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 01:55:00
+KW10117,wireless keyboard online,Non-Branded,Accessories,Informational,Google,1,2025-10-01 01:56:00
+KW10118,wireless mouse online,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 01:57:00
+KW10119,gaming monitor online,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:58:00
+KW10120,ultrawide monitor online,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 01:59:00
+KW10121,laptop for programming online,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:00:00
+KW10122,laptop for engineering online,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 02:01:00
+KW10123,work from home laptop online,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 02:02:00
+KW10124,dell laptop for business,Branded,Laptop,Transactional,Google,1,2025-10-01 02:03:00
+KW10125,dell xps for business,Branded,Laptop,Informational,Google,1,2025-10-01 02:04:00
+KW10126,dell xps 13 for business,Branded,Laptop,Navigational,Google,1,2025-10-01 02:05:00
+KW10127,dell xps 15 for business,Branded,Laptop,Commercial,Google,1,2025-10-01 02:06:00
+KW10128,dell inspiron for business,Branded,Laptop,Transactional,Google,1,2025-10-01 02:07:00
+KW10129,dell latitude for business,Branded,Laptop,Informational,Google,1,2025-10-01 02:08:00
+KW10130,dell precision for business,Branded,Laptop,Navigational,Google,1,2025-10-01 02:09:00
+KW10131,dell monitor for business,Branded,Monitor,Commercial,Google,1,2025-10-01 02:10:00
+KW10132,dell ultrasharp for business,Branded,Laptop,Transactional,Google,1,2025-10-01 02:11:00
+KW10133,dell alienware for business,Branded,Laptop,Informational,Google,1,2025-10-01 02:12:00
+KW10134,dell poweredge for business,Branded,Server,Navigational,Google,1,2025-10-01 02:13:00
+KW10135,dell optiplex for business,Branded,Desktop,Commercial,Google,1,2025-10-01 02:14:00
+KW10136,dell docking station for business,Branded,Accessories,Transactional,Google,1,2025-10-01 02:15:00
+KW10137,dell wireless mouse for business,Branded,Accessories,Informational,Google,1,2025-10-01 02:16:00
+KW10138,dell wireless keyboard for business,Branded,Accessories,Navigational,Google,1,2025-10-01 02:17:00
+KW10139,dell gaming laptop for business,Branded,Laptop,Commercial,Google,1,2025-10-01 02:18:00
+KW10140,best business laptop for business,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:19:00
+KW10141,best laptop for work for business,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:20:00
+KW10142,best gaming laptop for business,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 02:21:00
+KW10143,business laptop for business,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 02:22:00
+KW10144,lightweight laptop for business,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:23:00
+KW10145,student laptop for business,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:24:00
+KW10146,professional laptop for business,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 02:25:00
+KW10147,4k monitor for business,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 02:26:00
+KW10148,best monitor for work for business,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 02:27:00
+KW10149,usb c monitor for business,Non-Branded,Monitor,Informational,Google,1,2025-10-01 02:28:00
+KW10150,computer monitor for business,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 02:29:00
+KW10151,high performance workstation for business,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 02:30:00
+KW10152,enterprise server for business,Non-Branded,Server,Transactional,Google,1,2025-10-01 02:31:00
+KW10153,rack server for business,Non-Branded,Server,Informational,Google,1,2025-10-01 02:32:00
+KW10154,desktop computer for business,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 02:33:00
+KW10155,office desktop for business,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 02:34:00
+KW10156,thunderbolt dock for business,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 02:35:00
+KW10157,usb c docking station for business,Non-Branded,Accessories,Informational,Google,1,2025-10-01 02:36:00
+KW10158,wireless keyboard for business,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 02:37:00
+KW10159,wireless mouse for business,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 02:38:00
+KW10160,gaming monitor for business,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 02:39:00
+KW10161,ultrawide monitor for business,Non-Branded,Monitor,Informational,Google,1,2025-10-01 02:40:00
+KW10162,laptop for programming for business,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 02:41:00
+KW10163,laptop for engineering for business,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 02:42:00
+KW10164,work from home laptop for business,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:43:00
+KW10165,dell laptop 2026,Branded,Laptop,Informational,Google,1,2025-10-01 02:44:00
+KW10166,dell xps 2026,Branded,Laptop,Navigational,Google,1,2025-10-01 02:45:00
+KW10167,dell xps 13 2026,Branded,Laptop,Commercial,Google,0,2025-10-01 02:46:00
+KW10168,dell xps 15 2026,Branded,Laptop,Transactional,Google,1,2025-10-01 02:47:00
+KW10169,dell inspiron 2026,Branded,Laptop,Informational,Google,1,2025-10-01 02:48:00
+KW10170,dell latitude 2026,Branded,Laptop,Navigational,Google,1,2025-10-01 02:49:00
+KW10171,dell precision 2026,Branded,Laptop,Commercial,Google,1,2025-10-01 02:50:00
+KW10172,dell monitor 2026,Branded,Monitor,Transactional,Google,1,2025-10-01 02:51:00
+KW10173,dell ultrasharp 2026,Branded,Laptop,Informational,Google,1,2025-10-01 02:52:00
+KW10174,dell alienware 2026,Branded,Laptop,Navigational,Google,1,2025-10-01 02:53:00
+KW10175,dell poweredge 2026,Branded,Server,Commercial,Google,1,2025-10-01 02:54:00
+KW10176,dell optiplex 2026,Branded,Desktop,Transactional,Google,1,2025-10-01 02:55:00
+KW10177,dell docking station 2026,Branded,Accessories,Informational,Google,1,2025-10-01 02:56:00
+KW10178,dell wireless mouse 2026,Branded,Accessories,Navigational,Google,1,2025-10-01 02:57:00
+KW10179,dell wireless keyboard 2026,Branded,Accessories,Commercial,Google,1,2025-10-01 02:58:00
+KW10180,dell gaming laptop 2026,Branded,Laptop,Transactional,Google,1,2025-10-01 02:59:00
+KW10181,best business laptop 2026,Non-Branded,Laptop,Informational,Google,1,2025-10-01 03:00:00
+KW10182,best laptop for work 2026,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:01:00
+KW10183,best gaming laptop 2026,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:02:00
+KW10184,business laptop 2026,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 03:03:00
+KW10185,lightweight laptop 2026,Non-Branded,Laptop,Informational,Google,1,2025-10-01 03:04:00
+KW10186,student laptop 2026,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:05:00
+KW10187,professional laptop 2026,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:06:00
+KW10188,4k monitor 2026,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 03:07:00
+KW10189,best monitor for work 2026,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:08:00
+KW10190,usb c monitor 2026,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 03:09:00
+KW10191,computer monitor 2026,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 03:10:00
+KW10192,high performance workstation 2026,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 03:11:00
+KW10193,enterprise server 2026,Non-Branded,Server,Informational,Google,1,2025-10-01 03:12:00
+KW10194,rack server 2026,Non-Branded,Server,Navigational,Google,1,2025-10-01 03:13:00
+KW10195,desktop computer 2026,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 03:14:00
+KW10196,office desktop 2026,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 03:15:00
+KW10197,thunderbolt dock 2026,Non-Branded,Accessories,Informational,Google,1,2025-10-01 03:16:00
+KW10198,usb c docking station 2026,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 03:17:00
+KW10199,wireless keyboard 2026,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 03:18:00
+KW10200,wireless mouse 2026,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 03:19:00
+KW10201,gaming monitor 2026,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:20:00
+KW10202,ultrawide monitor 2026,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 03:21:00
+KW10203,laptop for programming 2026,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:22:00
+KW10204,laptop for engineering 2026,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 03:23:00
+KW10205,work from home laptop 2026,Non-Branded,Laptop,Informational,Google,1,2025-10-01 03:24:00
+KW10206,dell laptop review,Branded,Laptop,Navigational,Google,1,2025-10-01 03:25:00
+KW10207,dell xps review,Branded,Laptop,Commercial,Google,1,2025-10-01 03:26:00
+KW10208,dell xps 13 review,Branded,Laptop,Transactional,Google,1,2025-10-01 03:27:00
+KW10209,dell xps 15 review,Branded,Laptop,Informational,Google,1,2025-10-01 03:28:00
+KW10210,dell inspiron review,Branded,Laptop,Navigational,Google,1,2025-10-01 03:29:00
+KW10211,dell latitude review,Branded,Laptop,Commercial,Google,1,2025-10-01 03:30:00
+KW10212,dell precision review,Branded,Laptop,Transactional,Google,1,2025-10-01 03:31:00
+KW10213,dell monitor review,Branded,Monitor,Informational,Google,1,2025-10-01 03:32:00
+KW10214,dell ultrasharp review,Branded,Laptop,Navigational,Google,1,2025-10-01 03:33:00
+KW10215,dell alienware review,Branded,Laptop,Commercial,Google,1,2025-10-01 03:34:00
+KW10216,dell poweredge review,Branded,Server,Transactional,Google,1,2025-10-01 03:35:00
+KW10217,dell optiplex review,Branded,Desktop,Informational,Google,1,2025-10-01 03:36:00
+KW10218,dell docking station review,Branded,Accessories,Navigational,Google,1,2025-10-01 03:37:00
+KW10219,dell wireless mouse review,Branded,Accessories,Commercial,Google,1,2025-10-01 03:38:00
+KW10220,dell wireless keyboard review,Branded,Accessories,Transactional,Google,1,2025-10-01 03:39:00
+KW10221,dell gaming laptop review,Branded,Laptop,Informational,Google,1,2025-10-01 03:40:00
+KW10222,best business laptop review,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:41:00
+KW10223,best laptop for work review,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:42:00
+KW10224,best gaming laptop review,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 03:43:00
+KW10225,business laptop review,Non-Branded,Laptop,Informational,Google,1,2025-10-01 03:44:00
+KW10226,lightweight laptop review,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:45:00
+KW10227,student laptop review,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:46:00
+KW10228,professional laptop review,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 03:47:00
+KW10229,4k monitor review,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:48:00
+KW10230,best monitor for work review,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 03:49:00
+KW10231,usb c monitor review,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 03:50:00
+KW10232,computer monitor review,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 03:51:00
+KW10233,high performance workstation review,Non-Branded,Workstation,Informational,Google,1,2025-10-01 03:52:00
+KW10234,enterprise server review,Non-Branded,Server,Navigational,Google,1,2025-10-01 03:53:00
+KW10235,rack server review,Non-Branded,Server,Commercial,Google,1,2025-10-01 03:54:00
+KW10236,desktop computer review,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 03:55:00
+KW10237,office desktop review,Non-Branded,Desktop,Informational,Google,1,2025-10-01 03:56:00
+KW10238,thunderbolt dock review,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 03:57:00
+KW10239,usb c docking station review,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 03:58:00
+KW10240,wireless keyboard review,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 03:59:00
+KW10241,wireless mouse review,Non-Branded,Accessories,Informational,Google,1,2025-10-01 04:00:00
+KW10242,gaming monitor review,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 04:01:00
+KW10243,ultrawide monitor review,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 04:02:00
+KW10244,laptop for programming review,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:03:00
+KW10245,laptop for engineering review,Non-Branded,Workstation,Informational,Google,1,2025-10-01 04:04:00
+KW10246,work from home laptop review,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 04:05:00
+KW10247,dell laptop specs,Branded,Laptop,Commercial,Google,1,2025-10-01 04:06:00
+KW10248,dell xps specs,Branded,Laptop,Transactional,Google,1,2025-10-01 04:07:00
+KW10249,dell xps 13 specs,Branded,Laptop,Informational,Google,1,2025-10-01 04:08:00
+KW10250,dell xps 15 specs,Branded,Laptop,Navigational,Google,0,2025-10-01 04:09:00
+KW10251,dell inspiron specs,Branded,Laptop,Commercial,Google,1,2025-10-01 04:10:00
+KW10252,dell latitude specs,Branded,Laptop,Transactional,Google,1,2025-10-01 04:11:00
+KW10253,dell precision specs,Branded,Laptop,Informational,Google,1,2025-10-01 04:12:00
+KW10254,dell monitor specs,Branded,Monitor,Navigational,Google,1,2025-10-01 04:13:00
+KW10255,dell ultrasharp specs,Branded,Laptop,Commercial,Google,1,2025-10-01 04:14:00
+KW10256,dell alienware specs,Branded,Laptop,Transactional,Google,1,2025-10-01 04:15:00
+KW10257,dell poweredge specs,Branded,Server,Informational,Google,1,2025-10-01 04:16:00
+KW10258,dell optiplex specs,Branded,Desktop,Navigational,Google,1,2025-10-01 04:17:00
+KW10259,dell docking station specs,Branded,Accessories,Commercial,Google,1,2025-10-01 04:18:00
+KW10260,dell wireless mouse specs,Branded,Accessories,Transactional,Google,1,2025-10-01 04:19:00
+KW10261,dell wireless keyboard specs,Branded,Accessories,Informational,Google,1,2025-10-01 04:20:00
+KW10262,dell gaming laptop specs,Branded,Laptop,Navigational,Google,1,2025-10-01 04:21:00
+KW10263,best business laptop specs,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 04:22:00
+KW10264,best laptop for work specs,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:23:00
+KW10265,best gaming laptop specs,Non-Branded,Laptop,Informational,Google,1,2025-10-01 04:24:00
+KW10266,business laptop specs,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 04:25:00
+KW10267,lightweight laptop specs,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 04:26:00
+KW10268,student laptop specs,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:27:00
+KW10269,professional laptop specs,Non-Branded,Laptop,Informational,Google,1,2025-10-01 04:28:00
+KW10270,4k monitor specs,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 04:29:00
+KW10271,best monitor for work specs,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 04:30:00
+KW10272,usb c monitor specs,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 04:31:00
+KW10273,computer monitor specs,Non-Branded,Monitor,Informational,Google,1,2025-10-01 04:32:00
+KW10274,high performance workstation specs,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 04:33:00
+KW10275,enterprise server specs,Non-Branded,Server,Commercial,Google,1,2025-10-01 04:34:00
+KW10276,rack server specs,Non-Branded,Server,Transactional,Google,1,2025-10-01 04:35:00
+KW10277,desktop computer specs,Non-Branded,Desktop,Informational,Google,1,2025-10-01 04:36:00
+KW10278,office desktop specs,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 04:37:00
+KW10279,thunderbolt dock specs,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 04:38:00
+KW10280,usb c docking station specs,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 04:39:00
+KW10281,wireless keyboard specs,Non-Branded,Accessories,Informational,Google,1,2025-10-01 04:40:00
+KW10282,wireless mouse specs,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 04:41:00
+KW10283,gaming monitor specs,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 04:42:00
+KW10284,ultrawide monitor specs,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 04:43:00
+KW10285,laptop for programming specs,Non-Branded,Laptop,Informational,Google,1,2025-10-01 04:44:00
+KW10286,laptop for engineering specs,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 04:45:00
+KW10287,work from home laptop specs,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 04:46:00
+KW10288,dell laptop comparison,Branded,Laptop,Transactional,Google,1,2025-10-01 04:47:00
+KW10289,dell xps comparison,Branded,Laptop,Informational,Google,1,2025-10-01 04:48:00
+KW10290,dell xps 13 comparison,Branded,Laptop,Navigational,Google,1,2025-10-01 04:49:00
+KW10291,dell xps 15 comparison,Branded,Laptop,Commercial,Google,1,2025-10-01 04:50:00
+KW10292,dell inspiron comparison,Branded,Laptop,Transactional,Google,1,2025-10-01 04:51:00
+KW10293,dell latitude comparison,Branded,Laptop,Informational,Google,1,2025-10-01 04:52:00
+KW10294,dell precision comparison,Branded,Laptop,Navigational,Google,1,2025-10-01 04:53:00
+KW10295,dell monitor comparison,Branded,Monitor,Commercial,Google,1,2025-10-01 04:54:00
+KW10296,dell ultrasharp comparison,Branded,Laptop,Transactional,Google,1,2025-10-01 04:55:00
+KW10297,dell alienware comparison,Branded,Laptop,Informational,Google,1,2025-10-01 04:56:00
+KW10298,dell poweredge comparison,Branded,Server,Navigational,Google,1,2025-10-01 04:57:00
+KW10299,dell optiplex comparison,Branded,Desktop,Commercial,Google,1,2025-10-01 04:58:00
+KW10300,dell docking station comparison,Branded,Accessories,Transactional,Google,1,2025-10-01 04:59:00
+KW10301,dell wireless mouse comparison,Branded,Accessories,Informational,Google,1,2025-10-01 05:00:00
+KW10302,dell wireless keyboard comparison,Branded,Accessories,Navigational,Google,1,2025-10-01 05:01:00
+KW10303,dell gaming laptop comparison,Branded,Laptop,Commercial,Google,1,2025-10-01 05:02:00
+KW10304,best business laptop comparison,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 05:03:00
+KW10305,best laptop for work comparison,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:04:00
+KW10306,best gaming laptop comparison,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:05:00
+KW10307,business laptop comparison,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 05:06:00
+KW10308,lightweight laptop comparison,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 05:07:00
+KW10309,student laptop comparison,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:08:00
+KW10310,professional laptop comparison,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:09:00
+KW10311,4k monitor comparison,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 05:10:00
+KW10312,best monitor for work comparison,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:11:00
+KW10313,usb c monitor comparison,Non-Branded,Monitor,Informational,Google,1,2025-10-01 05:12:00
+KW10314,computer monitor comparison,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 05:13:00
+KW10315,high performance workstation comparison,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 05:14:00
+KW10316,enterprise server comparison,Non-Branded,Server,Transactional,Google,1,2025-10-01 05:15:00
+KW10317,rack server comparison,Non-Branded,Server,Informational,Google,1,2025-10-01 05:16:00
+KW10318,desktop computer comparison,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 05:17:00
+KW10319,office desktop comparison,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 05:18:00
+KW10320,thunderbolt dock comparison,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 05:19:00
+KW10321,usb c docking station comparison,Non-Branded,Accessories,Informational,Google,1,2025-10-01 05:20:00
+KW10322,wireless keyboard comparison,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 05:21:00
+KW10323,wireless mouse comparison,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 05:22:00
+KW10324,gaming monitor comparison,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:23:00
+KW10325,ultrawide monitor comparison,Non-Branded,Monitor,Informational,Google,1,2025-10-01 05:24:00
+KW10326,laptop for programming comparison,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:25:00
+KW10327,laptop for engineering comparison,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 05:26:00
+KW10328,work from home laptop comparison,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 05:27:00
+KW10329,dell laptop price 8,Branded,Laptop,Informational,Google,1,2025-10-01 05:28:00
+KW10330,dell xps price 8,Branded,Laptop,Navigational,Google,1,2025-10-01 05:29:00
+KW10331,dell xps 13 price 8,Branded,Laptop,Commercial,Google,1,2025-10-01 05:30:00
+KW10332,dell xps 15 price 8,Branded,Laptop,Transactional,Google,1,2025-10-01 05:31:00
+KW10333,dell inspiron price 8,Branded,Laptop,Informational,Google,0,2025-10-01 05:32:00
+KW10334,dell latitude price 8,Branded,Laptop,Navigational,Google,1,2025-10-01 05:33:00
+KW10335,dell precision price 8,Branded,Laptop,Commercial,Google,1,2025-10-01 05:34:00
+KW10336,dell monitor price 8,Branded,Monitor,Transactional,Google,1,2025-10-01 05:35:00
+KW10337,dell ultrasharp price 8,Branded,Laptop,Informational,Google,1,2025-10-01 05:36:00
+KW10338,dell alienware price 8,Branded,Laptop,Navigational,Google,1,2025-10-01 05:37:00
+KW10339,dell poweredge price 8,Branded,Server,Commercial,Google,1,2025-10-01 05:38:00
+KW10340,dell optiplex price 8,Branded,Desktop,Transactional,Google,1,2025-10-01 05:39:00
+KW10341,dell docking station price 8,Branded,Accessories,Informational,Google,1,2025-10-01 05:40:00
+KW10342,dell wireless mouse price 8,Branded,Accessories,Navigational,Google,1,2025-10-01 05:41:00
+KW10343,dell wireless keyboard price 8,Branded,Accessories,Commercial,Google,1,2025-10-01 05:42:00
+KW10344,dell gaming laptop price 8,Branded,Laptop,Transactional,Google,1,2025-10-01 05:43:00
+KW10345,best business laptop price 8,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:44:00
+KW10346,best laptop for work price 8,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:45:00
+KW10347,best gaming laptop price 8,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 05:46:00
+KW10348,business laptop price 8,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 05:47:00
+KW10349,lightweight laptop price 8,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:48:00
+KW10350,student laptop price 8,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:49:00
+KW10351,professional laptop price 8,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 05:50:00
+KW10352,4k monitor price 8,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:51:00
+KW10353,best monitor for work price 8,Non-Branded,Monitor,Informational,Google,1,2025-10-01 05:52:00
+KW10354,usb c monitor price 8,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 05:53:00
+KW10355,computer monitor price 8,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 05:54:00
+KW10356,high performance workstation price 8,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 05:55:00
+KW10357,enterprise server price 8,Non-Branded,Server,Informational,Google,1,2025-10-01 05:56:00
+KW10358,rack server price 8,Non-Branded,Server,Navigational,Google,1,2025-10-01 05:57:00
+KW10359,desktop computer price 8,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 05:58:00
+KW10360,office desktop price 8,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 05:59:00
+KW10361,thunderbolt dock price 8,Non-Branded,Accessories,Informational,Google,1,2025-10-01 06:00:00
+KW10362,usb c docking station price 8,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 06:01:00
+KW10363,wireless keyboard price 8,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 06:02:00
+KW10364,wireless mouse price 8,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 06:03:00
+KW10365,gaming monitor price 8,Non-Branded,Monitor,Informational,Google,1,2025-10-01 06:04:00
+KW10366,ultrawide monitor price 8,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 06:05:00
+KW10367,laptop for programming price 8,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 06:06:00
+KW10368,laptop for engineering price 8,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 06:07:00
+KW10369,work from home laptop price 8,Non-Branded,Laptop,Informational,Google,1,2025-10-01 06:08:00
+KW10370,dell laptop deals 9,Branded,Laptop,Navigational,Google,1,2025-10-01 06:09:00
+KW10371,dell xps deals 9,Branded,Laptop,Commercial,Google,1,2025-10-01 06:10:00
+KW10372,dell xps 13 deals 9,Branded,Laptop,Transactional,Google,1,2025-10-01 06:11:00
+KW10373,dell xps 15 deals 9,Branded,Laptop,Informational,Google,1,2025-10-01 06:12:00
+KW10374,dell inspiron deals 9,Branded,Laptop,Navigational,Google,1,2025-10-01 06:13:00
+KW10375,dell latitude deals 9,Branded,Laptop,Commercial,Google,1,2025-10-01 06:14:00
+KW10376,dell precision deals 9,Branded,Laptop,Transactional,Google,1,2025-10-01 06:15:00
+KW10377,dell monitor deals 9,Branded,Monitor,Informational,Google,1,2025-10-01 06:16:00
+KW10378,dell ultrasharp deals 9,Branded,Laptop,Navigational,Google,1,2025-10-01 06:17:00
+KW10379,dell alienware deals 9,Branded,Laptop,Commercial,Google,1,2025-10-01 06:18:00
+KW10380,dell poweredge deals 9,Branded,Server,Transactional,Google,1,2025-10-01 06:19:00
+KW10381,dell optiplex deals 9,Branded,Desktop,Informational,Google,1,2025-10-01 06:20:00
+KW10382,dell docking station deals 9,Branded,Accessories,Navigational,Google,1,2025-10-01 06:21:00
+KW10383,dell wireless mouse deals 9,Branded,Accessories,Commercial,Google,1,2025-10-01 06:22:00
+KW10384,dell wireless keyboard deals 9,Branded,Accessories,Transactional,Google,1,2025-10-01 06:23:00
+KW10385,dell gaming laptop deals 9,Branded,Laptop,Informational,Google,1,2025-10-01 06:24:00
+KW10386,best business laptop deals 9,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 06:25:00
+KW10387,best laptop for work deals 9,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 06:26:00
+KW10388,best gaming laptop deals 9,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 06:27:00
+KW10389,business laptop deals 9,Non-Branded,Laptop,Informational,Google,1,2025-10-01 06:28:00
+KW10390,lightweight laptop deals 9,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 06:29:00
+KW10391,student laptop deals 9,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 06:30:00
+KW10392,professional laptop deals 9,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 06:31:00
+KW10393,4k monitor deals 9,Non-Branded,Monitor,Informational,Google,1,2025-10-01 06:32:00
+KW10394,best monitor for work deals 9,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 06:33:00
+KW10395,usb c monitor deals 9,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 06:34:00
+KW10396,computer monitor deals 9,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 06:35:00
+KW10397,high performance workstation deals 9,Non-Branded,Workstation,Informational,Google,1,2025-10-01 06:36:00
+KW10398,enterprise server deals 9,Non-Branded,Server,Navigational,Google,1,2025-10-01 06:37:00
+KW10399,rack server deals 9,Non-Branded,Server,Commercial,Google,1,2025-10-01 06:38:00
+KW10400,desktop computer deals 9,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 06:39:00
+KW10401,office desktop deals 9,Non-Branded,Desktop,Informational,Google,1,2025-10-01 06:40:00
+KW10402,thunderbolt dock deals 9,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 06:41:00
+KW10403,usb c docking station deals 9,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 06:42:00
+KW10404,wireless keyboard deals 9,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 06:43:00
+KW10405,wireless mouse deals 9,Non-Branded,Accessories,Informational,Google,1,2025-10-01 06:44:00
+KW10406,gaming monitor deals 9,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 06:45:00
+KW10407,ultrawide monitor deals 9,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 06:46:00
+KW10408,laptop for programming deals 9,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 06:47:00
+KW10409,laptop for engineering deals 9,Non-Branded,Workstation,Informational,Google,1,2025-10-01 06:48:00
+KW10410,work from home laptop deals 9,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 06:49:00
+KW10411,dell laptop online 10,Branded,Laptop,Commercial,Google,1,2025-10-01 06:50:00
+KW10412,dell xps online 10,Branded,Laptop,Transactional,Google,1,2025-10-01 06:51:00
+KW10413,dell xps 13 online 10,Branded,Laptop,Informational,Google,1,2025-10-01 06:52:00
+KW10414,dell xps 15 online 10,Branded,Laptop,Navigational,Google,1,2025-10-01 06:53:00
+KW10415,dell inspiron online 10,Branded,Laptop,Commercial,Google,1,2025-10-01 06:54:00
+KW10416,dell latitude online 10,Branded,Laptop,Transactional,Google,0,2025-10-01 06:55:00
+KW10417,dell precision online 10,Branded,Laptop,Informational,Google,1,2025-10-01 06:56:00
+KW10418,dell monitor online 10,Branded,Monitor,Navigational,Google,1,2025-10-01 06:57:00
+KW10419,dell ultrasharp online 10,Branded,Laptop,Commercial,Google,1,2025-10-01 06:58:00
+KW10420,dell alienware online 10,Branded,Laptop,Transactional,Google,1,2025-10-01 06:59:00
+KW10421,dell poweredge online 10,Branded,Server,Informational,Google,1,2025-10-01 07:00:00
+KW10422,dell optiplex online 10,Branded,Desktop,Navigational,Google,1,2025-10-01 07:01:00
+KW10423,dell docking station online 10,Branded,Accessories,Commercial,Google,1,2025-10-01 07:02:00
+KW10424,dell wireless mouse online 10,Branded,Accessories,Transactional,Google,1,2025-10-01 07:03:00
+KW10425,dell wireless keyboard online 10,Branded,Accessories,Informational,Google,1,2025-10-01 07:04:00
+KW10426,dell gaming laptop online 10,Branded,Laptop,Navigational,Google,1,2025-10-01 07:05:00
+KW10427,best business laptop online 10,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:06:00
+KW10428,best laptop for work online 10,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:07:00
+KW10429,best gaming laptop online 10,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:08:00
+KW10430,business laptop online 10,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:09:00
+KW10431,lightweight laptop online 10,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:10:00
+KW10432,student laptop online 10,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:11:00
+KW10433,professional laptop online 10,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:12:00
+KW10434,4k monitor online 10,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 07:13:00
+KW10435,best monitor for work online 10,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 07:14:00
+KW10436,usb c monitor online 10,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 07:15:00
+KW10437,computer monitor online 10,Non-Branded,Monitor,Informational,Google,1,2025-10-01 07:16:00
+KW10438,high performance workstation online 10,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 07:17:00
+KW10439,enterprise server online 10,Non-Branded,Server,Commercial,Google,1,2025-10-01 07:18:00
+KW10440,rack server online 10,Non-Branded,Server,Transactional,Google,1,2025-10-01 07:19:00
+KW10441,desktop computer online 10,Non-Branded,Desktop,Informational,Google,1,2025-10-01 07:20:00
+KW10442,office desktop online 10,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 07:21:00
+KW10443,thunderbolt dock online 10,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 07:22:00
+KW10444,usb c docking station online 10,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 07:23:00
+KW10445,wireless keyboard online 10,Non-Branded,Accessories,Informational,Google,1,2025-10-01 07:24:00
+KW10446,wireless mouse online 10,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 07:25:00
+KW10447,gaming monitor online 10,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 07:26:00
+KW10448,ultrawide monitor online 10,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 07:27:00
+KW10449,laptop for programming online 10,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:28:00
+KW10450,laptop for engineering online 10,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 07:29:00
+KW10451,work from home laptop online 10,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:30:00
+KW10452,dell laptop for business 11,Branded,Laptop,Transactional,Google,1,2025-10-01 07:31:00
+KW10453,dell xps for business 11,Branded,Laptop,Informational,Google,1,2025-10-01 07:32:00
+KW10454,dell xps 13 for business 11,Branded,Laptop,Navigational,Google,1,2025-10-01 07:33:00
+KW10455,dell xps 15 for business 11,Branded,Laptop,Commercial,Google,1,2025-10-01 07:34:00
+KW10456,dell inspiron for business 11,Branded,Laptop,Transactional,Google,1,2025-10-01 07:35:00
+KW10457,dell latitude for business 11,Branded,Laptop,Informational,Google,1,2025-10-01 07:36:00
+KW10458,dell precision for business 11,Branded,Laptop,Navigational,Google,1,2025-10-01 07:37:00
+KW10459,dell monitor for business 11,Branded,Monitor,Commercial,Google,1,2025-10-01 07:38:00
+KW10460,dell ultrasharp for business 11,Branded,Laptop,Transactional,Google,1,2025-10-01 07:39:00
+KW10461,dell alienware for business 11,Branded,Laptop,Informational,Google,1,2025-10-01 07:40:00
+KW10462,dell poweredge for business 11,Branded,Server,Navigational,Google,1,2025-10-01 07:41:00
+KW10463,dell optiplex for business 11,Branded,Desktop,Commercial,Google,1,2025-10-01 07:42:00
+KW10464,dell docking station for business 11,Branded,Accessories,Transactional,Google,1,2025-10-01 07:43:00
+KW10465,dell wireless mouse for business 11,Branded,Accessories,Informational,Google,1,2025-10-01 07:44:00
+KW10466,dell wireless keyboard for business 11,Branded,Accessories,Navigational,Google,1,2025-10-01 07:45:00
+KW10467,dell gaming laptop for business 11,Branded,Laptop,Commercial,Google,1,2025-10-01 07:46:00
+KW10468,best business laptop for business 11,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:47:00
+KW10469,best laptop for work for business 11,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:48:00
+KW10470,best gaming laptop for business 11,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:49:00
+KW10471,business laptop for business 11,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:50:00
+KW10472,lightweight laptop for business 11,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:51:00
+KW10473,student laptop for business 11,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:52:00
+KW10474,professional laptop for business 11,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:53:00
+KW10475,4k monitor for business 11,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 07:54:00
+KW10476,best monitor for work for business 11,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 07:55:00
+KW10477,usb c monitor for business 11,Non-Branded,Monitor,Informational,Google,1,2025-10-01 07:56:00
+KW10478,computer monitor for business 11,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 07:57:00
+KW10479,high performance workstation for business 11,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 07:58:00
+KW10480,enterprise server for business 11,Non-Branded,Server,Transactional,Google,1,2025-10-01 07:59:00
+KW10481,rack server for business 11,Non-Branded,Server,Informational,Google,1,2025-10-01 08:00:00
+KW10482,desktop computer for business 11,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 08:01:00
+KW10483,office desktop for business 11,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 08:02:00
+KW10484,thunderbolt dock for business 11,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 08:03:00
+KW10485,usb c docking station for business 11,Non-Branded,Accessories,Informational,Google,1,2025-10-01 08:04:00
+KW10486,wireless keyboard for business 11,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 08:05:00
+KW10487,wireless mouse for business 11,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 08:06:00
+KW10488,gaming monitor for business 11,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 08:07:00
+KW10489,ultrawide monitor for business 11,Non-Branded,Monitor,Informational,Google,1,2025-10-01 08:08:00
+KW10490,laptop for programming for business 11,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 08:09:00
+KW10491,laptop for engineering for business 11,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 08:10:00
+KW10492,work from home laptop for business 11,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 08:11:00
+KW10493,dell laptop 2026 12,Branded,Laptop,Informational,Google,1,2025-10-01 08:12:00
+KW10494,dell xps 2026 12,Branded,Laptop,Navigational,Google,1,2025-10-01 08:13:00
+KW10495,dell xps 13 2026 12,Branded,Laptop,Commercial,Google,1,2025-10-01 08:14:00
+KW10496,dell xps 15 2026 12,Branded,Laptop,Transactional,Google,1,2025-10-01 08:15:00
+KW10497,dell inspiron 2026 12,Branded,Laptop,Informational,Google,1,2025-10-01 08:16:00
+KW10498,dell latitude 2026 12,Branded,Laptop,Navigational,Google,1,2025-10-01 08:17:00
+KW10499,dell precision 2026 12,Branded,Laptop,Commercial,Google,0,2025-10-01 08:18:00
+KW10500,dell monitor 2026 12,Branded,Monitor,Transactional,Google,1,2025-10-01 08:19:00
+KW10501,dell ultrasharp 2026 12,Branded,Laptop,Informational,Google,1,2025-10-01 08:20:00
+KW10502,dell alienware 2026 12,Branded,Laptop,Navigational,Google,1,2025-10-01 08:21:00
+KW10503,dell poweredge 2026 12,Branded,Server,Commercial,Google,1,2025-10-01 08:22:00
+KW10504,dell optiplex 2026 12,Branded,Desktop,Transactional,Google,1,2025-10-01 08:23:00
+KW10505,dell docking station 2026 12,Branded,Accessories,Informational,Google,1,2025-10-01 08:24:00
+KW10506,dell wireless mouse 2026 12,Branded,Accessories,Navigational,Google,1,2025-10-01 08:25:00
+KW10507,dell wireless keyboard 2026 12,Branded,Accessories,Commercial,Google,1,2025-10-01 08:26:00
+KW10508,dell gaming laptop 2026 12,Branded,Laptop,Transactional,Google,1,2025-10-01 08:27:00
+KW10509,best business laptop 2026 12,Non-Branded,Laptop,Informational,Google,1,2025-10-01 08:28:00
+KW10510,best laptop for work 2026 12,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 08:29:00
+KW10511,best gaming laptop 2026 12,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 08:30:00
+KW10512,business laptop 2026 12,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 08:31:00
+KW10513,lightweight laptop 2026 12,Non-Branded,Laptop,Informational,Google,1,2025-10-01 08:32:00
+KW10514,student laptop 2026 12,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 08:33:00
+KW10515,professional laptop 2026 12,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 08:34:00
+KW10516,4k monitor 2026 12,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 08:35:00
+KW10517,best monitor for work 2026 12,Non-Branded,Monitor,Informational,Google,1,2025-10-01 08:36:00
+KW10518,usb c monitor 2026 12,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 08:37:00
+KW10519,computer monitor 2026 12,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 08:38:00
+KW10520,high performance workstation 2026 12,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 08:39:00
+KW10521,enterprise server 2026 12,Non-Branded,Server,Informational,Google,1,2025-10-01 08:40:00
+KW10522,rack server 2026 12,Non-Branded,Server,Navigational,Google,1,2025-10-01 08:41:00
+KW10523,desktop computer 2026 12,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 08:42:00
+KW10524,office desktop 2026 12,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 08:43:00
+KW10525,thunderbolt dock 2026 12,Non-Branded,Accessories,Informational,Google,1,2025-10-01 08:44:00
+KW10526,usb c docking station 2026 12,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 08:45:00
+KW10527,wireless keyboard 2026 12,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 08:46:00
+KW10528,wireless mouse 2026 12,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 08:47:00
+KW10529,gaming monitor 2026 12,Non-Branded,Monitor,Informational,Google,1,2025-10-01 08:48:00
+KW10530,ultrawide monitor 2026 12,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 08:49:00
+KW10531,laptop for programming 2026 12,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 08:50:00
+KW10532,laptop for engineering 2026 12,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 08:51:00
+KW10533,work from home laptop 2026 12,Non-Branded,Laptop,Informational,Google,1,2025-10-01 08:52:00
+KW10534,dell laptop review 13,Branded,Laptop,Navigational,Google,1,2025-10-01 08:53:00
+KW10535,dell xps review 13,Branded,Laptop,Commercial,Google,1,2025-10-01 08:54:00
+KW10536,dell xps 13 review 13,Branded,Laptop,Transactional,Google,1,2025-10-01 08:55:00
+KW10537,dell xps 15 review 13,Branded,Laptop,Informational,Google,1,2025-10-01 08:56:00
+KW10538,dell inspiron review 13,Branded,Laptop,Navigational,Google,1,2025-10-01 08:57:00
+KW10539,dell latitude review 13,Branded,Laptop,Commercial,Google,1,2025-10-01 08:58:00
+KW10540,dell precision review 13,Branded,Laptop,Transactional,Google,1,2025-10-01 08:59:00
+KW10541,dell monitor review 13,Branded,Monitor,Informational,Google,1,2025-10-01 09:00:00
+KW10542,dell ultrasharp review 13,Branded,Laptop,Navigational,Google,1,2025-10-01 09:01:00
+KW10543,dell alienware review 13,Branded,Laptop,Commercial,Google,1,2025-10-01 09:02:00
+KW10544,dell poweredge review 13,Branded,Server,Transactional,Google,1,2025-10-01 09:03:00
+KW10545,dell optiplex review 13,Branded,Desktop,Informational,Google,1,2025-10-01 09:04:00
+KW10546,dell docking station review 13,Branded,Accessories,Navigational,Google,1,2025-10-01 09:05:00
+KW10547,dell wireless mouse review 13,Branded,Accessories,Commercial,Google,1,2025-10-01 09:06:00
+KW10548,dell wireless keyboard review 13,Branded,Accessories,Transactional,Google,1,2025-10-01 09:07:00
+KW10549,dell gaming laptop review 13,Branded,Laptop,Informational,Google,1,2025-10-01 09:08:00
+KW10550,best business laptop review 13,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 09:09:00
+KW10551,best laptop for work review 13,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 09:10:00
+KW10552,best gaming laptop review 13,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 09:11:00
+KW10553,business laptop review 13,Non-Branded,Laptop,Informational,Google,1,2025-10-01 09:12:00
+KW10554,lightweight laptop review 13,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 09:13:00
+KW10555,student laptop review 13,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 09:14:00
+KW10556,professional laptop review 13,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 09:15:00
+KW10557,4k monitor review 13,Non-Branded,Monitor,Informational,Google,1,2025-10-01 09:16:00
+KW10558,best monitor for work review 13,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 09:17:00
+KW10559,usb c monitor review 13,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 09:18:00
+KW10560,computer monitor review 13,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 09:19:00
+KW10561,high performance workstation review 13,Non-Branded,Workstation,Informational,Google,1,2025-10-01 09:20:00
+KW10562,enterprise server review 13,Non-Branded,Server,Navigational,Google,1,2025-10-01 09:21:00
+KW10563,rack server review 13,Non-Branded,Server,Commercial,Google,1,2025-10-01 09:22:00
+KW10564,desktop computer review 13,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 09:23:00
+KW10565,office desktop review 13,Non-Branded,Desktop,Informational,Google,1,2025-10-01 09:24:00
+KW10566,thunderbolt dock review 13,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 09:25:00
+KW10567,usb c docking station review 13,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 09:26:00
+KW10568,wireless keyboard review 13,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 09:27:00
+KW10569,wireless mouse review 13,Non-Branded,Accessories,Informational,Google,1,2025-10-01 09:28:00
+KW10570,gaming monitor review 13,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 09:29:00
+KW10571,ultrawide monitor review 13,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 09:30:00
+KW10572,laptop for programming review 13,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 09:31:00
+KW10573,laptop for engineering review 13,Non-Branded,Workstation,Informational,Google,1,2025-10-01 09:32:00
+KW10574,work from home laptop review 13,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 09:33:00
+KW10575,dell laptop specs 14,Branded,Laptop,Commercial,Google,1,2025-10-01 09:34:00
+KW10576,dell xps specs 14,Branded,Laptop,Transactional,Google,1,2025-10-01 09:35:00
+KW10577,dell xps 13 specs 14,Branded,Laptop,Informational,Google,1,2025-10-01 09:36:00
+KW10578,dell xps 15 specs 14,Branded,Laptop,Navigational,Google,1,2025-10-01 09:37:00
+KW10579,dell inspiron specs 14,Branded,Laptop,Commercial,Google,1,2025-10-01 09:38:00
+KW10580,dell latitude specs 14,Branded,Laptop,Transactional,Google,1,2025-10-01 09:39:00
+KW10581,dell precision specs 14,Branded,Laptop,Informational,Google,1,2025-10-01 09:40:00
+KW10582,dell monitor specs 14,Branded,Monitor,Navigational,Google,0,2025-10-01 09:41:00
+KW10583,dell ultrasharp specs 14,Branded,Laptop,Commercial,Google,1,2025-10-01 09:42:00
+KW10584,dell alienware specs 14,Branded,Laptop,Transactional,Google,1,2025-10-01 09:43:00
+KW10585,dell poweredge specs 14,Branded,Server,Informational,Google,1,2025-10-01 09:44:00
+KW10586,dell optiplex specs 14,Branded,Desktop,Navigational,Google,1,2025-10-01 09:45:00
+KW10587,dell docking station specs 14,Branded,Accessories,Commercial,Google,1,2025-10-01 09:46:00
+KW10588,dell wireless mouse specs 14,Branded,Accessories,Transactional,Google,1,2025-10-01 09:47:00
+KW10589,dell wireless keyboard specs 14,Branded,Accessories,Informational,Google,1,2025-10-01 09:48:00
+KW10590,dell gaming laptop specs 14,Branded,Laptop,Navigational,Google,1,2025-10-01 09:49:00
+KW10591,best business laptop specs 14,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 09:50:00
+KW10592,best laptop for work specs 14,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 09:51:00
+KW10593,best gaming laptop specs 14,Non-Branded,Laptop,Informational,Google,1,2025-10-01 09:52:00
+KW10594,business laptop specs 14,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 09:53:00
+KW10595,lightweight laptop specs 14,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 09:54:00
+KW10596,student laptop specs 14,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 09:55:00
+KW10597,professional laptop specs 14,Non-Branded,Laptop,Informational,Google,1,2025-10-01 09:56:00
+KW10598,4k monitor specs 14,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 09:57:00
+KW10599,best monitor for work specs 14,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 09:58:00
+KW10600,usb c monitor specs 14,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 09:59:00
+KW10601,computer monitor specs 14,Non-Branded,Monitor,Informational,Google,1,2025-10-01 10:00:00
+KW10602,high performance workstation specs 14,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 10:01:00
+KW10603,enterprise server specs 14,Non-Branded,Server,Commercial,Google,1,2025-10-01 10:02:00
+KW10604,rack server specs 14,Non-Branded,Server,Transactional,Google,1,2025-10-01 10:03:00
+KW10605,desktop computer specs 14,Non-Branded,Desktop,Informational,Google,1,2025-10-01 10:04:00
+KW10606,office desktop specs 14,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 10:05:00
+KW10607,thunderbolt dock specs 14,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 10:06:00
+KW10608,usb c docking station specs 14,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 10:07:00
+KW10609,wireless keyboard specs 14,Non-Branded,Accessories,Informational,Google,1,2025-10-01 10:08:00
+KW10610,wireless mouse specs 14,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 10:09:00
+KW10611,gaming monitor specs 14,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 10:10:00
+KW10612,ultrawide monitor specs 14,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 10:11:00
+KW10613,laptop for programming specs 14,Non-Branded,Laptop,Informational,Google,1,2025-10-01 10:12:00
+KW10614,laptop for engineering specs 14,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 10:13:00
+KW10615,work from home laptop specs 14,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 10:14:00
+KW10616,dell laptop comparison 15,Branded,Laptop,Transactional,Google,1,2025-10-01 10:15:00
+KW10617,dell xps comparison 15,Branded,Laptop,Informational,Google,1,2025-10-01 10:16:00
+KW10618,dell xps 13 comparison 15,Branded,Laptop,Navigational,Google,1,2025-10-01 10:17:00
+KW10619,dell xps 15 comparison 15,Branded,Laptop,Commercial,Google,1,2025-10-01 10:18:00
+KW10620,dell inspiron comparison 15,Branded,Laptop,Transactional,Google,1,2025-10-01 10:19:00
+KW10621,dell latitude comparison 15,Branded,Laptop,Informational,Google,1,2025-10-01 10:20:00
+KW10622,dell precision comparison 15,Branded,Laptop,Navigational,Google,1,2025-10-01 10:21:00
+KW10623,dell monitor comparison 15,Branded,Monitor,Commercial,Google,1,2025-10-01 10:22:00
+KW10624,dell ultrasharp comparison 15,Branded,Laptop,Transactional,Google,1,2025-10-01 10:23:00
+KW10625,dell alienware comparison 15,Branded,Laptop,Informational,Google,1,2025-10-01 10:24:00
+KW10626,dell poweredge comparison 15,Branded,Server,Navigational,Google,1,2025-10-01 10:25:00
+KW10627,dell optiplex comparison 15,Branded,Desktop,Commercial,Google,1,2025-10-01 10:26:00
+KW10628,dell docking station comparison 15,Branded,Accessories,Transactional,Google,1,2025-10-01 10:27:00
+KW10629,dell wireless mouse comparison 15,Branded,Accessories,Informational,Google,1,2025-10-01 10:28:00
+KW10630,dell wireless keyboard comparison 15,Branded,Accessories,Navigational,Google,1,2025-10-01 10:29:00
+KW10631,dell gaming laptop comparison 15,Branded,Laptop,Commercial,Google,1,2025-10-01 10:30:00
+KW10632,best business laptop comparison 15,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 10:31:00
+KW10633,best laptop for work comparison 15,Non-Branded,Laptop,Informational,Google,1,2025-10-01 10:32:00
+KW10634,best gaming laptop comparison 15,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 10:33:00
+KW10635,business laptop comparison 15,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 10:34:00
+KW10636,lightweight laptop comparison 15,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 10:35:00
+KW10637,student laptop comparison 15,Non-Branded,Laptop,Informational,Google,1,2025-10-01 10:36:00
+KW10638,professional laptop comparison 15,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 10:37:00
+KW10639,4k monitor comparison 15,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 10:38:00
+KW10640,best monitor for work comparison 15,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 10:39:00
+KW10641,usb c monitor comparison 15,Non-Branded,Monitor,Informational,Google,1,2025-10-01 10:40:00
+KW10642,computer monitor comparison 15,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 10:41:00
+KW10643,high performance workstation comparison 15,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 10:42:00
+KW10644,enterprise server comparison 15,Non-Branded,Server,Transactional,Google,1,2025-10-01 10:43:00
+KW10645,rack server comparison 15,Non-Branded,Server,Informational,Google,1,2025-10-01 10:44:00
+KW10646,desktop computer comparison 15,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 10:45:00
+KW10647,office desktop comparison 15,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 10:46:00
+KW10648,thunderbolt dock comparison 15,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 10:47:00
+KW10649,usb c docking station comparison 15,Non-Branded,Accessories,Informational,Google,1,2025-10-01 10:48:00
+KW10650,wireless keyboard comparison 15,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 10:49:00
+KW10651,wireless mouse comparison 15,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 10:50:00
+KW10652,gaming monitor comparison 15,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 10:51:00
+KW10653,ultrawide monitor comparison 15,Non-Branded,Monitor,Informational,Google,1,2025-10-01 10:52:00
+KW10654,laptop for programming comparison 15,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 10:53:00
+KW10655,laptop for engineering comparison 15,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 10:54:00
+KW10656,work from home laptop comparison 15,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 10:55:00
+KW10657,dell laptop price 16,Branded,Laptop,Informational,Google,1,2025-10-01 10:56:00
+KW10658,dell xps price 16,Branded,Laptop,Navigational,Google,1,2025-10-01 10:57:00
+KW10659,dell xps 13 price 16,Branded,Laptop,Commercial,Google,1,2025-10-01 10:58:00
+KW10660,dell xps 15 price 16,Branded,Laptop,Transactional,Google,1,2025-10-01 10:59:00
+KW10661,dell inspiron price 16,Branded,Laptop,Informational,Google,1,2025-10-01 11:00:00
+KW10662,dell latitude price 16,Branded,Laptop,Navigational,Google,1,2025-10-01 11:01:00
+KW10663,dell precision price 16,Branded,Laptop,Commercial,Google,1,2025-10-01 11:02:00
+KW10664,dell monitor price 16,Branded,Monitor,Transactional,Google,1,2025-10-01 11:03:00
+KW10665,dell ultrasharp price 16,Branded,Laptop,Informational,Google,0,2025-10-01 11:04:00
+KW10666,dell alienware price 16,Branded,Laptop,Navigational,Google,1,2025-10-01 11:05:00
+KW10667,dell poweredge price 16,Branded,Server,Commercial,Google,1,2025-10-01 11:06:00
+KW10668,dell optiplex price 16,Branded,Desktop,Transactional,Google,1,2025-10-01 11:07:00
+KW10669,dell docking station price 16,Branded,Accessories,Informational,Google,1,2025-10-01 11:08:00
+KW10670,dell wireless mouse price 16,Branded,Accessories,Navigational,Google,1,2025-10-01 11:09:00
+KW10671,dell wireless keyboard price 16,Branded,Accessories,Commercial,Google,1,2025-10-01 11:10:00
+KW10672,dell gaming laptop price 16,Branded,Laptop,Transactional,Google,1,2025-10-01 11:11:00
+KW10673,best business laptop price 16,Non-Branded,Laptop,Informational,Google,1,2025-10-01 11:12:00
+KW10674,best laptop for work price 16,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 11:13:00
+KW10675,best gaming laptop price 16,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 11:14:00
+KW10676,business laptop price 16,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 11:15:00
+KW10677,lightweight laptop price 16,Non-Branded,Laptop,Informational,Google,1,2025-10-01 11:16:00
+KW10678,student laptop price 16,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 11:17:00
+KW10679,professional laptop price 16,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 11:18:00
+KW10680,4k monitor price 16,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 11:19:00
+KW10681,best monitor for work price 16,Non-Branded,Monitor,Informational,Google,1,2025-10-01 11:20:00
+KW10682,usb c monitor price 16,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 11:21:00
+KW10683,computer monitor price 16,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 11:22:00
+KW10684,high performance workstation price 16,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 11:23:00
+KW10685,enterprise server price 16,Non-Branded,Server,Informational,Google,1,2025-10-01 11:24:00
+KW10686,rack server price 16,Non-Branded,Server,Navigational,Google,1,2025-10-01 11:25:00
+KW10687,desktop computer price 16,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 11:26:00
+KW10688,office desktop price 16,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 11:27:00
+KW10689,thunderbolt dock price 16,Non-Branded,Accessories,Informational,Google,1,2025-10-01 11:28:00
+KW10690,usb c docking station price 16,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 11:29:00
+KW10691,wireless keyboard price 16,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 11:30:00
+KW10692,wireless mouse price 16,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 11:31:00
+KW10693,gaming monitor price 16,Non-Branded,Monitor,Informational,Google,1,2025-10-01 11:32:00
+KW10694,ultrawide monitor price 16,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 11:33:00
+KW10695,laptop for programming price 16,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 11:34:00
+KW10696,laptop for engineering price 16,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 11:35:00
+KW10697,work from home laptop price 16,Non-Branded,Laptop,Informational,Google,1,2025-10-01 11:36:00
+KW10698,dell laptop deals 17,Branded,Laptop,Navigational,Google,1,2025-10-01 11:37:00
+KW10699,dell xps deals 17,Branded,Laptop,Commercial,Google,1,2025-10-01 11:38:00
+KW10700,dell xps 13 deals 17,Branded,Laptop,Transactional,Google,1,2025-10-01 11:39:00
+KW10701,dell xps 15 deals 17,Branded,Laptop,Informational,Google,1,2025-10-01 11:40:00
+KW10702,dell inspiron deals 17,Branded,Laptop,Navigational,Google,1,2025-10-01 11:41:00
+KW10703,dell latitude deals 17,Branded,Laptop,Commercial,Google,1,2025-10-01 11:42:00
+KW10704,dell precision deals 17,Branded,Laptop,Transactional,Google,1,2025-10-01 11:43:00
+KW10705,dell monitor deals 17,Branded,Monitor,Informational,Google,1,2025-10-01 11:44:00
+KW10706,dell ultrasharp deals 17,Branded,Laptop,Navigational,Google,1,2025-10-01 11:45:00
+KW10707,dell alienware deals 17,Branded,Laptop,Commercial,Google,1,2025-10-01 11:46:00
+KW10708,dell poweredge deals 17,Branded,Server,Transactional,Google,1,2025-10-01 11:47:00
+KW10709,dell optiplex deals 17,Branded,Desktop,Informational,Google,1,2025-10-01 11:48:00
+KW10710,dell docking station deals 17,Branded,Accessories,Navigational,Google,1,2025-10-01 11:49:00
+KW10711,dell wireless mouse deals 17,Branded,Accessories,Commercial,Google,1,2025-10-01 11:50:00
+KW10712,dell wireless keyboard deals 17,Branded,Accessories,Transactional,Google,1,2025-10-01 11:51:00
+KW10713,dell gaming laptop deals 17,Branded,Laptop,Informational,Google,1,2025-10-01 11:52:00
+KW10714,best business laptop deals 17,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 11:53:00
+KW10715,best laptop for work deals 17,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 11:54:00
+KW10716,best gaming laptop deals 17,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 11:55:00
+KW10717,business laptop deals 17,Non-Branded,Laptop,Informational,Google,1,2025-10-01 11:56:00
+KW10718,lightweight laptop deals 17,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 11:57:00
+KW10719,student laptop deals 17,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 11:58:00
+KW10720,professional laptop deals 17,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 11:59:00
+KW10721,4k monitor deals 17,Non-Branded,Monitor,Informational,Google,1,2025-10-01 12:00:00
+KW10722,best monitor for work deals 17,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 12:01:00
+KW10723,usb c monitor deals 17,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 12:02:00
+KW10724,computer monitor deals 17,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 12:03:00
+KW10725,high performance workstation deals 17,Non-Branded,Workstation,Informational,Google,1,2025-10-01 12:04:00
+KW10726,enterprise server deals 17,Non-Branded,Server,Navigational,Google,1,2025-10-01 12:05:00
+KW10727,rack server deals 17,Non-Branded,Server,Commercial,Google,1,2025-10-01 12:06:00
+KW10728,desktop computer deals 17,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 12:07:00
+KW10729,office desktop deals 17,Non-Branded,Desktop,Informational,Google,1,2025-10-01 12:08:00
+KW10730,thunderbolt dock deals 17,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 12:09:00
+KW10731,usb c docking station deals 17,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 12:10:00
+KW10732,wireless keyboard deals 17,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 12:11:00
+KW10733,wireless mouse deals 17,Non-Branded,Accessories,Informational,Google,1,2025-10-01 12:12:00
+KW10734,gaming monitor deals 17,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 12:13:00
+KW10735,ultrawide monitor deals 17,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 12:14:00
+KW10736,laptop for programming deals 17,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 12:15:00
+KW10737,laptop for engineering deals 17,Non-Branded,Workstation,Informational,Google,1,2025-10-01 12:16:00
+KW10738,work from home laptop deals 17,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 12:17:00
+KW10739,dell laptop online 18,Branded,Laptop,Commercial,Google,1,2025-10-01 12:18:00
+KW10740,dell xps online 18,Branded,Laptop,Transactional,Google,1,2025-10-01 12:19:00
+KW10741,dell xps 13 online 18,Branded,Laptop,Informational,Google,1,2025-10-01 12:20:00
+KW10742,dell xps 15 online 18,Branded,Laptop,Navigational,Google,1,2025-10-01 12:21:00
+KW10743,dell inspiron online 18,Branded,Laptop,Commercial,Google,1,2025-10-01 12:22:00
+KW10744,dell latitude online 18,Branded,Laptop,Transactional,Google,1,2025-10-01 12:23:00
+KW10745,dell precision online 18,Branded,Laptop,Informational,Google,1,2025-10-01 12:24:00
+KW10746,dell monitor online 18,Branded,Monitor,Navigational,Google,1,2025-10-01 12:25:00
+KW10747,dell ultrasharp online 18,Branded,Laptop,Commercial,Google,1,2025-10-01 12:26:00
+KW10748,dell alienware online 18,Branded,Laptop,Transactional,Google,0,2025-10-01 12:27:00
+KW10749,dell poweredge online 18,Branded,Server,Informational,Google,1,2025-10-01 12:28:00
+KW10750,dell optiplex online 18,Branded,Desktop,Navigational,Google,1,2025-10-01 12:29:00
+KW10751,dell docking station online 18,Branded,Accessories,Commercial,Google,1,2025-10-01 12:30:00
+KW10752,dell wireless mouse online 18,Branded,Accessories,Transactional,Google,1,2025-10-01 12:31:00
+KW10753,dell wireless keyboard online 18,Branded,Accessories,Informational,Google,1,2025-10-01 12:32:00
+KW10754,dell gaming laptop online 18,Branded,Laptop,Navigational,Google,1,2025-10-01 12:33:00
+KW10755,best business laptop online 18,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 12:34:00
+KW10756,best laptop for work online 18,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 12:35:00
+KW10757,best gaming laptop online 18,Non-Branded,Laptop,Informational,Google,1,2025-10-01 12:36:00
+KW10758,business laptop online 18,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 12:37:00
+KW10759,lightweight laptop online 18,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 12:38:00
+KW10760,student laptop online 18,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 12:39:00
+KW10761,professional laptop online 18,Non-Branded,Laptop,Informational,Google,1,2025-10-01 12:40:00
+KW10762,4k monitor online 18,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 12:41:00
+KW10763,best monitor for work online 18,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 12:42:00
+KW10764,usb c monitor online 18,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 12:43:00
+KW10765,computer monitor online 18,Non-Branded,Monitor,Informational,Google,1,2025-10-01 12:44:00
+KW10766,high performance workstation online 18,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 12:45:00
+KW10767,enterprise server online 18,Non-Branded,Server,Commercial,Google,1,2025-10-01 12:46:00
+KW10768,rack server online 18,Non-Branded,Server,Transactional,Google,1,2025-10-01 12:47:00
+KW10769,desktop computer online 18,Non-Branded,Desktop,Informational,Google,1,2025-10-01 12:48:00
+KW10770,office desktop online 18,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 12:49:00
+KW10771,thunderbolt dock online 18,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 12:50:00
+KW10772,usb c docking station online 18,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 12:51:00
+KW10773,wireless keyboard online 18,Non-Branded,Accessories,Informational,Google,1,2025-10-01 12:52:00
+KW10774,wireless mouse online 18,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 12:53:00
+KW10775,gaming monitor online 18,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 12:54:00
+KW10776,ultrawide monitor online 18,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 12:55:00
+KW10777,laptop for programming online 18,Non-Branded,Laptop,Informational,Google,1,2025-10-01 12:56:00
+KW10778,laptop for engineering online 18,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 12:57:00
+KW10779,work from home laptop online 18,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 12:58:00
+KW10780,dell laptop for business 19,Branded,Laptop,Transactional,Google,1,2025-10-01 12:59:00
+KW10781,dell xps for business 19,Branded,Laptop,Informational,Google,1,2025-10-01 13:00:00
+KW10782,dell xps 13 for business 19,Branded,Laptop,Navigational,Google,1,2025-10-01 13:01:00
+KW10783,dell xps 15 for business 19,Branded,Laptop,Commercial,Google,1,2025-10-01 13:02:00
+KW10784,dell inspiron for business 19,Branded,Laptop,Transactional,Google,1,2025-10-01 13:03:00
+KW10785,dell latitude for business 19,Branded,Laptop,Informational,Google,1,2025-10-01 13:04:00
+KW10786,dell precision for business 19,Branded,Laptop,Navigational,Google,1,2025-10-01 13:05:00
+KW10787,dell monitor for business 19,Branded,Monitor,Commercial,Google,1,2025-10-01 13:06:00
+KW10788,dell ultrasharp for business 19,Branded,Laptop,Transactional,Google,1,2025-10-01 13:07:00
+KW10789,dell alienware for business 19,Branded,Laptop,Informational,Google,1,2025-10-01 13:08:00
+KW10790,dell poweredge for business 19,Branded,Server,Navigational,Google,1,2025-10-01 13:09:00
+KW10791,dell optiplex for business 19,Branded,Desktop,Commercial,Google,1,2025-10-01 13:10:00
+KW10792,dell docking station for business 19,Branded,Accessories,Transactional,Google,1,2025-10-01 13:11:00
+KW10793,dell wireless mouse for business 19,Branded,Accessories,Informational,Google,1,2025-10-01 13:12:00
+KW10794,dell wireless keyboard for business 19,Branded,Accessories,Navigational,Google,1,2025-10-01 13:13:00
+KW10795,dell gaming laptop for business 19,Branded,Laptop,Commercial,Google,1,2025-10-01 13:14:00
+KW10796,best business laptop for business 19,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 13:15:00
+KW10797,best laptop for work for business 19,Non-Branded,Laptop,Informational,Google,1,2025-10-01 13:16:00
+KW10798,best gaming laptop for business 19,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 13:17:00
+KW10799,business laptop for business 19,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 13:18:00
+KW10800,lightweight laptop for business 19,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 13:19:00
+KW10801,student laptop for business 19,Non-Branded,Laptop,Informational,Google,1,2025-10-01 13:20:00
+KW10802,professional laptop for business 19,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 13:21:00
+KW10803,4k monitor for business 19,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 13:22:00
+KW10804,best monitor for work for business 19,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 13:23:00
+KW10805,usb c monitor for business 19,Non-Branded,Monitor,Informational,Google,1,2025-10-01 13:24:00
+KW10806,computer monitor for business 19,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 13:25:00
+KW10807,high performance workstation for business 19,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 13:26:00
+KW10808,enterprise server for business 19,Non-Branded,Server,Transactional,Google,1,2025-10-01 13:27:00
+KW10809,rack server for business 19,Non-Branded,Server,Informational,Google,1,2025-10-01 13:28:00
+KW10810,desktop computer for business 19,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 13:29:00
+KW10811,office desktop for business 19,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 13:30:00
+KW10812,thunderbolt dock for business 19,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 13:31:00
+KW10813,usb c docking station for business 19,Non-Branded,Accessories,Informational,Google,1,2025-10-01 13:32:00
+KW10814,wireless keyboard for business 19,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 13:33:00
+KW10815,wireless mouse for business 19,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 13:34:00
+KW10816,gaming monitor for business 19,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 13:35:00
+KW10817,ultrawide monitor for business 19,Non-Branded,Monitor,Informational,Google,1,2025-10-01 13:36:00
+KW10818,laptop for programming for business 19,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 13:37:00
+KW10819,laptop for engineering for business 19,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 13:38:00
+KW10820,work from home laptop for business 19,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 13:39:00
+KW10821,dell laptop 2026 20,Branded,Laptop,Informational,Google,1,2025-10-01 13:40:00
+KW10822,dell xps 2026 20,Branded,Laptop,Navigational,Google,1,2025-10-01 13:41:00
+KW10823,dell xps 13 2026 20,Branded,Laptop,Commercial,Google,1,2025-10-01 13:42:00
+KW10824,dell xps 15 2026 20,Branded,Laptop,Transactional,Google,1,2025-10-01 13:43:00
+KW10825,dell inspiron 2026 20,Branded,Laptop,Informational,Google,1,2025-10-01 13:44:00
+KW10826,dell latitude 2026 20,Branded,Laptop,Navigational,Google,1,2025-10-01 13:45:00
+KW10827,dell precision 2026 20,Branded,Laptop,Commercial,Google,1,2025-10-01 13:46:00
+KW10828,dell monitor 2026 20,Branded,Monitor,Transactional,Google,1,2025-10-01 13:47:00
+KW10829,dell ultrasharp 2026 20,Branded,Laptop,Informational,Google,1,2025-10-01 13:48:00
+KW10830,dell alienware 2026 20,Branded,Laptop,Navigational,Google,1,2025-10-01 13:49:00
+KW10831,dell poweredge 2026 20,Branded,Server,Commercial,Google,0,2025-10-01 13:50:00
+KW10832,dell optiplex 2026 20,Branded,Desktop,Transactional,Google,1,2025-10-01 13:51:00
+KW10833,dell docking station 2026 20,Branded,Accessories,Informational,Google,1,2025-10-01 13:52:00
+KW10834,dell wireless mouse 2026 20,Branded,Accessories,Navigational,Google,1,2025-10-01 13:53:00
+KW10835,dell wireless keyboard 2026 20,Branded,Accessories,Commercial,Google,1,2025-10-01 13:54:00
+KW10836,dell gaming laptop 2026 20,Branded,Laptop,Transactional,Google,1,2025-10-01 13:55:00
+KW10837,best business laptop 2026 20,Non-Branded,Laptop,Informational,Google,1,2025-10-01 13:56:00
+KW10838,best laptop for work 2026 20,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 13:57:00
+KW10839,best gaming laptop 2026 20,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 13:58:00
+KW10840,business laptop 2026 20,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 13:59:00
+KW10841,lightweight laptop 2026 20,Non-Branded,Laptop,Informational,Google,1,2025-10-01 14:00:00
+KW10842,student laptop 2026 20,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 14:01:00
+KW10843,professional laptop 2026 20,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 14:02:00
+KW10844,4k monitor 2026 20,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 14:03:00
+KW10845,best monitor for work 2026 20,Non-Branded,Monitor,Informational,Google,1,2025-10-01 14:04:00
+KW10846,usb c monitor 2026 20,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 14:05:00
+KW10847,computer monitor 2026 20,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 14:06:00
+KW10848,high performance workstation 2026 20,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 14:07:00
+KW10849,enterprise server 2026 20,Non-Branded,Server,Informational,Google,1,2025-10-01 14:08:00
+KW10850,rack server 2026 20,Non-Branded,Server,Navigational,Google,1,2025-10-01 14:09:00
+KW10851,desktop computer 2026 20,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 14:10:00
+KW10852,office desktop 2026 20,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 14:11:00
+KW10853,thunderbolt dock 2026 20,Non-Branded,Accessories,Informational,Google,1,2025-10-01 14:12:00
+KW10854,usb c docking station 2026 20,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 14:13:00
+KW10855,wireless keyboard 2026 20,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 14:14:00
+KW10856,wireless mouse 2026 20,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 14:15:00
+KW10857,gaming monitor 2026 20,Non-Branded,Monitor,Informational,Google,1,2025-10-01 14:16:00
+KW10858,ultrawide monitor 2026 20,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 14:17:00
+KW10859,laptop for programming 2026 20,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 14:18:00
+KW10860,laptop for engineering 2026 20,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 14:19:00
+KW10861,work from home laptop 2026 20,Non-Branded,Laptop,Informational,Google,1,2025-10-01 14:20:00
+KW10862,dell laptop review 21,Branded,Laptop,Navigational,Google,1,2025-10-01 14:21:00
+KW10863,dell xps review 21,Branded,Laptop,Commercial,Google,1,2025-10-01 14:22:00
+KW10864,dell xps 13 review 21,Branded,Laptop,Transactional,Google,1,2025-10-01 14:23:00
+KW10865,dell xps 15 review 21,Branded,Laptop,Informational,Google,1,2025-10-01 14:24:00
+KW10866,dell inspiron review 21,Branded,Laptop,Navigational,Google,1,2025-10-01 14:25:00
+KW10867,dell latitude review 21,Branded,Laptop,Commercial,Google,1,2025-10-01 14:26:00
+KW10868,dell precision review 21,Branded,Laptop,Transactional,Google,1,2025-10-01 14:27:00
+KW10869,dell monitor review 21,Branded,Monitor,Informational,Google,1,2025-10-01 14:28:00
+KW10870,dell ultrasharp review 21,Branded,Laptop,Navigational,Google,1,2025-10-01 14:29:00
+KW10871,dell alienware review 21,Branded,Laptop,Commercial,Google,1,2025-10-01 14:30:00
+KW10872,dell poweredge review 21,Branded,Server,Transactional,Google,1,2025-10-01 14:31:00
+KW10873,dell optiplex review 21,Branded,Desktop,Informational,Google,1,2025-10-01 14:32:00
+KW10874,dell docking station review 21,Branded,Accessories,Navigational,Google,1,2025-10-01 14:33:00
+KW10875,dell wireless mouse review 21,Branded,Accessories,Commercial,Google,1,2025-10-01 14:34:00
+KW10876,dell wireless keyboard review 21,Branded,Accessories,Transactional,Google,1,2025-10-01 14:35:00
+KW10877,dell gaming laptop review 21,Branded,Laptop,Informational,Google,1,2025-10-01 14:36:00
+KW10878,best business laptop review 21,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 14:37:00
+KW10879,best laptop for work review 21,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 14:38:00
+KW10880,best gaming laptop review 21,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 14:39:00
+KW10881,business laptop review 21,Non-Branded,Laptop,Informational,Google,1,2025-10-01 14:40:00
+KW10882,lightweight laptop review 21,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 14:41:00
+KW10883,student laptop review 21,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 14:42:00
+KW10884,professional laptop review 21,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 14:43:00
+KW10885,4k monitor review 21,Non-Branded,Monitor,Informational,Google,1,2025-10-01 14:44:00
+KW10886,best monitor for work review 21,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 14:45:00
+KW10887,usb c monitor review 21,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 14:46:00
+KW10888,computer monitor review 21,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 14:47:00
+KW10889,high performance workstation review 21,Non-Branded,Workstation,Informational,Google,1,2025-10-01 14:48:00
+KW10890,enterprise server review 21,Non-Branded,Server,Navigational,Google,1,2025-10-01 14:49:00
+KW10891,rack server review 21,Non-Branded,Server,Commercial,Google,1,2025-10-01 14:50:00
+KW10892,desktop computer review 21,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 14:51:00
+KW10893,office desktop review 21,Non-Branded,Desktop,Informational,Google,1,2025-10-01 14:52:00
+KW10894,thunderbolt dock review 21,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 14:53:00
+KW10895,usb c docking station review 21,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 14:54:00
+KW10896,wireless keyboard review 21,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 14:55:00
+KW10897,wireless mouse review 21,Non-Branded,Accessories,Informational,Google,1,2025-10-01 14:56:00
+KW10898,gaming monitor review 21,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 14:57:00
+KW10899,ultrawide monitor review 21,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 14:58:00
+KW10900,laptop for programming review 21,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 14:59:00
+KW10901,laptop for engineering review 21,Non-Branded,Workstation,Informational,Google,1,2025-10-01 15:00:00
+KW10902,work from home laptop review 21,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 15:01:00
+KW10903,dell laptop specs 22,Branded,Laptop,Commercial,Google,1,2025-10-01 15:02:00
+KW10904,dell xps specs 22,Branded,Laptop,Transactional,Google,1,2025-10-01 15:03:00
+KW10905,dell xps 13 specs 22,Branded,Laptop,Informational,Google,1,2025-10-01 15:04:00
+KW10906,dell xps 15 specs 22,Branded,Laptop,Navigational,Google,1,2025-10-01 15:05:00
+KW10907,dell inspiron specs 22,Branded,Laptop,Commercial,Google,1,2025-10-01 15:06:00
+KW10908,dell latitude specs 22,Branded,Laptop,Transactional,Google,1,2025-10-01 15:07:00
+KW10909,dell precision specs 22,Branded,Laptop,Informational,Google,1,2025-10-01 15:08:00
+KW10910,dell monitor specs 22,Branded,Monitor,Navigational,Google,1,2025-10-01 15:09:00
+KW10911,dell ultrasharp specs 22,Branded,Laptop,Commercial,Google,1,2025-10-01 15:10:00
+KW10912,dell alienware specs 22,Branded,Laptop,Transactional,Google,1,2025-10-01 15:11:00
+KW10913,dell poweredge specs 22,Branded,Server,Informational,Google,1,2025-10-01 15:12:00
+KW10914,dell optiplex specs 22,Branded,Desktop,Navigational,Google,0,2025-10-01 15:13:00
+KW10915,dell docking station specs 22,Branded,Accessories,Commercial,Google,1,2025-10-01 15:14:00
+KW10916,dell wireless mouse specs 22,Branded,Accessories,Transactional,Google,1,2025-10-01 15:15:00
+KW10917,dell wireless keyboard specs 22,Branded,Accessories,Informational,Google,1,2025-10-01 15:16:00
+KW10918,dell gaming laptop specs 22,Branded,Laptop,Navigational,Google,1,2025-10-01 15:17:00
+KW10919,best business laptop specs 22,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 15:18:00
+KW10920,best laptop for work specs 22,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 15:19:00
+KW10921,best gaming laptop specs 22,Non-Branded,Laptop,Informational,Google,1,2025-10-01 15:20:00
+KW10922,business laptop specs 22,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 15:21:00
+KW10923,lightweight laptop specs 22,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 15:22:00
+KW10924,student laptop specs 22,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 15:23:00
+KW10925,professional laptop specs 22,Non-Branded,Laptop,Informational,Google,1,2025-10-01 15:24:00
+KW10926,4k monitor specs 22,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 15:25:00
+KW10927,best monitor for work specs 22,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 15:26:00
+KW10928,usb c monitor specs 22,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 15:27:00
+KW10929,computer monitor specs 22,Non-Branded,Monitor,Informational,Google,1,2025-10-01 15:28:00
+KW10930,high performance workstation specs 22,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 15:29:00
+KW10931,enterprise server specs 22,Non-Branded,Server,Commercial,Google,1,2025-10-01 15:30:00
+KW10932,rack server specs 22,Non-Branded,Server,Transactional,Google,1,2025-10-01 15:31:00
+KW10933,desktop computer specs 22,Non-Branded,Desktop,Informational,Google,1,2025-10-01 15:32:00
+KW10934,office desktop specs 22,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 15:33:00
+KW10935,thunderbolt dock specs 22,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 15:34:00
+KW10936,usb c docking station specs 22,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 15:35:00
+KW10937,wireless keyboard specs 22,Non-Branded,Accessories,Informational,Google,1,2025-10-01 15:36:00
+KW10938,wireless mouse specs 22,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 15:37:00
+KW10939,gaming monitor specs 22,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 15:38:00
+KW10940,ultrawide monitor specs 22,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 15:39:00
+KW10941,laptop for programming specs 22,Non-Branded,Laptop,Informational,Google,1,2025-10-01 15:40:00
+KW10942,laptop for engineering specs 22,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 15:41:00
+KW10943,work from home laptop specs 22,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 15:42:00
+KW10944,dell laptop comparison 23,Branded,Laptop,Transactional,Google,1,2025-10-01 15:43:00
+KW10945,dell xps comparison 23,Branded,Laptop,Informational,Google,1,2025-10-01 15:44:00
+KW10946,dell xps 13 comparison 23,Branded,Laptop,Navigational,Google,1,2025-10-01 15:45:00
+KW10947,dell xps 15 comparison 23,Branded,Laptop,Commercial,Google,1,2025-10-01 15:46:00
+KW10948,dell inspiron comparison 23,Branded,Laptop,Transactional,Google,1,2025-10-01 15:47:00
+KW10949,dell latitude comparison 23,Branded,Laptop,Informational,Google,1,2025-10-01 15:48:00
+KW10950,dell precision comparison 23,Branded,Laptop,Navigational,Google,1,2025-10-01 15:49:00
+KW10951,dell monitor comparison 23,Branded,Monitor,Commercial,Google,1,2025-10-01 15:50:00
+KW10952,dell ultrasharp comparison 23,Branded,Laptop,Transactional,Google,1,2025-10-01 15:51:00
+KW10953,dell alienware comparison 23,Branded,Laptop,Informational,Google,1,2025-10-01 15:52:00
+KW10954,dell poweredge comparison 23,Branded,Server,Navigational,Google,1,2025-10-01 15:53:00
+KW10955,dell optiplex comparison 23,Branded,Desktop,Commercial,Google,1,2025-10-01 15:54:00
+KW10956,dell docking station comparison 23,Branded,Accessories,Transactional,Google,1,2025-10-01 15:55:00
+KW10957,dell wireless mouse comparison 23,Branded,Accessories,Informational,Google,1,2025-10-01 15:56:00
+KW10958,dell wireless keyboard comparison 23,Branded,Accessories,Navigational,Google,1,2025-10-01 15:57:00
+KW10959,dell gaming laptop comparison 23,Branded,Laptop,Commercial,Google,1,2025-10-01 15:58:00
+KW10960,best business laptop comparison 23,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 15:59:00
+KW10961,best laptop for work comparison 23,Non-Branded,Laptop,Informational,Google,1,2025-10-01 16:00:00
+KW10962,best gaming laptop comparison 23,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 16:01:00
+KW10963,business laptop comparison 23,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 16:02:00
+KW10964,lightweight laptop comparison 23,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 16:03:00
+KW10965,student laptop comparison 23,Non-Branded,Laptop,Informational,Google,1,2025-10-01 16:04:00
+KW10966,professional laptop comparison 23,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 16:05:00
+KW10967,4k monitor comparison 23,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 16:06:00
+KW10968,best monitor for work comparison 23,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 16:07:00
+KW10969,usb c monitor comparison 23,Non-Branded,Monitor,Informational,Google,1,2025-10-01 16:08:00
+KW10970,computer monitor comparison 23,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 16:09:00
+KW10971,high performance workstation comparison 23,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 16:10:00
+KW10972,enterprise server comparison 23,Non-Branded,Server,Transactional,Google,1,2025-10-01 16:11:00
+KW10973,rack server comparison 23,Non-Branded,Server,Informational,Google,1,2025-10-01 16:12:00
+KW10974,desktop computer comparison 23,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 16:13:00
+KW10975,office desktop comparison 23,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 16:14:00
+KW10976,thunderbolt dock comparison 23,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 16:15:00
+KW10977,usb c docking station comparison 23,Non-Branded,Accessories,Informational,Google,1,2025-10-01 16:16:00
+KW10978,wireless keyboard comparison 23,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 16:17:00
+KW10979,wireless mouse comparison 23,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 16:18:00
+KW10980,gaming monitor comparison 23,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 16:19:00
+KW10981,ultrawide monitor comparison 23,Non-Branded,Monitor,Informational,Google,1,2025-10-01 16:20:00
+KW10982,laptop for programming comparison 23,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 16:21:00
+KW10983,laptop for engineering comparison 23,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 16:22:00
+KW10984,work from home laptop comparison 23,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 16:23:00
+KW10985,dell laptop price 24,Branded,Laptop,Informational,Google,1,2025-10-01 16:24:00
+KW10986,dell xps price 24,Branded,Laptop,Navigational,Google,1,2025-10-01 16:25:00
+KW10987,dell xps 13 price 24,Branded,Laptop,Commercial,Google,1,2025-10-01 16:26:00
+KW10988,dell xps 15 price 24,Branded,Laptop,Transactional,Google,1,2025-10-01 16:27:00
+KW10989,dell inspiron price 24,Branded,Laptop,Informational,Google,1,2025-10-01 16:28:00
+KW10990,dell latitude price 24,Branded,Laptop,Navigational,Google,1,2025-10-01 16:29:00
+KW10991,dell precision price 24,Branded,Laptop,Commercial,Google,1,2025-10-01 16:30:00
+KW10992,dell monitor price 24,Branded,Monitor,Transactional,Google,1,2025-10-01 16:31:00
+KW10993,dell ultrasharp price 24,Branded,Laptop,Informational,Google,1,2025-10-01 16:32:00
+KW10994,dell alienware price 24,Branded,Laptop,Navigational,Google,1,2025-10-01 16:33:00
+KW10995,dell poweredge price 24,Branded,Server,Commercial,Google,1,2025-10-01 16:34:00
+KW10996,dell optiplex price 24,Branded,Desktop,Transactional,Google,1,2025-10-01 16:35:00
+KW10997,dell docking station price 24,Branded,Accessories,Informational,Google,0,2025-10-01 16:36:00
+KW10998,dell wireless mouse price 24,Branded,Accessories,Navigational,Google,1,2025-10-01 16:37:00
+KW10999,dell wireless keyboard price 24,Branded,Accessories,Commercial,Google,1,2025-10-01 16:38:00
+KW11000,dell gaming laptop price 24,Branded,Laptop,Transactional,Google,1,2025-10-01 16:39:00
+KW11001,best business laptop price 24,Non-Branded,Laptop,Informational,Google,1,2025-10-01 16:40:00
+KW11002,best laptop for work price 24,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 16:41:00
+KW11003,best gaming laptop price 24,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 16:42:00
+KW11004,business laptop price 24,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 16:43:00
+KW11005,lightweight laptop price 24,Non-Branded,Laptop,Informational,Google,1,2025-10-01 16:44:00
+KW11006,student laptop price 24,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 16:45:00
+KW11007,professional laptop price 24,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 16:46:00
+KW11008,4k monitor price 24,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 16:47:00
+KW11009,best monitor for work price 24,Non-Branded,Monitor,Informational,Google,1,2025-10-01 16:48:00
+KW11010,usb c monitor price 24,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 16:49:00
+KW11011,computer monitor price 24,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 16:50:00
+KW11012,high performance workstation price 24,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 16:51:00
+KW11013,enterprise server price 24,Non-Branded,Server,Informational,Google,1,2025-10-01 16:52:00
+KW11014,rack server price 24,Non-Branded,Server,Navigational,Google,1,2025-10-01 16:53:00
+KW11015,desktop computer price 24,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 16:54:00
+KW11016,office desktop price 24,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 16:55:00
+KW11017,thunderbolt dock price 24,Non-Branded,Accessories,Informational,Google,1,2025-10-01 16:56:00
+KW11018,usb c docking station price 24,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 16:57:00
+KW11019,wireless keyboard price 24,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 16:58:00
+KW11020,wireless mouse price 24,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 16:59:00
+KW11021,gaming monitor price 24,Non-Branded,Monitor,Informational,Google,1,2025-10-01 17:00:00
+KW11022,ultrawide monitor price 24,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 17:01:00
+KW11023,laptop for programming price 24,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 17:02:00
+KW11024,laptop for engineering price 24,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 17:03:00
+KW11025,work from home laptop price 24,Non-Branded,Laptop,Informational,Google,1,2025-10-01 17:04:00
+KW11026,dell laptop deals 25,Branded,Laptop,Navigational,Google,1,2025-10-01 17:05:00
+KW11027,dell xps deals 25,Branded,Laptop,Commercial,Google,1,2025-10-01 17:06:00
+KW11028,dell xps 13 deals 25,Branded,Laptop,Transactional,Google,1,2025-10-01 17:07:00
+KW11029,dell xps 15 deals 25,Branded,Laptop,Informational,Google,1,2025-10-01 17:08:00
+KW11030,dell inspiron deals 25,Branded,Laptop,Navigational,Google,1,2025-10-01 17:09:00
+KW11031,dell latitude deals 25,Branded,Laptop,Commercial,Google,1,2025-10-01 17:10:00
+KW11032,dell precision deals 25,Branded,Laptop,Transactional,Google,1,2025-10-01 17:11:00
+KW11033,dell monitor deals 25,Branded,Monitor,Informational,Google,1,2025-10-01 17:12:00
+KW11034,dell ultrasharp deals 25,Branded,Laptop,Navigational,Google,1,2025-10-01 17:13:00
+KW11035,dell alienware deals 25,Branded,Laptop,Commercial,Google,1,2025-10-01 17:14:00
+KW11036,dell poweredge deals 25,Branded,Server,Transactional,Google,1,2025-10-01 17:15:00
+KW11037,dell optiplex deals 25,Branded,Desktop,Informational,Google,1,2025-10-01 17:16:00
+KW11038,dell docking station deals 25,Branded,Accessories,Navigational,Google,1,2025-10-01 17:17:00
+KW11039,dell wireless mouse deals 25,Branded,Accessories,Commercial,Google,1,2025-10-01 17:18:00
+KW11040,dell wireless keyboard deals 25,Branded,Accessories,Transactional,Google,1,2025-10-01 17:19:00
+KW11041,dell gaming laptop deals 25,Branded,Laptop,Informational,Google,1,2025-10-01 17:20:00
+KW11042,best business laptop deals 25,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 17:21:00
+KW11043,best laptop for work deals 25,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 17:22:00
+KW11044,best gaming laptop deals 25,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 17:23:00
+KW11045,business laptop deals 25,Non-Branded,Laptop,Informational,Google,1,2025-10-01 17:24:00
+KW11046,lightweight laptop deals 25,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 17:25:00
+KW11047,student laptop deals 25,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 17:26:00
+KW11048,professional laptop deals 25,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 17:27:00
+KW11049,4k monitor deals 25,Non-Branded,Monitor,Informational,Google,1,2025-10-01 17:28:00
+KW11050,best monitor for work deals 25,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 17:29:00
+KW11051,usb c monitor deals 25,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 17:30:00
+KW11052,computer monitor deals 25,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 17:31:00
+KW11053,high performance workstation deals 25,Non-Branded,Workstation,Informational,Google,1,2025-10-01 17:32:00
+KW11054,enterprise server deals 25,Non-Branded,Server,Navigational,Google,1,2025-10-01 17:33:00
+KW11055,rack server deals 25,Non-Branded,Server,Commercial,Google,1,2025-10-01 17:34:00
+KW11056,desktop computer deals 25,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 17:35:00
+KW11057,office desktop deals 25,Non-Branded,Desktop,Informational,Google,1,2025-10-01 17:36:00
+KW11058,thunderbolt dock deals 25,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 17:37:00
+KW11059,usb c docking station deals 25,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 17:38:00
+KW11060,wireless keyboard deals 25,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 17:39:00
+KW11061,wireless mouse deals 25,Non-Branded,Accessories,Informational,Google,1,2025-10-01 17:40:00
+KW11062,gaming monitor deals 25,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 17:41:00
+KW11063,ultrawide monitor deals 25,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 17:42:00
+KW11064,laptop for programming deals 25,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 17:43:00
+KW11065,laptop for engineering deals 25,Non-Branded,Workstation,Informational,Google,1,2025-10-01 17:44:00
+KW11066,work from home laptop deals 25,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 17:45:00
+KW11067,dell laptop online 26,Branded,Laptop,Commercial,Google,1,2025-10-01 17:46:00
+KW11068,dell xps online 26,Branded,Laptop,Transactional,Google,1,2025-10-01 17:47:00
+KW11069,dell xps 13 online 26,Branded,Laptop,Informational,Google,1,2025-10-01 17:48:00
+KW11070,dell xps 15 online 26,Branded,Laptop,Navigational,Google,1,2025-10-01 17:49:00
+KW11071,dell inspiron online 26,Branded,Laptop,Commercial,Google,1,2025-10-01 17:50:00
+KW11072,dell latitude online 26,Branded,Laptop,Transactional,Google,1,2025-10-01 17:51:00
+KW11073,dell precision online 26,Branded,Laptop,Informational,Google,1,2025-10-01 17:52:00
+KW11074,dell monitor online 26,Branded,Monitor,Navigational,Google,1,2025-10-01 17:53:00
+KW11075,dell ultrasharp online 26,Branded,Laptop,Commercial,Google,1,2025-10-01 17:54:00
+KW11076,dell alienware online 26,Branded,Laptop,Transactional,Google,1,2025-10-01 17:55:00
+KW11077,dell poweredge online 26,Branded,Server,Informational,Google,1,2025-10-01 17:56:00
+KW11078,dell optiplex online 26,Branded,Desktop,Navigational,Google,1,2025-10-01 17:57:00
+KW11079,dell docking station online 26,Branded,Accessories,Commercial,Google,1,2025-10-01 17:58:00
+KW11080,dell wireless mouse online 26,Branded,Accessories,Transactional,Google,0,2025-10-01 17:59:00
+KW11081,dell wireless keyboard online 26,Branded,Accessories,Informational,Google,1,2025-10-01 18:00:00
+KW11082,dell gaming laptop online 26,Branded,Laptop,Navigational,Google,1,2025-10-01 18:01:00
+KW11083,best business laptop online 26,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 18:02:00
+KW11084,best laptop for work online 26,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 18:03:00
+KW11085,best gaming laptop online 26,Non-Branded,Laptop,Informational,Google,1,2025-10-01 18:04:00
+KW11086,business laptop online 26,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 18:05:00
+KW11087,lightweight laptop online 26,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 18:06:00
+KW11088,student laptop online 26,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 18:07:00
+KW11089,professional laptop online 26,Non-Branded,Laptop,Informational,Google,1,2025-10-01 18:08:00
+KW11090,4k monitor online 26,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 18:09:00
+KW11091,best monitor for work online 26,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 18:10:00
+KW11092,usb c monitor online 26,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 18:11:00
+KW11093,computer monitor online 26,Non-Branded,Monitor,Informational,Google,1,2025-10-01 18:12:00
+KW11094,high performance workstation online 26,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 18:13:00
+KW11095,enterprise server online 26,Non-Branded,Server,Commercial,Google,1,2025-10-01 18:14:00
+KW11096,rack server online 26,Non-Branded,Server,Transactional,Google,1,2025-10-01 18:15:00
+KW11097,desktop computer online 26,Non-Branded,Desktop,Informational,Google,1,2025-10-01 18:16:00
+KW11098,office desktop online 26,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 18:17:00
+KW11099,thunderbolt dock online 26,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 18:18:00
+KW11100,usb c docking station online 26,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 18:19:00
+KW11101,wireless keyboard online 26,Non-Branded,Accessories,Informational,Google,1,2025-10-01 18:20:00
+KW11102,wireless mouse online 26,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 18:21:00
+KW11103,gaming monitor online 26,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 18:22:00
+KW11104,ultrawide monitor online 26,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 18:23:00
+KW11105,laptop for programming online 26,Non-Branded,Laptop,Informational,Google,1,2025-10-01 18:24:00
+KW11106,laptop for engineering online 26,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 18:25:00
+KW11107,work from home laptop online 26,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 18:26:00
+KW11108,dell laptop for business 27,Branded,Laptop,Transactional,Google,1,2025-10-01 18:27:00
+KW11109,dell xps for business 27,Branded,Laptop,Informational,Google,1,2025-10-01 18:28:00
+KW11110,dell xps 13 for business 27,Branded,Laptop,Navigational,Google,1,2025-10-01 18:29:00
+KW11111,dell xps 15 for business 27,Branded,Laptop,Commercial,Google,1,2025-10-01 18:30:00
+KW11112,dell inspiron for business 27,Branded,Laptop,Transactional,Google,1,2025-10-01 18:31:00
+KW11113,dell latitude for business 27,Branded,Laptop,Informational,Google,1,2025-10-01 18:32:00
+KW11114,dell precision for business 27,Branded,Laptop,Navigational,Google,1,2025-10-01 18:33:00
+KW11115,dell monitor for business 27,Branded,Monitor,Commercial,Google,1,2025-10-01 18:34:00
+KW11116,dell ultrasharp for business 27,Branded,Laptop,Transactional,Google,1,2025-10-01 18:35:00
+KW11117,dell alienware for business 27,Branded,Laptop,Informational,Google,1,2025-10-01 18:36:00
+KW11118,dell poweredge for business 27,Branded,Server,Navigational,Google,1,2025-10-01 18:37:00
+KW11119,dell optiplex for business 27,Branded,Desktop,Commercial,Google,1,2025-10-01 18:38:00
+KW11120,dell docking station for business 27,Branded,Accessories,Transactional,Google,1,2025-10-01 18:39:00
+KW11121,dell wireless mouse for business 27,Branded,Accessories,Informational,Google,1,2025-10-01 18:40:00
+KW11122,dell wireless keyboard for business 27,Branded,Accessories,Navigational,Google,1,2025-10-01 18:41:00
+KW11123,dell gaming laptop for business 27,Branded,Laptop,Commercial,Google,1,2025-10-01 18:42:00
+KW11124,best business laptop for business 27,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 18:43:00
+KW11125,best laptop for work for business 27,Non-Branded,Laptop,Informational,Google,1,2025-10-01 18:44:00
+KW11126,best gaming laptop for business 27,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 18:45:00
+KW11127,business laptop for business 27,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 18:46:00
+KW11128,lightweight laptop for business 27,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 18:47:00
+KW11129,student laptop for business 27,Non-Branded,Laptop,Informational,Google,1,2025-10-01 18:48:00
+KW11130,professional laptop for business 27,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 18:49:00
+KW11131,4k monitor for business 27,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 18:50:00
+KW11132,best monitor for work for business 27,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 18:51:00
+KW11133,usb c monitor for business 27,Non-Branded,Monitor,Informational,Google,1,2025-10-01 18:52:00
+KW11134,computer monitor for business 27,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 18:53:00
+KW11135,high performance workstation for business 27,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 18:54:00
+KW11136,enterprise server for business 27,Non-Branded,Server,Transactional,Google,1,2025-10-01 18:55:00
+KW11137,rack server for business 27,Non-Branded,Server,Informational,Google,1,2025-10-01 18:56:00
+KW11138,desktop computer for business 27,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 18:57:00
+KW11139,office desktop for business 27,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 18:58:00
+KW11140,thunderbolt dock for business 27,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 18:59:00
+KW11141,usb c docking station for business 27,Non-Branded,Accessories,Informational,Google,1,2025-10-01 19:00:00
+KW11142,wireless keyboard for business 27,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 19:01:00
+KW11143,wireless mouse for business 27,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 19:02:00
+KW11144,gaming monitor for business 27,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 19:03:00
+KW11145,ultrawide monitor for business 27,Non-Branded,Monitor,Informational,Google,1,2025-10-01 19:04:00
+KW11146,laptop for programming for business 27,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 19:05:00
+KW11147,laptop for engineering for business 27,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 19:06:00
+KW11148,work from home laptop for business 27,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 19:07:00
+KW11149,dell laptop 2026 28,Branded,Laptop,Informational,Google,1,2025-10-01 19:08:00
+KW11150,dell xps 2026 28,Branded,Laptop,Navigational,Google,1,2025-10-01 19:09:00
+KW11151,dell xps 13 2026 28,Branded,Laptop,Commercial,Google,1,2025-10-01 19:10:00
+KW11152,dell xps 15 2026 28,Branded,Laptop,Transactional,Google,1,2025-10-01 19:11:00
+KW11153,dell inspiron 2026 28,Branded,Laptop,Informational,Google,1,2025-10-01 19:12:00
+KW11154,dell latitude 2026 28,Branded,Laptop,Navigational,Google,1,2025-10-01 19:13:00
+KW11155,dell precision 2026 28,Branded,Laptop,Commercial,Google,1,2025-10-01 19:14:00
+KW11156,dell monitor 2026 28,Branded,Monitor,Transactional,Google,1,2025-10-01 19:15:00
+KW11157,dell ultrasharp 2026 28,Branded,Laptop,Informational,Google,1,2025-10-01 19:16:00
+KW11158,dell alienware 2026 28,Branded,Laptop,Navigational,Google,1,2025-10-01 19:17:00
+KW11159,dell poweredge 2026 28,Branded,Server,Commercial,Google,1,2025-10-01 19:18:00
+KW11160,dell optiplex 2026 28,Branded,Desktop,Transactional,Google,1,2025-10-01 19:19:00
+KW11161,dell docking station 2026 28,Branded,Accessories,Informational,Google,1,2025-10-01 19:20:00
+KW11162,dell wireless mouse 2026 28,Branded,Accessories,Navigational,Google,1,2025-10-01 19:21:00
+KW11163,dell wireless keyboard 2026 28,Branded,Accessories,Commercial,Google,0,2025-10-01 19:22:00
+KW11164,dell gaming laptop 2026 28,Branded,Laptop,Transactional,Google,1,2025-10-01 19:23:00
+KW11165,best business laptop 2026 28,Non-Branded,Laptop,Informational,Google,1,2025-10-01 19:24:00
+KW11166,best laptop for work 2026 28,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 19:25:00
+KW11167,best gaming laptop 2026 28,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 19:26:00
+KW11168,business laptop 2026 28,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 19:27:00
+KW11169,lightweight laptop 2026 28,Non-Branded,Laptop,Informational,Google,1,2025-10-01 19:28:00
+KW11170,student laptop 2026 28,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 19:29:00
+KW11171,professional laptop 2026 28,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 19:30:00
+KW11172,4k monitor 2026 28,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 19:31:00
+KW11173,best monitor for work 2026 28,Non-Branded,Monitor,Informational,Google,1,2025-10-01 19:32:00
+KW11174,usb c monitor 2026 28,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 19:33:00
+KW11175,computer monitor 2026 28,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 19:34:00
+KW11176,high performance workstation 2026 28,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 19:35:00
+KW11177,enterprise server 2026 28,Non-Branded,Server,Informational,Google,1,2025-10-01 19:36:00
+KW11178,rack server 2026 28,Non-Branded,Server,Navigational,Google,1,2025-10-01 19:37:00
+KW11179,desktop computer 2026 28,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 19:38:00
+KW11180,office desktop 2026 28,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 19:39:00
+KW11181,thunderbolt dock 2026 28,Non-Branded,Accessories,Informational,Google,1,2025-10-01 19:40:00
+KW11182,usb c docking station 2026 28,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 19:41:00
+KW11183,wireless keyboard 2026 28,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 19:42:00
+KW11184,wireless mouse 2026 28,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 19:43:00
+KW11185,gaming monitor 2026 28,Non-Branded,Monitor,Informational,Google,1,2025-10-01 19:44:00
+KW11186,ultrawide monitor 2026 28,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 19:45:00
+KW11187,laptop for programming 2026 28,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 19:46:00
+KW11188,laptop for engineering 2026 28,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 19:47:00
+KW11189,work from home laptop 2026 28,Non-Branded,Laptop,Informational,Google,1,2025-10-01 19:48:00
+KW11190,dell laptop review 29,Branded,Laptop,Navigational,Google,1,2025-10-01 19:49:00
+KW11191,dell xps review 29,Branded,Laptop,Commercial,Google,1,2025-10-01 19:50:00
+KW11192,dell xps 13 review 29,Branded,Laptop,Transactional,Google,1,2025-10-01 19:51:00
+KW11193,dell xps 15 review 29,Branded,Laptop,Informational,Google,1,2025-10-01 19:52:00
+KW11194,dell inspiron review 29,Branded,Laptop,Navigational,Google,1,2025-10-01 19:53:00
+KW11195,dell latitude review 29,Branded,Laptop,Commercial,Google,1,2025-10-01 19:54:00
+KW11196,dell precision review 29,Branded,Laptop,Transactional,Google,1,2025-10-01 19:55:00
+KW11197,dell monitor review 29,Branded,Monitor,Informational,Google,1,2025-10-01 19:56:00
+KW11198,dell ultrasharp review 29,Branded,Laptop,Navigational,Google,1,2025-10-01 19:57:00
+KW11199,dell alienware review 29,Branded,Laptop,Commercial,Google,1,2025-10-01 19:58:00
+KW11200,dell poweredge review 29,Branded,Server,Transactional,Google,1,2025-10-01 19:59:00
+KW11201,dell optiplex review 29,Branded,Desktop,Informational,Google,1,2025-10-01 20:00:00
+KW11202,dell docking station review 29,Branded,Accessories,Navigational,Google,1,2025-10-01 20:01:00
+KW11203,dell wireless mouse review 29,Branded,Accessories,Commercial,Google,1,2025-10-01 20:02:00
+KW11204,dell wireless keyboard review 29,Branded,Accessories,Transactional,Google,1,2025-10-01 20:03:00
+KW11205,dell gaming laptop review 29,Branded,Laptop,Informational,Google,1,2025-10-01 20:04:00
+KW11206,best business laptop review 29,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 20:05:00
+KW11207,best laptop for work review 29,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 20:06:00
+KW11208,best gaming laptop review 29,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 20:07:00
+KW11209,business laptop review 29,Non-Branded,Laptop,Informational,Google,1,2025-10-01 20:08:00
+KW11210,lightweight laptop review 29,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 20:09:00
+KW11211,student laptop review 29,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 20:10:00
+KW11212,professional laptop review 29,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 20:11:00
+KW11213,4k monitor review 29,Non-Branded,Monitor,Informational,Google,1,2025-10-01 20:12:00
+KW11214,best monitor for work review 29,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 20:13:00
+KW11215,usb c monitor review 29,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 20:14:00
+KW11216,computer monitor review 29,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 20:15:00
+KW11217,high performance workstation review 29,Non-Branded,Workstation,Informational,Google,1,2025-10-01 20:16:00
+KW11218,enterprise server review 29,Non-Branded,Server,Navigational,Google,1,2025-10-01 20:17:00
+KW11219,rack server review 29,Non-Branded,Server,Commercial,Google,1,2025-10-01 20:18:00
+KW11220,desktop computer review 29,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 20:19:00
+KW11221,office desktop review 29,Non-Branded,Desktop,Informational,Google,1,2025-10-01 20:20:00
+KW11222,thunderbolt dock review 29,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 20:21:00
+KW11223,usb c docking station review 29,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 20:22:00
+KW11224,wireless keyboard review 29,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 20:23:00
+KW11225,wireless mouse review 29,Non-Branded,Accessories,Informational,Google,1,2025-10-01 20:24:00
+KW11226,gaming monitor review 29,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 20:25:00
+KW11227,ultrawide monitor review 29,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 20:26:00
+KW11228,laptop for programming review 29,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 20:27:00
+KW11229,laptop for engineering review 29,Non-Branded,Workstation,Informational,Google,1,2025-10-01 20:28:00
+KW11230,work from home laptop review 29,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 20:29:00
+KW11231,dell laptop specs 30,Branded,Laptop,Commercial,Google,1,2025-10-01 20:30:00
+KW11232,dell xps specs 30,Branded,Laptop,Transactional,Google,1,2025-10-01 20:31:00
+KW11233,dell xps 13 specs 30,Branded,Laptop,Informational,Google,1,2025-10-01 20:32:00
+KW11234,dell xps 15 specs 30,Branded,Laptop,Navigational,Google,1,2025-10-01 20:33:00
+KW11235,dell inspiron specs 30,Branded,Laptop,Commercial,Google,1,2025-10-01 20:34:00
+KW11236,dell latitude specs 30,Branded,Laptop,Transactional,Google,1,2025-10-01 20:35:00
+KW11237,dell precision specs 30,Branded,Laptop,Informational,Google,1,2025-10-01 20:36:00
+KW11238,dell monitor specs 30,Branded,Monitor,Navigational,Google,1,2025-10-01 20:37:00
+KW11239,dell ultrasharp specs 30,Branded,Laptop,Commercial,Google,1,2025-10-01 20:38:00
+KW11240,dell alienware specs 30,Branded,Laptop,Transactional,Google,1,2025-10-01 20:39:00
+KW11241,dell poweredge specs 30,Branded,Server,Informational,Google,1,2025-10-01 20:40:00
+KW11242,dell optiplex specs 30,Branded,Desktop,Navigational,Google,1,2025-10-01 20:41:00
+KW11243,dell docking station specs 30,Branded,Accessories,Commercial,Google,1,2025-10-01 20:42:00
+KW11244,dell wireless mouse specs 30,Branded,Accessories,Transactional,Google,1,2025-10-01 20:43:00
+KW11245,dell wireless keyboard specs 30,Branded,Accessories,Informational,Google,1,2025-10-01 20:44:00
+KW11246,dell gaming laptop specs 30,Branded,Laptop,Navigational,Google,0,2025-10-01 20:45:00
+KW11247,best business laptop specs 30,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 20:46:00
+KW11248,best laptop for work specs 30,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 20:47:00
+KW11249,best gaming laptop specs 30,Non-Branded,Laptop,Informational,Google,1,2025-10-01 20:48:00
+KW11250,business laptop specs 30,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 20:49:00
+KW11251,lightweight laptop specs 30,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 20:50:00
+KW11252,student laptop specs 30,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 20:51:00
+KW11253,professional laptop specs 30,Non-Branded,Laptop,Informational,Google,1,2025-10-01 20:52:00
+KW11254,4k monitor specs 30,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 20:53:00
+KW11255,best monitor for work specs 30,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 20:54:00
+KW11256,usb c monitor specs 30,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 20:55:00
+KW11257,computer monitor specs 30,Non-Branded,Monitor,Informational,Google,1,2025-10-01 20:56:00
+KW11258,high performance workstation specs 30,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 20:57:00
+KW11259,enterprise server specs 30,Non-Branded,Server,Commercial,Google,1,2025-10-01 20:58:00
+KW11260,rack server specs 30,Non-Branded,Server,Transactional,Google,1,2025-10-01 20:59:00
+KW11261,desktop computer specs 30,Non-Branded,Desktop,Informational,Google,1,2025-10-01 21:00:00
+KW11262,office desktop specs 30,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 21:01:00
+KW11263,thunderbolt dock specs 30,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 21:02:00
+KW11264,usb c docking station specs 30,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 21:03:00
+KW11265,wireless keyboard specs 30,Non-Branded,Accessories,Informational,Google,1,2025-10-01 21:04:00
+KW11266,wireless mouse specs 30,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 21:05:00
+KW11267,gaming monitor specs 30,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 21:06:00
+KW11268,ultrawide monitor specs 30,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 21:07:00
+KW11269,laptop for programming specs 30,Non-Branded,Laptop,Informational,Google,1,2025-10-01 21:08:00
+KW11270,laptop for engineering specs 30,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 21:09:00
+KW11271,work from home laptop specs 30,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 21:10:00
+KW11272,dell laptop comparison 31,Branded,Laptop,Transactional,Google,1,2025-10-01 21:11:00
+KW11273,dell xps comparison 31,Branded,Laptop,Informational,Google,1,2025-10-01 21:12:00
+KW11274,dell xps 13 comparison 31,Branded,Laptop,Navigational,Google,1,2025-10-01 21:13:00
+KW11275,dell xps 15 comparison 31,Branded,Laptop,Commercial,Google,1,2025-10-01 21:14:00
+KW11276,dell inspiron comparison 31,Branded,Laptop,Transactional,Google,1,2025-10-01 21:15:00
+KW11277,dell latitude comparison 31,Branded,Laptop,Informational,Google,1,2025-10-01 21:16:00
+KW11278,dell precision comparison 31,Branded,Laptop,Navigational,Google,1,2025-10-01 21:17:00
+KW11279,dell monitor comparison 31,Branded,Monitor,Commercial,Google,1,2025-10-01 21:18:00
+KW11280,dell ultrasharp comparison 31,Branded,Laptop,Transactional,Google,1,2025-10-01 21:19:00
+KW11281,dell alienware comparison 31,Branded,Laptop,Informational,Google,1,2025-10-01 21:20:00
+KW11282,dell poweredge comparison 31,Branded,Server,Navigational,Google,1,2025-10-01 21:21:00
+KW11283,dell optiplex comparison 31,Branded,Desktop,Commercial,Google,1,2025-10-01 21:22:00
+KW11284,dell docking station comparison 31,Branded,Accessories,Transactional,Google,1,2025-10-01 21:23:00
+KW11285,dell wireless mouse comparison 31,Branded,Accessories,Informational,Google,1,2025-10-01 21:24:00
+KW11286,dell wireless keyboard comparison 31,Branded,Accessories,Navigational,Google,1,2025-10-01 21:25:00
+KW11287,dell gaming laptop comparison 31,Branded,Laptop,Commercial,Google,1,2025-10-01 21:26:00
+KW11288,best business laptop comparison 31,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 21:27:00
+KW11289,best laptop for work comparison 31,Non-Branded,Laptop,Informational,Google,1,2025-10-01 21:28:00
+KW11290,best gaming laptop comparison 31,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 21:29:00
+KW11291,business laptop comparison 31,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 21:30:00
+KW11292,lightweight laptop comparison 31,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 21:31:00
+KW11293,student laptop comparison 31,Non-Branded,Laptop,Informational,Google,1,2025-10-01 21:32:00
+KW11294,professional laptop comparison 31,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 21:33:00
+KW11295,4k monitor comparison 31,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 21:34:00
+KW11296,best monitor for work comparison 31,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 21:35:00
+KW11297,usb c monitor comparison 31,Non-Branded,Monitor,Informational,Google,1,2025-10-01 21:36:00
+KW11298,computer monitor comparison 31,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 21:37:00
+KW11299,high performance workstation comparison 31,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 21:38:00
+KW11300,enterprise server comparison 31,Non-Branded,Server,Transactional,Google,1,2025-10-01 21:39:00
+KW11301,rack server comparison 31,Non-Branded,Server,Informational,Google,1,2025-10-01 21:40:00
+KW11302,desktop computer comparison 31,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 21:41:00
+KW11303,office desktop comparison 31,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 21:42:00
+KW11304,thunderbolt dock comparison 31,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 21:43:00
+KW11305,usb c docking station comparison 31,Non-Branded,Accessories,Informational,Google,1,2025-10-01 21:44:00
+KW11306,wireless keyboard comparison 31,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 21:45:00
+KW11307,wireless mouse comparison 31,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 21:46:00
+KW11308,gaming monitor comparison 31,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 21:47:00
+KW11309,ultrawide monitor comparison 31,Non-Branded,Monitor,Informational,Google,1,2025-10-01 21:48:00
+KW11310,laptop for programming comparison 31,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 21:49:00
+KW11311,laptop for engineering comparison 31,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 21:50:00
+KW11312,work from home laptop comparison 31,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 21:51:00
+KW11313,dell laptop price 32,Branded,Laptop,Informational,Google,1,2025-10-01 21:52:00
+KW11314,dell xps price 32,Branded,Laptop,Navigational,Google,1,2025-10-01 21:53:00
+KW11315,dell xps 13 price 32,Branded,Laptop,Commercial,Google,1,2025-10-01 21:54:00
+KW11316,dell xps 15 price 32,Branded,Laptop,Transactional,Google,1,2025-10-01 21:55:00
+KW11317,dell inspiron price 32,Branded,Laptop,Informational,Google,1,2025-10-01 21:56:00
+KW11318,dell latitude price 32,Branded,Laptop,Navigational,Google,1,2025-10-01 21:57:00
+KW11319,dell precision price 32,Branded,Laptop,Commercial,Google,1,2025-10-01 21:58:00
+KW11320,dell monitor price 32,Branded,Monitor,Transactional,Google,1,2025-10-01 21:59:00
+KW11321,dell ultrasharp price 32,Branded,Laptop,Informational,Google,1,2025-10-01 22:00:00
+KW11322,dell alienware price 32,Branded,Laptop,Navigational,Google,1,2025-10-01 22:01:00
+KW11323,dell poweredge price 32,Branded,Server,Commercial,Google,1,2025-10-01 22:02:00
+KW11324,dell optiplex price 32,Branded,Desktop,Transactional,Google,1,2025-10-01 22:03:00
+KW11325,dell docking station price 32,Branded,Accessories,Informational,Google,1,2025-10-01 22:04:00
+KW11326,dell wireless mouse price 32,Branded,Accessories,Navigational,Google,1,2025-10-01 22:05:00
+KW11327,dell wireless keyboard price 32,Branded,Accessories,Commercial,Google,1,2025-10-01 22:06:00
+KW11328,dell gaming laptop price 32,Branded,Laptop,Transactional,Google,1,2025-10-01 22:07:00
+KW11329,best business laptop price 32,Non-Branded,Laptop,Informational,Google,0,2025-10-01 22:08:00
+KW11330,best laptop for work price 32,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 22:09:00
+KW11331,best gaming laptop price 32,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 22:10:00
+KW11332,business laptop price 32,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 22:11:00
+KW11333,lightweight laptop price 32,Non-Branded,Laptop,Informational,Google,1,2025-10-01 22:12:00
+KW11334,student laptop price 32,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 22:13:00
+KW11335,professional laptop price 32,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 22:14:00
+KW11336,4k monitor price 32,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 22:15:00
+KW11337,best monitor for work price 32,Non-Branded,Monitor,Informational,Google,1,2025-10-01 22:16:00
+KW11338,usb c monitor price 32,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 22:17:00
+KW11339,computer monitor price 32,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 22:18:00
+KW11340,high performance workstation price 32,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 22:19:00
+KW11341,enterprise server price 32,Non-Branded,Server,Informational,Google,1,2025-10-01 22:20:00
+KW11342,rack server price 32,Non-Branded,Server,Navigational,Google,1,2025-10-01 22:21:00
+KW11343,desktop computer price 32,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 22:22:00
+KW11344,office desktop price 32,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 22:23:00
+KW11345,thunderbolt dock price 32,Non-Branded,Accessories,Informational,Google,1,2025-10-01 22:24:00
+KW11346,usb c docking station price 32,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 22:25:00
+KW11347,wireless keyboard price 32,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 22:26:00
+KW11348,wireless mouse price 32,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 22:27:00
+KW11349,gaming monitor price 32,Non-Branded,Monitor,Informational,Google,1,2025-10-01 22:28:00
+KW11350,ultrawide monitor price 32,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 22:29:00
+KW11351,laptop for programming price 32,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 22:30:00
+KW11352,laptop for engineering price 32,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 22:31:00
+KW11353,work from home laptop price 32,Non-Branded,Laptop,Informational,Google,1,2025-10-01 22:32:00
+KW11354,dell laptop deals 33,Branded,Laptop,Navigational,Google,1,2025-10-01 22:33:00
+KW11355,dell xps deals 33,Branded,Laptop,Commercial,Google,1,2025-10-01 22:34:00
+KW11356,dell xps 13 deals 33,Branded,Laptop,Transactional,Google,1,2025-10-01 22:35:00
+KW11357,dell xps 15 deals 33,Branded,Laptop,Informational,Google,1,2025-10-01 22:36:00
+KW11358,dell inspiron deals 33,Branded,Laptop,Navigational,Google,1,2025-10-01 22:37:00
+KW11359,dell latitude deals 33,Branded,Laptop,Commercial,Google,1,2025-10-01 22:38:00
+KW11360,dell precision deals 33,Branded,Laptop,Transactional,Google,1,2025-10-01 22:39:00
+KW11361,dell monitor deals 33,Branded,Monitor,Informational,Google,1,2025-10-01 22:40:00
+KW11362,dell ultrasharp deals 33,Branded,Laptop,Navigational,Google,1,2025-10-01 22:41:00
+KW11363,dell alienware deals 33,Branded,Laptop,Commercial,Google,1,2025-10-01 22:42:00
+KW11364,dell poweredge deals 33,Branded,Server,Transactional,Google,1,2025-10-01 22:43:00
+KW11365,dell optiplex deals 33,Branded,Desktop,Informational,Google,1,2025-10-01 22:44:00
+KW11366,dell docking station deals 33,Branded,Accessories,Navigational,Google,1,2025-10-01 22:45:00
+KW11367,dell wireless mouse deals 33,Branded,Accessories,Commercial,Google,1,2025-10-01 22:46:00
+KW11368,dell wireless keyboard deals 33,Branded,Accessories,Transactional,Google,1,2025-10-01 22:47:00
+KW11369,dell gaming laptop deals 33,Branded,Laptop,Informational,Google,1,2025-10-01 22:48:00
+KW11370,best business laptop deals 33,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 22:49:00
+KW11371,best laptop for work deals 33,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 22:50:00
+KW11372,best gaming laptop deals 33,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 22:51:00
+KW11373,business laptop deals 33,Non-Branded,Laptop,Informational,Google,1,2025-10-01 22:52:00
+KW11374,lightweight laptop deals 33,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 22:53:00
+KW11375,student laptop deals 33,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 22:54:00
+KW11376,professional laptop deals 33,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 22:55:00
+KW11377,4k monitor deals 33,Non-Branded,Monitor,Informational,Google,1,2025-10-01 22:56:00
+KW11378,best monitor for work deals 33,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 22:57:00
+KW11379,usb c monitor deals 33,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 22:58:00
+KW11380,computer monitor deals 33,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 22:59:00
+KW11381,high performance workstation deals 33,Non-Branded,Workstation,Informational,Google,1,2025-10-01 23:00:00
+KW11382,enterprise server deals 33,Non-Branded,Server,Navigational,Google,1,2025-10-01 23:01:00
+KW11383,rack server deals 33,Non-Branded,Server,Commercial,Google,1,2025-10-01 23:02:00
+KW11384,desktop computer deals 33,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 23:03:00
+KW11385,office desktop deals 33,Non-Branded,Desktop,Informational,Google,1,2025-10-01 23:04:00
+KW11386,thunderbolt dock deals 33,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 23:05:00
+KW11387,usb c docking station deals 33,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 23:06:00
+KW11388,wireless keyboard deals 33,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 23:07:00
+KW11389,wireless mouse deals 33,Non-Branded,Accessories,Informational,Google,1,2025-10-01 23:08:00
+KW11390,gaming monitor deals 33,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 23:09:00
+KW11391,ultrawide monitor deals 33,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 23:10:00
+KW11392,laptop for programming deals 33,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 23:11:00
+KW11393,laptop for engineering deals 33,Non-Branded,Workstation,Informational,Google,1,2025-10-01 23:12:00
+KW11394,work from home laptop deals 33,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 23:13:00
+KW11395,dell laptop online 34,Branded,Laptop,Commercial,Google,1,2025-10-01 23:14:00
+KW11396,dell xps online 34,Branded,Laptop,Transactional,Google,1,2025-10-01 23:15:00
+KW11397,dell xps 13 online 34,Branded,Laptop,Informational,Google,1,2025-10-01 23:16:00
+KW11398,dell xps 15 online 34,Branded,Laptop,Navigational,Google,1,2025-10-01 23:17:00
+KW11399,dell inspiron online 34,Branded,Laptop,Commercial,Google,1,2025-10-01 23:18:00
+KW11400,dell latitude online 34,Branded,Laptop,Transactional,Google,1,2025-10-01 23:19:00
+KW11401,dell precision online 34,Branded,Laptop,Informational,Google,1,2025-10-01 23:20:00
+KW11402,dell monitor online 34,Branded,Monitor,Navigational,Google,1,2025-10-01 23:21:00
+KW11403,dell ultrasharp online 34,Branded,Laptop,Commercial,Google,1,2025-10-01 23:22:00
+KW11404,dell alienware online 34,Branded,Laptop,Transactional,Google,1,2025-10-01 23:23:00
+KW11405,dell poweredge online 34,Branded,Server,Informational,Google,1,2025-10-01 23:24:00
+KW11406,dell optiplex online 34,Branded,Desktop,Navigational,Google,1,2025-10-01 23:25:00
+KW11407,dell docking station online 34,Branded,Accessories,Commercial,Google,1,2025-10-01 23:26:00
+KW11408,dell wireless mouse online 34,Branded,Accessories,Transactional,Google,1,2025-10-01 23:27:00
+KW11409,dell wireless keyboard online 34,Branded,Accessories,Informational,Google,1,2025-10-01 23:28:00
+KW11410,dell gaming laptop online 34,Branded,Laptop,Navigational,Google,1,2025-10-01 23:29:00
+KW11411,best business laptop online 34,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 23:30:00
+KW11412,best laptop for work online 34,Non-Branded,Laptop,Transactional,Google,0,2025-10-01 23:31:00
+KW11413,best gaming laptop online 34,Non-Branded,Laptop,Informational,Google,1,2025-10-01 23:32:00
+KW11414,business laptop online 34,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 23:33:00
+KW11415,lightweight laptop online 34,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 23:34:00
+KW11416,student laptop online 34,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 23:35:00
+KW11417,professional laptop online 34,Non-Branded,Laptop,Informational,Google,1,2025-10-01 23:36:00
+KW11418,4k monitor online 34,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 23:37:00
+KW11419,best monitor for work online 34,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 23:38:00
+KW11420,usb c monitor online 34,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 23:39:00
+KW11421,computer monitor online 34,Non-Branded,Monitor,Informational,Google,1,2025-10-01 23:40:00
+KW11422,high performance workstation online 34,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 23:41:00
+KW11423,enterprise server online 34,Non-Branded,Server,Commercial,Google,1,2025-10-01 23:42:00
+KW11424,rack server online 34,Non-Branded,Server,Transactional,Google,1,2025-10-01 23:43:00
+KW11425,desktop computer online 34,Non-Branded,Desktop,Informational,Google,1,2025-10-01 23:44:00
+KW11426,office desktop online 34,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 23:45:00
+KW11427,thunderbolt dock online 34,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 23:46:00
+KW11428,usb c docking station online 34,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 23:47:00
+KW11429,wireless keyboard online 34,Non-Branded,Accessories,Informational,Google,1,2025-10-01 23:48:00
+KW11430,wireless mouse online 34,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 23:49:00
+KW11431,gaming monitor online 34,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 23:50:00
+KW11432,ultrawide monitor online 34,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 23:51:00
+KW11433,laptop for programming online 34,Non-Branded,Laptop,Informational,Google,1,2025-10-01 23:52:00
+KW11434,laptop for engineering online 34,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 23:53:00
+KW11435,work from home laptop online 34,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 23:54:00
+KW11436,dell laptop for business 35,Branded,Laptop,Transactional,Google,1,2025-10-01 23:55:00
+KW11437,dell xps for business 35,Branded,Laptop,Informational,Google,1,2025-10-01 23:56:00
+KW11438,dell xps 13 for business 35,Branded,Laptop,Navigational,Google,1,2025-10-01 23:57:00
+KW11439,dell xps 15 for business 35,Branded,Laptop,Commercial,Google,1,2025-10-01 23:58:00
+KW11440,dell inspiron for business 35,Branded,Laptop,Transactional,Google,1,2025-10-01 23:59:00
+KW11441,dell latitude for business 35,Branded,Laptop,Informational,Google,1,2025-10-01 00:00:00
+KW11442,dell precision for business 35,Branded,Laptop,Navigational,Google,1,2025-10-01 00:01:00
+KW11443,dell monitor for business 35,Branded,Monitor,Commercial,Google,1,2025-10-01 00:02:00
+KW11444,dell ultrasharp for business 35,Branded,Laptop,Transactional,Google,1,2025-10-01 00:03:00
+KW11445,dell alienware for business 35,Branded,Laptop,Informational,Google,1,2025-10-01 00:04:00
+KW11446,dell poweredge for business 35,Branded,Server,Navigational,Google,1,2025-10-01 00:05:00
+KW11447,dell optiplex for business 35,Branded,Desktop,Commercial,Google,1,2025-10-01 00:06:00
+KW11448,dell docking station for business 35,Branded,Accessories,Transactional,Google,1,2025-10-01 00:07:00
+KW11449,dell wireless mouse for business 35,Branded,Accessories,Informational,Google,1,2025-10-01 00:08:00
+KW11450,dell wireless keyboard for business 35,Branded,Accessories,Navigational,Google,1,2025-10-01 00:09:00
+KW11451,dell gaming laptop for business 35,Branded,Laptop,Commercial,Google,1,2025-10-01 00:10:00
+KW11452,best business laptop for business 35,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 00:11:00
+KW11453,best laptop for work for business 35,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:12:00
+KW11454,best gaming laptop for business 35,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:13:00
+KW11455,business laptop for business 35,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 00:14:00
+KW11456,lightweight laptop for business 35,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 00:15:00
+KW11457,student laptop for business 35,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:16:00
+KW11458,professional laptop for business 35,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:17:00
+KW11459,4k monitor for business 35,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 00:18:00
+KW11460,best monitor for work for business 35,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 00:19:00
+KW11461,usb c monitor for business 35,Non-Branded,Monitor,Informational,Google,1,2025-10-01 00:20:00
+KW11462,computer monitor for business 35,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 00:21:00
+KW11463,high performance workstation for business 35,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 00:22:00
+KW11464,enterprise server for business 35,Non-Branded,Server,Transactional,Google,1,2025-10-01 00:23:00
+KW11465,rack server for business 35,Non-Branded,Server,Informational,Google,1,2025-10-01 00:24:00
+KW11466,desktop computer for business 35,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 00:25:00
+KW11467,office desktop for business 35,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 00:26:00
+KW11468,thunderbolt dock for business 35,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 00:27:00
+KW11469,usb c docking station for business 35,Non-Branded,Accessories,Informational,Google,1,2025-10-01 00:28:00
+KW11470,wireless keyboard for business 35,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 00:29:00
+KW11471,wireless mouse for business 35,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 00:30:00
+KW11472,gaming monitor for business 35,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 00:31:00
+KW11473,ultrawide monitor for business 35,Non-Branded,Monitor,Informational,Google,1,2025-10-01 00:32:00
+KW11474,laptop for programming for business 35,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:33:00
+KW11475,laptop for engineering for business 35,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 00:34:00
+KW11476,work from home laptop for business 35,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 00:35:00
+KW11477,dell laptop 2026 36,Branded,Laptop,Informational,Google,1,2025-10-01 00:36:00
+KW11478,dell xps 2026 36,Branded,Laptop,Navigational,Google,1,2025-10-01 00:37:00
+KW11479,dell xps 13 2026 36,Branded,Laptop,Commercial,Google,1,2025-10-01 00:38:00
+KW11480,dell xps 15 2026 36,Branded,Laptop,Transactional,Google,1,2025-10-01 00:39:00
+KW11481,dell inspiron 2026 36,Branded,Laptop,Informational,Google,1,2025-10-01 00:40:00
+KW11482,dell latitude 2026 36,Branded,Laptop,Navigational,Google,1,2025-10-01 00:41:00
+KW11483,dell precision 2026 36,Branded,Laptop,Commercial,Google,1,2025-10-01 00:42:00
+KW11484,dell monitor 2026 36,Branded,Monitor,Transactional,Google,1,2025-10-01 00:43:00
+KW11485,dell ultrasharp 2026 36,Branded,Laptop,Informational,Google,1,2025-10-01 00:44:00
+KW11486,dell alienware 2026 36,Branded,Laptop,Navigational,Google,1,2025-10-01 00:45:00
+KW11487,dell poweredge 2026 36,Branded,Server,Commercial,Google,1,2025-10-01 00:46:00
+KW11488,dell optiplex 2026 36,Branded,Desktop,Transactional,Google,1,2025-10-01 00:47:00
+KW11489,dell docking station 2026 36,Branded,Accessories,Informational,Google,1,2025-10-01 00:48:00
+KW11490,dell wireless mouse 2026 36,Branded,Accessories,Navigational,Google,1,2025-10-01 00:49:00
+KW11491,dell wireless keyboard 2026 36,Branded,Accessories,Commercial,Google,1,2025-10-01 00:50:00
+KW11492,dell gaming laptop 2026 36,Branded,Laptop,Transactional,Google,1,2025-10-01 00:51:00
+KW11493,best business laptop 2026 36,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:52:00
+KW11494,best laptop for work 2026 36,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:53:00
+KW11495,best gaming laptop 2026 36,Non-Branded,Laptop,Commercial,Google,0,2025-10-01 00:54:00
+KW11496,business laptop 2026 36,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 00:55:00
+KW11497,lightweight laptop 2026 36,Non-Branded,Laptop,Informational,Google,1,2025-10-01 00:56:00
+KW11498,student laptop 2026 36,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 00:57:00
+KW11499,professional laptop 2026 36,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 00:58:00
+KW11500,4k monitor 2026 36,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 00:59:00
+KW11501,best monitor for work 2026 36,Non-Branded,Monitor,Informational,Google,1,2025-10-01 01:00:00
+KW11502,usb c monitor 2026 36,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:01:00
+KW11503,computer monitor 2026 36,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:02:00
+KW11504,high performance workstation 2026 36,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 01:03:00
+KW11505,enterprise server 2026 36,Non-Branded,Server,Informational,Google,1,2025-10-01 01:04:00
+KW11506,rack server 2026 36,Non-Branded,Server,Navigational,Google,1,2025-10-01 01:05:00
+KW11507,desktop computer 2026 36,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 01:06:00
+KW11508,office desktop 2026 36,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 01:07:00
+KW11509,thunderbolt dock 2026 36,Non-Branded,Accessories,Informational,Google,1,2025-10-01 01:08:00
+KW11510,usb c docking station 2026 36,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 01:09:00
+KW11511,wireless keyboard 2026 36,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 01:10:00
+KW11512,wireless mouse 2026 36,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 01:11:00
+KW11513,gaming monitor 2026 36,Non-Branded,Monitor,Informational,Google,1,2025-10-01 01:12:00
+KW11514,ultrawide monitor 2026 36,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:13:00
+KW11515,laptop for programming 2026 36,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 01:14:00
+KW11516,laptop for engineering 2026 36,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 01:15:00
+KW11517,work from home laptop 2026 36,Non-Branded,Laptop,Informational,Google,1,2025-10-01 01:16:00
+KW11518,dell laptop review 37,Branded,Laptop,Navigational,Google,1,2025-10-01 01:17:00
+KW11519,dell xps review 37,Branded,Laptop,Commercial,Google,1,2025-10-01 01:18:00
+KW11520,dell xps 13 review 37,Branded,Laptop,Transactional,Google,1,2025-10-01 01:19:00
+KW11521,dell xps 15 review 37,Branded,Laptop,Informational,Google,1,2025-10-01 01:20:00
+KW11522,dell inspiron review 37,Branded,Laptop,Navigational,Google,1,2025-10-01 01:21:00
+KW11523,dell latitude review 37,Branded,Laptop,Commercial,Google,1,2025-10-01 01:22:00
+KW11524,dell precision review 37,Branded,Laptop,Transactional,Google,1,2025-10-01 01:23:00
+KW11525,dell monitor review 37,Branded,Monitor,Informational,Google,1,2025-10-01 01:24:00
+KW11526,dell ultrasharp review 37,Branded,Laptop,Navigational,Google,1,2025-10-01 01:25:00
+KW11527,dell alienware review 37,Branded,Laptop,Commercial,Google,1,2025-10-01 01:26:00
+KW11528,dell poweredge review 37,Branded,Server,Transactional,Google,1,2025-10-01 01:27:00
+KW11529,dell optiplex review 37,Branded,Desktop,Informational,Google,1,2025-10-01 01:28:00
+KW11530,dell docking station review 37,Branded,Accessories,Navigational,Google,1,2025-10-01 01:29:00
+KW11531,dell wireless mouse review 37,Branded,Accessories,Commercial,Google,1,2025-10-01 01:30:00
+KW11532,dell wireless keyboard review 37,Branded,Accessories,Transactional,Google,1,2025-10-01 01:31:00
+KW11533,dell gaming laptop review 37,Branded,Laptop,Informational,Google,1,2025-10-01 01:32:00
+KW11534,best business laptop review 37,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 01:33:00
+KW11535,best laptop for work review 37,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 01:34:00
+KW11536,best gaming laptop review 37,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:35:00
+KW11537,business laptop review 37,Non-Branded,Laptop,Informational,Google,1,2025-10-01 01:36:00
+KW11538,lightweight laptop review 37,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 01:37:00
+KW11539,student laptop review 37,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 01:38:00
+KW11540,professional laptop review 37,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:39:00
+KW11541,4k monitor review 37,Non-Branded,Monitor,Informational,Google,1,2025-10-01 01:40:00
+KW11542,best monitor for work review 37,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:41:00
+KW11543,usb c monitor review 37,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:42:00
+KW11544,computer monitor review 37,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 01:43:00
+KW11545,high performance workstation review 37,Non-Branded,Workstation,Informational,Google,1,2025-10-01 01:44:00
+KW11546,enterprise server review 37,Non-Branded,Server,Navigational,Google,1,2025-10-01 01:45:00
+KW11547,rack server review 37,Non-Branded,Server,Commercial,Google,1,2025-10-01 01:46:00
+KW11548,desktop computer review 37,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 01:47:00
+KW11549,office desktop review 37,Non-Branded,Desktop,Informational,Google,1,2025-10-01 01:48:00
+KW11550,thunderbolt dock review 37,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 01:49:00
+KW11551,usb c docking station review 37,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 01:50:00
+KW11552,wireless keyboard review 37,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 01:51:00
+KW11553,wireless mouse review 37,Non-Branded,Accessories,Informational,Google,1,2025-10-01 01:52:00
+KW11554,gaming monitor review 37,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 01:53:00
+KW11555,ultrawide monitor review 37,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 01:54:00
+KW11556,laptop for programming review 37,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 01:55:00
+KW11557,laptop for engineering review 37,Non-Branded,Workstation,Informational,Google,1,2025-10-01 01:56:00
+KW11558,work from home laptop review 37,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 01:57:00
+KW11559,dell laptop specs 38,Branded,Laptop,Commercial,Google,1,2025-10-01 01:58:00
+KW11560,dell xps specs 38,Branded,Laptop,Transactional,Google,1,2025-10-01 01:59:00
+KW11561,dell xps 13 specs 38,Branded,Laptop,Informational,Google,1,2025-10-01 02:00:00
+KW11562,dell xps 15 specs 38,Branded,Laptop,Navigational,Google,1,2025-10-01 02:01:00
+KW11563,dell inspiron specs 38,Branded,Laptop,Commercial,Google,1,2025-10-01 02:02:00
+KW11564,dell latitude specs 38,Branded,Laptop,Transactional,Google,1,2025-10-01 02:03:00
+KW11565,dell precision specs 38,Branded,Laptop,Informational,Google,1,2025-10-01 02:04:00
+KW11566,dell monitor specs 38,Branded,Monitor,Navigational,Google,1,2025-10-01 02:05:00
+KW11567,dell ultrasharp specs 38,Branded,Laptop,Commercial,Google,1,2025-10-01 02:06:00
+KW11568,dell alienware specs 38,Branded,Laptop,Transactional,Google,1,2025-10-01 02:07:00
+KW11569,dell poweredge specs 38,Branded,Server,Informational,Google,1,2025-10-01 02:08:00
+KW11570,dell optiplex specs 38,Branded,Desktop,Navigational,Google,1,2025-10-01 02:09:00
+KW11571,dell docking station specs 38,Branded,Accessories,Commercial,Google,1,2025-10-01 02:10:00
+KW11572,dell wireless mouse specs 38,Branded,Accessories,Transactional,Google,1,2025-10-01 02:11:00
+KW11573,dell wireless keyboard specs 38,Branded,Accessories,Informational,Google,1,2025-10-01 02:12:00
+KW11574,dell gaming laptop specs 38,Branded,Laptop,Navigational,Google,1,2025-10-01 02:13:00
+KW11575,best business laptop specs 38,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 02:14:00
+KW11576,best laptop for work specs 38,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:15:00
+KW11577,best gaming laptop specs 38,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:16:00
+KW11578,business laptop specs 38,Non-Branded,Laptop,Navigational,Google,0,2025-10-01 02:17:00
+KW11579,lightweight laptop specs 38,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 02:18:00
+KW11580,student laptop specs 38,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:19:00
+KW11581,professional laptop specs 38,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:20:00
+KW11582,4k monitor specs 38,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 02:21:00
+KW11583,best monitor for work specs 38,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 02:22:00
+KW11584,usb c monitor specs 38,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 02:23:00
+KW11585,computer monitor specs 38,Non-Branded,Monitor,Informational,Google,1,2025-10-01 02:24:00
+KW11586,high performance workstation specs 38,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 02:25:00
+KW11587,enterprise server specs 38,Non-Branded,Server,Commercial,Google,1,2025-10-01 02:26:00
+KW11588,rack server specs 38,Non-Branded,Server,Transactional,Google,1,2025-10-01 02:27:00
+KW11589,desktop computer specs 38,Non-Branded,Desktop,Informational,Google,1,2025-10-01 02:28:00
+KW11590,office desktop specs 38,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 02:29:00
+KW11591,thunderbolt dock specs 38,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 02:30:00
+KW11592,usb c docking station specs 38,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 02:31:00
+KW11593,wireless keyboard specs 38,Non-Branded,Accessories,Informational,Google,1,2025-10-01 02:32:00
+KW11594,wireless mouse specs 38,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 02:33:00
+KW11595,gaming monitor specs 38,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 02:34:00
+KW11596,ultrawide monitor specs 38,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 02:35:00
+KW11597,laptop for programming specs 38,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:36:00
+KW11598,laptop for engineering specs 38,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 02:37:00
+KW11599,work from home laptop specs 38,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 02:38:00
+KW11600,dell laptop comparison 39,Branded,Laptop,Transactional,Google,1,2025-10-01 02:39:00
+KW11601,dell xps comparison 39,Branded,Laptop,Informational,Google,1,2025-10-01 02:40:00
+KW11602,dell xps 13 comparison 39,Branded,Laptop,Navigational,Google,1,2025-10-01 02:41:00
+KW11603,dell xps 15 comparison 39,Branded,Laptop,Commercial,Google,1,2025-10-01 02:42:00
+KW11604,dell inspiron comparison 39,Branded,Laptop,Transactional,Google,1,2025-10-01 02:43:00
+KW11605,dell latitude comparison 39,Branded,Laptop,Informational,Google,1,2025-10-01 02:44:00
+KW11606,dell precision comparison 39,Branded,Laptop,Navigational,Google,1,2025-10-01 02:45:00
+KW11607,dell monitor comparison 39,Branded,Monitor,Commercial,Google,1,2025-10-01 02:46:00
+KW11608,dell ultrasharp comparison 39,Branded,Laptop,Transactional,Google,1,2025-10-01 02:47:00
+KW11609,dell alienware comparison 39,Branded,Laptop,Informational,Google,1,2025-10-01 02:48:00
+KW11610,dell poweredge comparison 39,Branded,Server,Navigational,Google,1,2025-10-01 02:49:00
+KW11611,dell optiplex comparison 39,Branded,Desktop,Commercial,Google,1,2025-10-01 02:50:00
+KW11612,dell docking station comparison 39,Branded,Accessories,Transactional,Google,1,2025-10-01 02:51:00
+KW11613,dell wireless mouse comparison 39,Branded,Accessories,Informational,Google,1,2025-10-01 02:52:00
+KW11614,dell wireless keyboard comparison 39,Branded,Accessories,Navigational,Google,1,2025-10-01 02:53:00
+KW11615,dell gaming laptop comparison 39,Branded,Laptop,Commercial,Google,1,2025-10-01 02:54:00
+KW11616,best business laptop comparison 39,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:55:00
+KW11617,best laptop for work comparison 39,Non-Branded,Laptop,Informational,Google,1,2025-10-01 02:56:00
+KW11618,best gaming laptop comparison 39,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 02:57:00
+KW11619,business laptop comparison 39,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 02:58:00
+KW11620,lightweight laptop comparison 39,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 02:59:00
+KW11621,student laptop comparison 39,Non-Branded,Laptop,Informational,Google,1,2025-10-01 03:00:00
+KW11622,professional laptop comparison 39,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:01:00
+KW11623,4k monitor comparison 39,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 03:02:00
+KW11624,best monitor for work comparison 39,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 03:03:00
+KW11625,usb c monitor comparison 39,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:04:00
+KW11626,computer monitor comparison 39,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 03:05:00
+KW11627,high performance workstation comparison 39,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 03:06:00
+KW11628,enterprise server comparison 39,Non-Branded,Server,Transactional,Google,1,2025-10-01 03:07:00
+KW11629,rack server comparison 39,Non-Branded,Server,Informational,Google,1,2025-10-01 03:08:00
+KW11630,desktop computer comparison 39,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 03:09:00
+KW11631,office desktop comparison 39,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 03:10:00
+KW11632,thunderbolt dock comparison 39,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 03:11:00
+KW11633,usb c docking station comparison 39,Non-Branded,Accessories,Informational,Google,1,2025-10-01 03:12:00
+KW11634,wireless keyboard comparison 39,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 03:13:00
+KW11635,wireless mouse comparison 39,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 03:14:00
+KW11636,gaming monitor comparison 39,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 03:15:00
+KW11637,ultrawide monitor comparison 39,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:16:00
+KW11638,laptop for programming comparison 39,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:17:00
+KW11639,laptop for engineering comparison 39,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 03:18:00
+KW11640,work from home laptop comparison 39,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 03:19:00
+KW11641,dell laptop price 40,Branded,Laptop,Informational,Google,1,2025-10-01 03:20:00
+KW11642,dell xps price 40,Branded,Laptop,Navigational,Google,1,2025-10-01 03:21:00
+KW11643,dell xps 13 price 40,Branded,Laptop,Commercial,Google,1,2025-10-01 03:22:00
+KW11644,dell xps 15 price 40,Branded,Laptop,Transactional,Google,1,2025-10-01 03:23:00
+KW11645,dell inspiron price 40,Branded,Laptop,Informational,Google,1,2025-10-01 03:24:00
+KW11646,dell latitude price 40,Branded,Laptop,Navigational,Google,1,2025-10-01 03:25:00
+KW11647,dell precision price 40,Branded,Laptop,Commercial,Google,1,2025-10-01 03:26:00
+KW11648,dell monitor price 40,Branded,Monitor,Transactional,Google,1,2025-10-01 03:27:00
+KW11649,dell ultrasharp price 40,Branded,Laptop,Informational,Google,1,2025-10-01 03:28:00
+KW11650,dell alienware price 40,Branded,Laptop,Navigational,Google,1,2025-10-01 03:29:00
+KW11651,dell poweredge price 40,Branded,Server,Commercial,Google,1,2025-10-01 03:30:00
+KW11652,dell optiplex price 40,Branded,Desktop,Transactional,Google,1,2025-10-01 03:31:00
+KW11653,dell docking station price 40,Branded,Accessories,Informational,Google,1,2025-10-01 03:32:00
+KW11654,dell wireless mouse price 40,Branded,Accessories,Navigational,Google,1,2025-10-01 03:33:00
+KW11655,dell wireless keyboard price 40,Branded,Accessories,Commercial,Google,1,2025-10-01 03:34:00
+KW11656,dell gaming laptop price 40,Branded,Laptop,Transactional,Google,1,2025-10-01 03:35:00
+KW11657,best business laptop price 40,Non-Branded,Laptop,Informational,Google,1,2025-10-01 03:36:00
+KW11658,best laptop for work price 40,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:37:00
+KW11659,best gaming laptop price 40,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:38:00
+KW11660,business laptop price 40,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 03:39:00
+KW11661,lightweight laptop price 40,Non-Branded,Laptop,Informational,Google,0,2025-10-01 03:40:00
+KW11662,student laptop price 40,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 03:41:00
+KW11663,professional laptop price 40,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:42:00
+KW11664,4k monitor price 40,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 03:43:00
+KW11665,best monitor for work price 40,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:44:00
+KW11666,usb c monitor price 40,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 03:45:00
+KW11667,computer monitor price 40,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 03:46:00
+KW11668,high performance workstation price 40,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 03:47:00
+KW11669,enterprise server price 40,Non-Branded,Server,Informational,Google,1,2025-10-01 03:48:00
+KW11670,rack server price 40,Non-Branded,Server,Navigational,Google,1,2025-10-01 03:49:00
+KW11671,desktop computer price 40,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 03:50:00
+KW11672,office desktop price 40,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 03:51:00
+KW11673,thunderbolt dock price 40,Non-Branded,Accessories,Informational,Google,1,2025-10-01 03:52:00
+KW11674,usb c docking station price 40,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 03:53:00
+KW11675,wireless keyboard price 40,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 03:54:00
+KW11676,wireless mouse price 40,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 03:55:00
+KW11677,gaming monitor price 40,Non-Branded,Monitor,Informational,Google,1,2025-10-01 03:56:00
+KW11678,ultrawide monitor price 40,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 03:57:00
+KW11679,laptop for programming price 40,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 03:58:00
+KW11680,laptop for engineering price 40,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 03:59:00
+KW11681,work from home laptop price 40,Non-Branded,Laptop,Informational,Google,1,2025-10-01 04:00:00
+KW11682,dell laptop deals 41,Branded,Laptop,Navigational,Google,1,2025-10-01 04:01:00
+KW11683,dell xps deals 41,Branded,Laptop,Commercial,Google,1,2025-10-01 04:02:00
+KW11684,dell xps 13 deals 41,Branded,Laptop,Transactional,Google,1,2025-10-01 04:03:00
+KW11685,dell xps 15 deals 41,Branded,Laptop,Informational,Google,1,2025-10-01 04:04:00
+KW11686,dell inspiron deals 41,Branded,Laptop,Navigational,Google,1,2025-10-01 04:05:00
+KW11687,dell latitude deals 41,Branded,Laptop,Commercial,Google,1,2025-10-01 04:06:00
+KW11688,dell precision deals 41,Branded,Laptop,Transactional,Google,1,2025-10-01 04:07:00
+KW11689,dell monitor deals 41,Branded,Monitor,Informational,Google,1,2025-10-01 04:08:00
+KW11690,dell ultrasharp deals 41,Branded,Laptop,Navigational,Google,1,2025-10-01 04:09:00
+KW11691,dell alienware deals 41,Branded,Laptop,Commercial,Google,1,2025-10-01 04:10:00
+KW11692,dell poweredge deals 41,Branded,Server,Transactional,Google,1,2025-10-01 04:11:00
+KW11693,dell optiplex deals 41,Branded,Desktop,Informational,Google,1,2025-10-01 04:12:00
+KW11694,dell docking station deals 41,Branded,Accessories,Navigational,Google,1,2025-10-01 04:13:00
+KW11695,dell wireless mouse deals 41,Branded,Accessories,Commercial,Google,1,2025-10-01 04:14:00
+KW11696,dell wireless keyboard deals 41,Branded,Accessories,Transactional,Google,1,2025-10-01 04:15:00
+KW11697,dell gaming laptop deals 41,Branded,Laptop,Informational,Google,1,2025-10-01 04:16:00
+KW11698,best business laptop deals 41,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 04:17:00
+KW11699,best laptop for work deals 41,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 04:18:00
+KW11700,best gaming laptop deals 41,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:19:00
+KW11701,business laptop deals 41,Non-Branded,Laptop,Informational,Google,1,2025-10-01 04:20:00
+KW11702,lightweight laptop deals 41,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 04:21:00
+KW11703,student laptop deals 41,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 04:22:00
+KW11704,professional laptop deals 41,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:23:00
+KW11705,4k monitor deals 41,Non-Branded,Monitor,Informational,Google,1,2025-10-01 04:24:00
+KW11706,best monitor for work deals 41,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 04:25:00
+KW11707,usb c monitor deals 41,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 04:26:00
+KW11708,computer monitor deals 41,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 04:27:00
+KW11709,high performance workstation deals 41,Non-Branded,Workstation,Informational,Google,1,2025-10-01 04:28:00
+KW11710,enterprise server deals 41,Non-Branded,Server,Navigational,Google,1,2025-10-01 04:29:00
+KW11711,rack server deals 41,Non-Branded,Server,Commercial,Google,1,2025-10-01 04:30:00
+KW11712,desktop computer deals 41,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 04:31:00
+KW11713,office desktop deals 41,Non-Branded,Desktop,Informational,Google,1,2025-10-01 04:32:00
+KW11714,thunderbolt dock deals 41,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 04:33:00
+KW11715,usb c docking station deals 41,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 04:34:00
+KW11716,wireless keyboard deals 41,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 04:35:00
+KW11717,wireless mouse deals 41,Non-Branded,Accessories,Informational,Google,1,2025-10-01 04:36:00
+KW11718,gaming monitor deals 41,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 04:37:00
+KW11719,ultrawide monitor deals 41,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 04:38:00
+KW11720,laptop for programming deals 41,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:39:00
+KW11721,laptop for engineering deals 41,Non-Branded,Workstation,Informational,Google,1,2025-10-01 04:40:00
+KW11722,work from home laptop deals 41,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 04:41:00
+KW11723,dell laptop online 42,Branded,Laptop,Commercial,Google,1,2025-10-01 04:42:00
+KW11724,dell xps online 42,Branded,Laptop,Transactional,Google,1,2025-10-01 04:43:00
+KW11725,dell xps 13 online 42,Branded,Laptop,Informational,Google,1,2025-10-01 04:44:00
+KW11726,dell xps 15 online 42,Branded,Laptop,Navigational,Google,1,2025-10-01 04:45:00
+KW11727,dell inspiron online 42,Branded,Laptop,Commercial,Google,1,2025-10-01 04:46:00
+KW11728,dell latitude online 42,Branded,Laptop,Transactional,Google,1,2025-10-01 04:47:00
+KW11729,dell precision online 42,Branded,Laptop,Informational,Google,1,2025-10-01 04:48:00
+KW11730,dell monitor online 42,Branded,Monitor,Navigational,Google,1,2025-10-01 04:49:00
+KW11731,dell ultrasharp online 42,Branded,Laptop,Commercial,Google,1,2025-10-01 04:50:00
+KW11732,dell alienware online 42,Branded,Laptop,Transactional,Google,1,2025-10-01 04:51:00
+KW11733,dell poweredge online 42,Branded,Server,Informational,Google,1,2025-10-01 04:52:00
+KW11734,dell optiplex online 42,Branded,Desktop,Navigational,Google,1,2025-10-01 04:53:00
+KW11735,dell docking station online 42,Branded,Accessories,Commercial,Google,1,2025-10-01 04:54:00
+KW11736,dell wireless mouse online 42,Branded,Accessories,Transactional,Google,1,2025-10-01 04:55:00
+KW11737,dell wireless keyboard online 42,Branded,Accessories,Informational,Google,1,2025-10-01 04:56:00
+KW11738,dell gaming laptop online 42,Branded,Laptop,Navigational,Google,1,2025-10-01 04:57:00
+KW11739,best business laptop online 42,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 04:58:00
+KW11740,best laptop for work online 42,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 04:59:00
+KW11741,best gaming laptop online 42,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:00:00
+KW11742,business laptop online 42,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:01:00
+KW11743,lightweight laptop online 42,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 05:02:00
+KW11744,student laptop online 42,Non-Branded,Laptop,Transactional,Google,0,2025-10-01 05:03:00
+KW11745,professional laptop online 42,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:04:00
+KW11746,4k monitor online 42,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 05:05:00
+KW11747,best monitor for work online 42,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 05:06:00
+KW11748,usb c monitor online 42,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:07:00
+KW11749,computer monitor online 42,Non-Branded,Monitor,Informational,Google,1,2025-10-01 05:08:00
+KW11750,high performance workstation online 42,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 05:09:00
+KW11751,enterprise server online 42,Non-Branded,Server,Commercial,Google,1,2025-10-01 05:10:00
+KW11752,rack server online 42,Non-Branded,Server,Transactional,Google,1,2025-10-01 05:11:00
+KW11753,desktop computer online 42,Non-Branded,Desktop,Informational,Google,1,2025-10-01 05:12:00
+KW11754,office desktop online 42,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 05:13:00
+KW11755,thunderbolt dock online 42,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 05:14:00
+KW11756,usb c docking station online 42,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 05:15:00
+KW11757,wireless keyboard online 42,Non-Branded,Accessories,Informational,Google,1,2025-10-01 05:16:00
+KW11758,wireless mouse online 42,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 05:17:00
+KW11759,gaming monitor online 42,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 05:18:00
+KW11760,ultrawide monitor online 42,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:19:00
+KW11761,laptop for programming online 42,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:20:00
+KW11762,laptop for engineering online 42,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 05:21:00
+KW11763,work from home laptop online 42,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 05:22:00
+KW11764,dell laptop for business 43,Branded,Laptop,Transactional,Google,1,2025-10-01 05:23:00
+KW11765,dell xps for business 43,Branded,Laptop,Informational,Google,1,2025-10-01 05:24:00
+KW11766,dell xps 13 for business 43,Branded,Laptop,Navigational,Google,1,2025-10-01 05:25:00
+KW11767,dell xps 15 for business 43,Branded,Laptop,Commercial,Google,1,2025-10-01 05:26:00
+KW11768,dell inspiron for business 43,Branded,Laptop,Transactional,Google,1,2025-10-01 05:27:00
+KW11769,dell latitude for business 43,Branded,Laptop,Informational,Google,1,2025-10-01 05:28:00
+KW11770,dell precision for business 43,Branded,Laptop,Navigational,Google,1,2025-10-01 05:29:00
+KW11771,dell monitor for business 43,Branded,Monitor,Commercial,Google,1,2025-10-01 05:30:00
+KW11772,dell ultrasharp for business 43,Branded,Laptop,Transactional,Google,1,2025-10-01 05:31:00
+KW11773,dell alienware for business 43,Branded,Laptop,Informational,Google,1,2025-10-01 05:32:00
+KW11774,dell poweredge for business 43,Branded,Server,Navigational,Google,1,2025-10-01 05:33:00
+KW11775,dell optiplex for business 43,Branded,Desktop,Commercial,Google,1,2025-10-01 05:34:00
+KW11776,dell docking station for business 43,Branded,Accessories,Transactional,Google,1,2025-10-01 05:35:00
+KW11777,dell wireless mouse for business 43,Branded,Accessories,Informational,Google,1,2025-10-01 05:36:00
+KW11778,dell wireless keyboard for business 43,Branded,Accessories,Navigational,Google,1,2025-10-01 05:37:00
+KW11779,dell gaming laptop for business 43,Branded,Laptop,Commercial,Google,1,2025-10-01 05:38:00
+KW11780,best business laptop for business 43,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 05:39:00
+KW11781,best laptop for work for business 43,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:40:00
+KW11782,best gaming laptop for business 43,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:41:00
+KW11783,business laptop for business 43,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 05:42:00
+KW11784,lightweight laptop for business 43,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 05:43:00
+KW11785,student laptop for business 43,Non-Branded,Laptop,Informational,Google,1,2025-10-01 05:44:00
+KW11786,professional laptop for business 43,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 05:45:00
+KW11787,4k monitor for business 43,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 05:46:00
+KW11788,best monitor for work for business 43,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:47:00
+KW11789,usb c monitor for business 43,Non-Branded,Monitor,Informational,Google,1,2025-10-01 05:48:00
+KW11790,computer monitor for business 43,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 05:49:00
+KW11791,high performance workstation for business 43,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 05:50:00
+KW11792,enterprise server for business 43,Non-Branded,Server,Transactional,Google,1,2025-10-01 05:51:00
+KW11793,rack server for business 43,Non-Branded,Server,Informational,Google,1,2025-10-01 05:52:00
+KW11794,desktop computer for business 43,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 05:53:00
+KW11795,office desktop for business 43,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 05:54:00
+KW11796,thunderbolt dock for business 43,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 05:55:00
+KW11797,usb c docking station for business 43,Non-Branded,Accessories,Informational,Google,1,2025-10-01 05:56:00
+KW11798,wireless keyboard for business 43,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 05:57:00
+KW11799,wireless mouse for business 43,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 05:58:00
+KW11800,gaming monitor for business 43,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 05:59:00
+KW11801,ultrawide monitor for business 43,Non-Branded,Monitor,Informational,Google,1,2025-10-01 06:00:00
+KW11802,laptop for programming for business 43,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 06:01:00
+KW11803,laptop for engineering for business 43,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 06:02:00
+KW11804,work from home laptop for business 43,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 06:03:00
+KW11805,dell laptop 2026 44,Branded,Laptop,Informational,Google,1,2025-10-01 06:04:00
+KW11806,dell xps 2026 44,Branded,Laptop,Navigational,Google,1,2025-10-01 06:05:00
+KW11807,dell xps 13 2026 44,Branded,Laptop,Commercial,Google,1,2025-10-01 06:06:00
+KW11808,dell xps 15 2026 44,Branded,Laptop,Transactional,Google,1,2025-10-01 06:07:00
+KW11809,dell inspiron 2026 44,Branded,Laptop,Informational,Google,1,2025-10-01 06:08:00
+KW11810,dell latitude 2026 44,Branded,Laptop,Navigational,Google,1,2025-10-01 06:09:00
+KW11811,dell precision 2026 44,Branded,Laptop,Commercial,Google,1,2025-10-01 06:10:00
+KW11812,dell monitor 2026 44,Branded,Monitor,Transactional,Google,1,2025-10-01 06:11:00
+KW11813,dell ultrasharp 2026 44,Branded,Laptop,Informational,Google,1,2025-10-01 06:12:00
+KW11814,dell alienware 2026 44,Branded,Laptop,Navigational,Google,1,2025-10-01 06:13:00
+KW11815,dell poweredge 2026 44,Branded,Server,Commercial,Google,1,2025-10-01 06:14:00
+KW11816,dell optiplex 2026 44,Branded,Desktop,Transactional,Google,1,2025-10-01 06:15:00
+KW11817,dell docking station 2026 44,Branded,Accessories,Informational,Google,1,2025-10-01 06:16:00
+KW11818,dell wireless mouse 2026 44,Branded,Accessories,Navigational,Google,1,2025-10-01 06:17:00
+KW11819,dell wireless keyboard 2026 44,Branded,Accessories,Commercial,Google,1,2025-10-01 06:18:00
+KW11820,dell gaming laptop 2026 44,Branded,Laptop,Transactional,Google,1,2025-10-01 06:19:00
+KW11821,best business laptop 2026 44,Non-Branded,Laptop,Informational,Google,1,2025-10-01 06:20:00
+KW11822,best laptop for work 2026 44,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 06:21:00
+KW11823,best gaming laptop 2026 44,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 06:22:00
+KW11824,business laptop 2026 44,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 06:23:00
+KW11825,lightweight laptop 2026 44,Non-Branded,Laptop,Informational,Google,1,2025-10-01 06:24:00
+KW11826,student laptop 2026 44,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 06:25:00
+KW11827,professional laptop 2026 44,Non-Branded,Laptop,Commercial,Google,0,2025-10-01 06:26:00
+KW11828,4k monitor 2026 44,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 06:27:00
+KW11829,best monitor for work 2026 44,Non-Branded,Monitor,Informational,Google,1,2025-10-01 06:28:00
+KW11830,usb c monitor 2026 44,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 06:29:00
+KW11831,computer monitor 2026 44,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 06:30:00
+KW11832,high performance workstation 2026 44,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 06:31:00
+KW11833,enterprise server 2026 44,Non-Branded,Server,Informational,Google,1,2025-10-01 06:32:00
+KW11834,rack server 2026 44,Non-Branded,Server,Navigational,Google,1,2025-10-01 06:33:00
+KW11835,desktop computer 2026 44,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 06:34:00
+KW11836,office desktop 2026 44,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 06:35:00
+KW11837,thunderbolt dock 2026 44,Non-Branded,Accessories,Informational,Google,1,2025-10-01 06:36:00
+KW11838,usb c docking station 2026 44,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 06:37:00
+KW11839,wireless keyboard 2026 44,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 06:38:00
+KW11840,wireless mouse 2026 44,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 06:39:00
+KW11841,gaming monitor 2026 44,Non-Branded,Monitor,Informational,Google,1,2025-10-01 06:40:00
+KW11842,ultrawide monitor 2026 44,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 06:41:00
+KW11843,laptop for programming 2026 44,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 06:42:00
+KW11844,laptop for engineering 2026 44,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 06:43:00
+KW11845,work from home laptop 2026 44,Non-Branded,Laptop,Informational,Google,1,2025-10-01 06:44:00
+KW11846,dell laptop review 45,Branded,Laptop,Navigational,Google,1,2025-10-01 06:45:00
+KW11847,dell xps review 45,Branded,Laptop,Commercial,Google,1,2025-10-01 06:46:00
+KW11848,dell xps 13 review 45,Branded,Laptop,Transactional,Google,1,2025-10-01 06:47:00
+KW11849,dell xps 15 review 45,Branded,Laptop,Informational,Google,1,2025-10-01 06:48:00
+KW11850,dell inspiron review 45,Branded,Laptop,Navigational,Google,1,2025-10-01 06:49:00
+KW11851,dell latitude review 45,Branded,Laptop,Commercial,Google,1,2025-10-01 06:50:00
+KW11852,dell precision review 45,Branded,Laptop,Transactional,Google,1,2025-10-01 06:51:00
+KW11853,dell monitor review 45,Branded,Monitor,Informational,Google,1,2025-10-01 06:52:00
+KW11854,dell ultrasharp review 45,Branded,Laptop,Navigational,Google,1,2025-10-01 06:53:00
+KW11855,dell alienware review 45,Branded,Laptop,Commercial,Google,1,2025-10-01 06:54:00
+KW11856,dell poweredge review 45,Branded,Server,Transactional,Google,1,2025-10-01 06:55:00
+KW11857,dell optiplex review 45,Branded,Desktop,Informational,Google,1,2025-10-01 06:56:00
+KW11858,dell docking station review 45,Branded,Accessories,Navigational,Google,1,2025-10-01 06:57:00
+KW11859,dell wireless mouse review 45,Branded,Accessories,Commercial,Google,1,2025-10-01 06:58:00
+KW11860,dell wireless keyboard review 45,Branded,Accessories,Transactional,Google,1,2025-10-01 06:59:00
+KW11861,dell gaming laptop review 45,Branded,Laptop,Informational,Google,1,2025-10-01 07:00:00
+KW11862,best business laptop review 45,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:01:00
+KW11863,best laptop for work review 45,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:02:00
+KW11864,best gaming laptop review 45,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:03:00
+KW11865,business laptop review 45,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:04:00
+KW11866,lightweight laptop review 45,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:05:00
+KW11867,student laptop review 45,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:06:00
+KW11868,professional laptop review 45,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:07:00
+KW11869,4k monitor review 45,Non-Branded,Monitor,Informational,Google,1,2025-10-01 07:08:00
+KW11870,best monitor for work review 45,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 07:09:00
+KW11871,usb c monitor review 45,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 07:10:00
+KW11872,computer monitor review 45,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 07:11:00
+KW11873,high performance workstation review 45,Non-Branded,Workstation,Informational,Google,1,2025-10-01 07:12:00
+KW11874,enterprise server review 45,Non-Branded,Server,Navigational,Google,1,2025-10-01 07:13:00
+KW11875,rack server review 45,Non-Branded,Server,Commercial,Google,1,2025-10-01 07:14:00
+KW11876,desktop computer review 45,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 07:15:00
+KW11877,office desktop review 45,Non-Branded,Desktop,Informational,Google,1,2025-10-01 07:16:00
+KW11878,thunderbolt dock review 45,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 07:17:00
+KW11879,usb c docking station review 45,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 07:18:00
+KW11880,wireless keyboard review 45,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 07:19:00
+KW11881,wireless mouse review 45,Non-Branded,Accessories,Informational,Google,1,2025-10-01 07:20:00
+KW11882,gaming monitor review 45,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 07:21:00
+KW11883,ultrawide monitor review 45,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 07:22:00
+KW11884,laptop for programming review 45,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:23:00
+KW11885,laptop for engineering review 45,Non-Branded,Workstation,Informational,Google,1,2025-10-01 07:24:00
+KW11886,work from home laptop review 45,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:25:00
+KW11887,dell laptop specs 46,Branded,Laptop,Commercial,Google,1,2025-10-01 07:26:00
+KW11888,dell xps specs 46,Branded,Laptop,Transactional,Google,1,2025-10-01 07:27:00
+KW11889,dell xps 13 specs 46,Branded,Laptop,Informational,Google,1,2025-10-01 07:28:00
+KW11890,dell xps 15 specs 46,Branded,Laptop,Navigational,Google,1,2025-10-01 07:29:00
+KW11891,dell inspiron specs 46,Branded,Laptop,Commercial,Google,1,2025-10-01 07:30:00
+KW11892,dell latitude specs 46,Branded,Laptop,Transactional,Google,1,2025-10-01 07:31:00
+KW11893,dell precision specs 46,Branded,Laptop,Informational,Google,1,2025-10-01 07:32:00
+KW11894,dell monitor specs 46,Branded,Monitor,Navigational,Google,1,2025-10-01 07:33:00
+KW11895,dell ultrasharp specs 46,Branded,Laptop,Commercial,Google,1,2025-10-01 07:34:00
+KW11896,dell alienware specs 46,Branded,Laptop,Transactional,Google,1,2025-10-01 07:35:00
+KW11897,dell poweredge specs 46,Branded,Server,Informational,Google,1,2025-10-01 07:36:00
+KW11898,dell optiplex specs 46,Branded,Desktop,Navigational,Google,1,2025-10-01 07:37:00
+KW11899,dell docking station specs 46,Branded,Accessories,Commercial,Google,1,2025-10-01 07:38:00
+KW11900,dell wireless mouse specs 46,Branded,Accessories,Transactional,Google,1,2025-10-01 07:39:00
+KW11901,dell wireless keyboard specs 46,Branded,Accessories,Informational,Google,1,2025-10-01 07:40:00
+KW11902,dell gaming laptop specs 46,Branded,Laptop,Navigational,Google,1,2025-10-01 07:41:00
+KW11903,best business laptop specs 46,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:42:00
+KW11904,best laptop for work specs 46,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:43:00
+KW11905,best gaming laptop specs 46,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:44:00
+KW11906,business laptop specs 46,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 07:45:00
+KW11907,lightweight laptop specs 46,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 07:46:00
+KW11908,student laptop specs 46,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 07:47:00
+KW11909,professional laptop specs 46,Non-Branded,Laptop,Informational,Google,1,2025-10-01 07:48:00
+KW11910,4k monitor specs 46,Non-Branded,Monitor,Navigational,Google,0,2025-10-01 07:49:00
+KW11911,best monitor for work specs 46,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 07:50:00
+KW11912,usb c monitor specs 46,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 07:51:00
+KW11913,computer monitor specs 46,Non-Branded,Monitor,Informational,Google,1,2025-10-01 07:52:00
+KW11914,high performance workstation specs 46,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 07:53:00
+KW11915,enterprise server specs 46,Non-Branded,Server,Commercial,Google,1,2025-10-01 07:54:00
+KW11916,rack server specs 46,Non-Branded,Server,Transactional,Google,1,2025-10-01 07:55:00
+KW11917,desktop computer specs 46,Non-Branded,Desktop,Informational,Google,1,2025-10-01 07:56:00
+KW11918,office desktop specs 46,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 07:57:00
+KW11919,thunderbolt dock specs 46,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 07:58:00
+KW11920,usb c docking station specs 46,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 07:59:00
+KW11921,wireless keyboard specs 46,Non-Branded,Accessories,Informational,Google,1,2025-10-01 08:00:00
+KW11922,wireless mouse specs 46,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 08:01:00
+KW11923,gaming monitor specs 46,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 08:02:00
+KW11924,ultrawide monitor specs 46,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 08:03:00
+KW11925,laptop for programming specs 46,Non-Branded,Laptop,Informational,Google,1,2025-10-01 08:04:00
+KW11926,laptop for engineering specs 46,Non-Branded,Workstation,Navigational,Google,1,2025-10-01 08:05:00
+KW11927,work from home laptop specs 46,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 08:06:00
+KW11928,dell laptop comparison 47,Branded,Laptop,Transactional,Google,1,2025-10-01 08:07:00
+KW11929,dell xps comparison 47,Branded,Laptop,Informational,Google,1,2025-10-01 08:08:00
+KW11930,dell xps 13 comparison 47,Branded,Laptop,Navigational,Google,1,2025-10-01 08:09:00
+KW11931,dell xps 15 comparison 47,Branded,Laptop,Commercial,Google,1,2025-10-01 08:10:00
+KW11932,dell inspiron comparison 47,Branded,Laptop,Transactional,Google,1,2025-10-01 08:11:00
+KW11933,dell latitude comparison 47,Branded,Laptop,Informational,Google,1,2025-10-01 08:12:00
+KW11934,dell precision comparison 47,Branded,Laptop,Navigational,Google,1,2025-10-01 08:13:00
+KW11935,dell monitor comparison 47,Branded,Monitor,Commercial,Google,1,2025-10-01 08:14:00
+KW11936,dell ultrasharp comparison 47,Branded,Laptop,Transactional,Google,1,2025-10-01 08:15:00
+KW11937,dell alienware comparison 47,Branded,Laptop,Informational,Google,1,2025-10-01 08:16:00
+KW11938,dell poweredge comparison 47,Branded,Server,Navigational,Google,1,2025-10-01 08:17:00
+KW11939,dell optiplex comparison 47,Branded,Desktop,Commercial,Google,1,2025-10-01 08:18:00
+KW11940,dell docking station comparison 47,Branded,Accessories,Transactional,Google,1,2025-10-01 08:19:00
+KW11941,dell wireless mouse comparison 47,Branded,Accessories,Informational,Google,1,2025-10-01 08:20:00
+KW11942,dell wireless keyboard comparison 47,Branded,Accessories,Navigational,Google,1,2025-10-01 08:21:00
+KW11943,dell gaming laptop comparison 47,Branded,Laptop,Commercial,Google,1,2025-10-01 08:22:00
+KW11944,best business laptop comparison 47,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 08:23:00
+KW11945,best laptop for work comparison 47,Non-Branded,Laptop,Informational,Google,1,2025-10-01 08:24:00
+KW11946,best gaming laptop comparison 47,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 08:25:00
+KW11947,business laptop comparison 47,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 08:26:00
+KW11948,lightweight laptop comparison 47,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 08:27:00
+KW11949,student laptop comparison 47,Non-Branded,Laptop,Informational,Google,1,2025-10-01 08:28:00
+KW11950,professional laptop comparison 47,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 08:29:00
+KW11951,4k monitor comparison 47,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 08:30:00
+KW11952,best monitor for work comparison 47,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 08:31:00
+KW11953,usb c monitor comparison 47,Non-Branded,Monitor,Informational,Google,1,2025-10-01 08:32:00
+KW11954,computer monitor comparison 47,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 08:33:00
+KW11955,high performance workstation comparison 47,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 08:34:00
+KW11956,enterprise server comparison 47,Non-Branded,Server,Transactional,Google,1,2025-10-01 08:35:00
+KW11957,rack server comparison 47,Non-Branded,Server,Informational,Google,1,2025-10-01 08:36:00
+KW11958,desktop computer comparison 47,Non-Branded,Desktop,Navigational,Google,1,2025-10-01 08:37:00
+KW11959,office desktop comparison 47,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 08:38:00
+KW11960,thunderbolt dock comparison 47,Non-Branded,Accessories,Transactional,Google,1,2025-10-01 08:39:00
+KW11961,usb c docking station comparison 47,Non-Branded,Accessories,Informational,Google,1,2025-10-01 08:40:00
+KW11962,wireless keyboard comparison 47,Non-Branded,Accessories,Navigational,Google,1,2025-10-01 08:41:00
+KW11963,wireless mouse comparison 47,Non-Branded,Accessories,Commercial,Google,1,2025-10-01 08:42:00
+KW11964,gaming monitor comparison 47,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 08:43:00
+KW11965,ultrawide monitor comparison 47,Non-Branded,Monitor,Informational,Google,1,2025-10-01 08:44:00
+KW11966,laptop for programming comparison 47,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 08:45:00
+KW11967,laptop for engineering comparison 47,Non-Branded,Workstation,Commercial,Google,1,2025-10-01 08:46:00
+KW11968,work from home laptop comparison 47,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 08:47:00
+KW11969,dell laptop price 48,Branded,Laptop,Informational,Google,1,2025-10-01 08:48:00
+KW11970,dell xps price 48,Branded,Laptop,Navigational,Google,1,2025-10-01 08:49:00
+KW11971,dell xps 13 price 48,Branded,Laptop,Commercial,Google,1,2025-10-01 08:50:00
+KW11972,dell xps 15 price 48,Branded,Laptop,Transactional,Google,1,2025-10-01 08:51:00
+KW11973,dell inspiron price 48,Branded,Laptop,Informational,Google,1,2025-10-01 08:52:00
+KW11974,dell latitude price 48,Branded,Laptop,Navigational,Google,1,2025-10-01 08:53:00
+KW11975,dell precision price 48,Branded,Laptop,Commercial,Google,1,2025-10-01 08:54:00
+KW11976,dell monitor price 48,Branded,Monitor,Transactional,Google,1,2025-10-01 08:55:00
+KW11977,dell ultrasharp price 48,Branded,Laptop,Informational,Google,1,2025-10-01 08:56:00
+KW11978,dell alienware price 48,Branded,Laptop,Navigational,Google,1,2025-10-01 08:57:00
+KW11979,dell poweredge price 48,Branded,Server,Commercial,Google,1,2025-10-01 08:58:00
+KW11980,dell optiplex price 48,Branded,Desktop,Transactional,Google,1,2025-10-01 08:59:00
+KW11981,dell docking station price 48,Branded,Accessories,Informational,Google,1,2025-10-01 09:00:00
+KW11982,dell wireless mouse price 48,Branded,Accessories,Navigational,Google,1,2025-10-01 09:01:00
+KW11983,dell wireless keyboard price 48,Branded,Accessories,Commercial,Google,1,2025-10-01 09:02:00
+KW11984,dell gaming laptop price 48,Branded,Laptop,Transactional,Google,1,2025-10-01 09:03:00
+KW11985,best business laptop price 48,Non-Branded,Laptop,Informational,Google,1,2025-10-01 09:04:00
+KW11986,best laptop for work price 48,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 09:05:00
+KW11987,best gaming laptop price 48,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 09:06:00
+KW11988,business laptop price 48,Non-Branded,Laptop,Transactional,Google,1,2025-10-01 09:07:00
+KW11989,lightweight laptop price 48,Non-Branded,Laptop,Informational,Google,1,2025-10-01 09:08:00
+KW11990,student laptop price 48,Non-Branded,Laptop,Navigational,Google,1,2025-10-01 09:09:00
+KW11991,professional laptop price 48,Non-Branded,Laptop,Commercial,Google,1,2025-10-01 09:10:00
+KW11992,4k monitor price 48,Non-Branded,Monitor,Transactional,Google,1,2025-10-01 09:11:00
+KW11993,best monitor for work price 48,Non-Branded,Monitor,Informational,Google,0,2025-10-01 09:12:00
+KW11994,usb c monitor price 48,Non-Branded,Monitor,Navigational,Google,1,2025-10-01 09:13:00
+KW11995,computer monitor price 48,Non-Branded,Monitor,Commercial,Google,1,2025-10-01 09:14:00
+KW11996,high performance workstation price 48,Non-Branded,Workstation,Transactional,Google,1,2025-10-01 09:15:00
+KW11997,enterprise server price 48,Non-Branded,Server,Informational,Google,1,2025-10-01 09:16:00
+KW11998,rack server price 48,Non-Branded,Server,Navigational,Google,1,2025-10-01 09:17:00
+KW11999,desktop computer price 48,Non-Branded,Desktop,Commercial,Google,1,2025-10-01 09:18:00
+KW12000,office desktop price 48,Non-Branded,Desktop,Transactional,Google,1,2025-10-01 09:19:00

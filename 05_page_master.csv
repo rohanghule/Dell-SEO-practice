@@ -1,0 +1,501 @@
+page_id,page_url,page_type,product_id,page_category,active_flag,updated_timestamp
+PG1001,/en-us/shop/dell-xps-13,Product,P1001,Laptop,0,2025-10-01 03:00:00
+PG1002,/en-us/shop/dell-xps-15,Product,P1002,Laptop,1,2025-10-01 03:01:00
+PG1003,/en-us/shop/dell-inspiron-15,Product,P1003,Laptop,1,2025-10-01 03:02:00
+PG1004,/en-us/shop/dell-ultrasharp-monitor,Product,P1004,Monitor,1,2025-10-01 03:03:00
+PG1005,/en-us/shop/dell-latitude-5440,Product,P1005,Laptop,1,2025-10-01 03:04:00
+PG1006,/en-us/shop/dell-precision-5680,Product,P1006,Workstation,1,2025-10-01 03:05:00
+PG1007,/en-us/shop/dell-alienware-m16,Product,P1007,Gaming Laptop,1,2025-10-01 03:06:00
+PG1008,/en-us/shop/dell-g15-gaming-laptop,Product,P1008,Gaming Laptop,1,2025-10-01 03:07:00
+PG1009,/en-us/shop/dell-p2425-monitor,Product,P1009,Monitor,1,2025-10-01 03:08:00
+PG1010,/en-us/shop/dell-poweredge-r760,Product,P1010,Server,1,2025-10-01 03:09:00
+PG1011,/en-us/shop/dell-optiplex-7010,Product,P1011,Desktop,1,2025-10-01 03:10:00
+PG1012,/en-us/shop/dell-vostro-3520,Product,P1012,Laptop,1,2025-10-01 03:11:00
+PG1013,/en-us/shop/dell-precision-3660,Product,P1013,Workstation,1,2025-10-01 03:12:00
+PG1014,/en-us/shop/dell-pro-wireless-mouse,Product,P1014,Accessories,1,2025-10-01 03:13:00
+PG1015,/en-us/shop/dell-pro-wireless-keyboard,Product,P1015,Accessories,1,2025-10-01 03:14:00
+PG1016,/en-us/shop/dell-wd22tb4-dock,Product,P1016,Accessories,1,2025-10-01 03:15:00
+PG1017,/en-us/shop/dell-u2724d-monitor,Product,P1017,Monitor,1,2025-10-01 03:16:00
+PG1018,/en-us/shop/dell-latitude-7450,Product,P1018,Laptop,1,2025-10-01 03:17:00
+PG1019,/en-us/shop/dell-xps-16,Product,P1019,Laptop,1,2025-10-01 03:18:00
+PG1020,/en-us/shop/dell-poweredge-r660,Product,P1020,Server,1,2025-10-01 03:19:00
+PG1021,/en-us/shop/dell-precision-5680-mobile,Product,P1021,Workstation,1,2025-10-01 03:20:00
+PG1022,/en-us/shop/dell-inspiron-14,Product,P1022,Laptop,1,2025-10-01 03:21:00
+PG1023,/en-us/shop/dell-g16-gaming-laptop,Product,P1023,Gaming Laptop,1,2025-10-01 03:22:00
+PG1024,/en-us/shop/dell-ultrasharp-u4025qw,Product,P1024,Monitor,1,2025-10-01 03:23:00
+PG1025,/en-us/shop/dell-optiplex-micro,Product,P1025,Desktop,1,2025-10-01 03:24:00
+PG1026,/en-us/shop/dell-pro-slim-backpack,Product,P1026,Accessories,1,2025-10-01 03:25:00
+PG1027,/en-us/shop/dell-thunderbolt-dock,Product,P1027,Accessories,1,2025-10-01 03:26:00
+PG1028,/en-us/shop/dell-p2725h-monitor,Product,P1028,Monitor,1,2025-10-01 03:27:00
+PG1029,/en-us/shop/dell-vostro-3530,Product,P1029,Laptop,1,2025-10-01 03:28:00
+PG1030,/en-us/shop/dell-latitude-5550,Product,P1030,Laptop,1,2025-10-01 03:29:00
+PG1031,/en-us/shop/dell-precision-5480,Product,P1031,Workstation,1,2025-10-01 03:30:00
+PG1032,/en-us/shop/dell-poweredge-t560,Product,P1032,Server,1,2025-10-01 03:31:00
+PG1033,/en-us/shop/dell-inspiron-16,Product,P1033,Laptop,1,2025-10-01 03:32:00
+PG1034,/en-us/shop/dell-xps-desktop,Product,P1034,Desktop,1,2025-10-01 03:33:00
+PG1035,/en-us/shop/dell-alienware-aw3423dwf,Product,P1035,Monitor,1,2025-10-01 03:34:00
+PG1036,/en-us/shop/dell-g2724d-gaming-monitor,Product,P1036,Monitor,1,2025-10-01 03:35:00
+PG1037,/en-us/shop/dell-pro-webcam,Product,P1037,Accessories,1,2025-10-01 03:36:00
+PG1038,/en-us/shop/dell-pro-headset,Product,P1038,Accessories,1,2025-10-01 03:37:00
+PG1039,/en-us/shop/dell-latitude-7350,Product,P1039,Laptop,1,2025-10-01 03:38:00
+PG1040,/en-us/shop/dell-precision-5860-tower,Product,P1040,Workstation,1,2025-10-01 03:39:00
+PG1041,/en-us/shop/dell-poweredge-r860,Product,P1041,Server,1,2025-10-01 03:40:00
+PG1042,/en-us/shop/dell-optiplex-tower,Product,P1042,Desktop,1,2025-10-01 03:41:00
+PG1043,/en-us/shop/dell-s2725ds-monitor,Product,P1043,Monitor,1,2025-10-01 03:42:00
+PG1044,/en-us/shop/dell-xps-14,Product,P1044,Laptop,1,2025-10-01 03:43:00
+PG1045,/en-us/shop/dell-inspiron-16-2-in-1,Product,P1045,Laptop,1,2025-10-01 03:44:00
+PG1046,/en-us/shop/dell-latitude-9440,Product,P1046,Laptop,1,2025-10-01 03:45:00
+PG1047,/en-us/shop/dell-precision-5690,Product,P1047,Workstation,1,2025-10-01 03:46:00
+PG1048,/en-us/shop/dell-alienware-aurora,Product,P1048,Desktop,1,2025-10-01 03:47:00
+PG1049,/en-us/shop/dell-pro-compact-keyboard,Product,P1049,Accessories,1,2025-10-01 03:48:00
+PG1050,/en-us/shop/dell-universal-dock,Product,P1050,Accessories,1,2025-10-01 03:49:00
+PG1051,/en-us/shop/dell-xps-13,Product,P1001,Laptop,1,2025-10-01 03:50:00
+PG1052,/en-us/shop/dell-xps-15,Product,P1002,Laptop,1,2025-10-01 03:51:00
+PG1053,/en-us/shop/dell-inspiron-15,Product,P1003,Laptop,1,2025-10-01 03:52:00
+PG1054,/en-us/shop/dell-ultrasharp-monitor,Product,P1004,Monitor,1,2025-10-01 03:53:00
+PG1055,/en-us/shop/dell-latitude-5440,Product,P1005,Laptop,1,2025-10-01 03:54:00
+PG1056,/en-us/shop/dell-precision-5680,Product,P1006,Workstation,1,2025-10-01 03:55:00
+PG1057,/en-us/shop/dell-alienware-m16,Product,P1007,Gaming Laptop,1,2025-10-01 03:56:00
+PG1058,/en-us/shop/dell-g15-gaming-laptop,Product,P1008,Gaming Laptop,1,2025-10-01 03:57:00
+PG1059,/en-us/shop/dell-p2425-monitor,Product,P1009,Monitor,1,2025-10-01 03:58:00
+PG1060,/en-us/shop/dell-poweredge-r760,Product,P1010,Server,1,2025-10-01 03:59:00
+PG1061,/en-us/shop/dell-optiplex-7010,Product,P1011,Desktop,1,2025-10-01 04:00:00
+PG1062,/en-us/shop/dell-vostro-3520,Product,P1012,Laptop,1,2025-10-01 04:01:00
+PG1063,/en-us/shop/dell-precision-3660,Product,P1013,Workstation,1,2025-10-01 04:02:00
+PG1064,/en-us/shop/dell-pro-wireless-mouse,Product,P1014,Accessories,1,2025-10-01 04:03:00
+PG1065,/en-us/shop/dell-pro-wireless-keyboard,Product,P1015,Accessories,1,2025-10-01 04:04:00
+PG1066,/en-us/shop/dell-wd22tb4-dock,Product,P1016,Accessories,1,2025-10-01 04:05:00
+PG1067,/en-us/shop/dell-u2724d-monitor,Product,P1017,Monitor,1,2025-10-01 04:06:00
+PG1068,/en-us/shop/dell-latitude-7450,Product,P1018,Laptop,1,2025-10-01 04:07:00
+PG1069,/en-us/shop/dell-xps-16,Product,P1019,Laptop,1,2025-10-01 04:08:00
+PG1070,/en-us/shop/dell-poweredge-r660,Product,P1020,Server,1,2025-10-01 04:09:00
+PG1071,/en-us/shop/dell-precision-5680-mobile,Product,P1021,Workstation,1,2025-10-01 04:10:00
+PG1072,/en-us/shop/dell-inspiron-14,Product,P1022,Laptop,1,2025-10-01 04:11:00
+PG1073,/en-us/shop/dell-g16-gaming-laptop,Product,P1023,Gaming Laptop,1,2025-10-01 04:12:00
+PG1074,/en-us/shop/dell-ultrasharp-u4025qw,Product,P1024,Monitor,1,2025-10-01 04:13:00
+PG1075,/en-us/shop/dell-optiplex-micro,Product,P1025,Desktop,1,2025-10-01 04:14:00
+PG1076,/en-us/shop/dell-pro-slim-backpack,Product,P1026,Accessories,1,2025-10-01 04:15:00
+PG1077,/en-us/shop/dell-thunderbolt-dock,Product,P1027,Accessories,1,2025-10-01 04:16:00
+PG1078,/en-us/shop/dell-p2725h-monitor,Product,P1028,Monitor,1,2025-10-01 04:17:00
+PG1079,/en-us/shop/dell-vostro-3530,Product,P1029,Laptop,1,2025-10-01 04:18:00
+PG1080,/en-us/shop/dell-latitude-5550,Product,P1030,Laptop,1,2025-10-01 04:19:00
+PG1081,/en-us/shop/dell-precision-5480,Product,P1031,Workstation,1,2025-10-01 04:20:00
+PG1082,/en-us/shop/dell-poweredge-t560,Product,P1032,Server,1,2025-10-01 04:21:00
+PG1083,/en-us/shop/dell-inspiron-16,Product,P1033,Laptop,1,2025-10-01 04:22:00
+PG1084,/en-us/shop/dell-xps-desktop,Product,P1034,Desktop,1,2025-10-01 04:23:00
+PG1085,/en-us/shop/dell-alienware-aw3423dwf,Product,P1035,Monitor,1,2025-10-01 04:24:00
+PG1086,/en-us/shop/dell-g2724d-gaming-monitor,Product,P1036,Monitor,1,2025-10-01 04:25:00
+PG1087,/en-us/shop/dell-pro-webcam,Product,P1037,Accessories,1,2025-10-01 04:26:00
+PG1088,/en-us/shop/dell-pro-headset,Product,P1038,Accessories,1,2025-10-01 04:27:00
+PG1089,/en-us/shop/dell-latitude-7350,Product,P1039,Laptop,1,2025-10-01 04:28:00
+PG1090,/en-us/shop/dell-precision-5860-tower,Product,P1040,Workstation,1,2025-10-01 04:29:00
+PG1091,/en-us/shop/dell-poweredge-r860,Product,P1041,Server,1,2025-10-01 04:30:00
+PG1092,/en-us/shop/dell-optiplex-tower,Product,P1042,Desktop,1,2025-10-01 04:31:00
+PG1093,/en-us/shop/dell-s2725ds-monitor,Product,P1043,Monitor,1,2025-10-01 04:32:00
+PG1094,/en-us/shop/dell-xps-14,Product,P1044,Laptop,1,2025-10-01 04:33:00
+PG1095,/en-us/shop/dell-inspiron-16-2-in-1,Product,P1045,Laptop,1,2025-10-01 04:34:00
+PG1096,/en-us/shop/dell-latitude-9440,Product,P1046,Laptop,1,2025-10-01 04:35:00
+PG1097,/en-us/shop/dell-precision-5690,Product,P1047,Workstation,1,2025-10-01 04:36:00
+PG1098,/en-us/shop/dell-alienware-aurora,Product,P1048,Desktop,0,2025-10-01 04:37:00
+PG1099,/en-us/shop/dell-pro-compact-keyboard,Product,P1049,Accessories,1,2025-10-01 04:38:00
+PG1100,/en-us/shop/dell-universal-dock,Product,P1050,Accessories,1,2025-10-01 04:39:00
+PG1101,/en-us/shop/laptop,Product Category,P1001,Laptop,1,2025-10-01 04:40:00
+PG1102,/en-us/shop/monitor,Product Category,P1004,Monitor,1,2025-10-01 04:41:00
+PG1103,/en-us/shop/gaming-laptop,Product Category,P1007,Gaming Laptop,1,2025-10-01 04:42:00
+PG1104,/en-us/shop/server,Product Category,P1010,Server,1,2025-10-01 04:43:00
+PG1105,/en-us/shop/workstation,Product Category,P1013,Workstation,1,2025-10-01 04:44:00
+PG1106,/en-us/shop/accessories,Product Category,P1016,Accessories,1,2025-10-01 04:45:00
+PG1107,/en-us/shop/laptop,Product Category,P1019,Laptop,1,2025-10-01 04:46:00
+PG1108,/en-us/shop/laptop,Product Category,P1022,Laptop,1,2025-10-01 04:47:00
+PG1109,/en-us/shop/desktop,Product Category,P1025,Desktop,1,2025-10-01 04:48:00
+PG1110,/en-us/shop/monitor,Product Category,P1028,Monitor,1,2025-10-01 04:49:00
+PG1111,/en-us/shop/workstation,Product Category,P1031,Workstation,1,2025-10-01 04:50:00
+PG1112,/en-us/shop/desktop,Product Category,P1034,Desktop,1,2025-10-01 04:51:00
+PG1113,/en-us/shop/accessories,Product Category,P1037,Accessories,1,2025-10-01 04:52:00
+PG1114,/en-us/shop/workstation,Product Category,P1040,Workstation,1,2025-10-01 04:53:00
+PG1115,/en-us/shop/monitor,Product Category,P1043,Monitor,1,2025-10-01 04:54:00
+PG1116,/en-us/shop/laptop,Product Category,P1046,Laptop,1,2025-10-01 04:55:00
+PG1117,/en-us/shop/accessories,Product Category,P1049,Accessories,1,2025-10-01 04:56:00
+PG1118,/en-us/shop/laptop,Product Category,P1002,Laptop,1,2025-10-01 04:57:00
+PG1119,/en-us/shop/laptop,Product Category,P1005,Laptop,1,2025-10-01 04:58:00
+PG1120,/en-us/shop/gaming-laptop,Product Category,P1008,Gaming Laptop,1,2025-10-01 04:59:00
+PG1121,/en-us/shop/desktop,Product Category,P1011,Desktop,1,2025-10-01 05:00:00
+PG1122,/en-us/shop/accessories,Product Category,P1014,Accessories,1,2025-10-01 05:01:00
+PG1123,/en-us/shop/monitor,Product Category,P1017,Monitor,1,2025-10-01 05:02:00
+PG1124,/en-us/shop/server,Product Category,P1020,Server,1,2025-10-01 05:03:00
+PG1125,/en-us/shop/gaming-laptop,Product Category,P1023,Gaming Laptop,1,2025-10-01 05:04:00
+PG1126,/en-us/shop/accessories,Product Category,P1026,Accessories,1,2025-10-01 05:05:00
+PG1127,/en-us/shop/laptop,Product Category,P1029,Laptop,1,2025-10-01 05:06:00
+PG1128,/en-us/shop/server,Product Category,P1032,Server,1,2025-10-01 05:07:00
+PG1129,/en-us/shop/monitor,Product Category,P1035,Monitor,1,2025-10-01 05:08:00
+PG1130,/en-us/shop/accessories,Product Category,P1038,Accessories,1,2025-10-01 05:09:00
+PG1131,/en-us/shop/server,Product Category,P1041,Server,1,2025-10-01 05:10:00
+PG1132,/en-us/shop/laptop,Product Category,P1044,Laptop,1,2025-10-01 05:11:00
+PG1133,/en-us/shop/workstation,Product Category,P1047,Workstation,1,2025-10-01 05:12:00
+PG1134,/en-us/shop/accessories,Product Category,P1050,Accessories,1,2025-10-01 05:13:00
+PG1135,/en-us/shop/laptop,Product Category,P1003,Laptop,1,2025-10-01 05:14:00
+PG1136,/en-us/shop/workstation,Product Category,P1006,Workstation,1,2025-10-01 05:15:00
+PG1137,/en-us/shop/monitor,Product Category,P1009,Monitor,1,2025-10-01 05:16:00
+PG1138,/en-us/shop/laptop,Product Category,P1012,Laptop,1,2025-10-01 05:17:00
+PG1139,/en-us/shop/accessories,Product Category,P1015,Accessories,1,2025-10-01 05:18:00
+PG1140,/en-us/shop/laptop,Product Category,P1018,Laptop,1,2025-10-01 05:19:00
+PG1141,/en-us/shop/workstation,Product Category,P1021,Workstation,1,2025-10-01 05:20:00
+PG1142,/en-us/shop/monitor,Product Category,P1024,Monitor,1,2025-10-01 05:21:00
+PG1143,/en-us/shop/accessories,Product Category,P1027,Accessories,1,2025-10-01 05:22:00
+PG1144,/en-us/shop/laptop,Product Category,P1030,Laptop,1,2025-10-01 05:23:00
+PG1145,/en-us/shop/laptop,Product Category,P1033,Laptop,1,2025-10-01 05:24:00
+PG1146,/en-us/shop/monitor,Product Category,P1036,Monitor,1,2025-10-01 05:25:00
+PG1147,/en-us/shop/laptop,Product Category,P1039,Laptop,1,2025-10-01 05:26:00
+PG1148,/en-us/shop/desktop,Product Category,P1042,Desktop,1,2025-10-01 05:27:00
+PG1149,/en-us/shop/laptop,Product Category,P1045,Laptop,1,2025-10-01 05:28:00
+PG1150,/en-us/shop/desktop,Product Category,P1048,Desktop,1,2025-10-01 05:29:00
+PG1151,/en-us/shop/laptop,Product Category,P1001,Laptop,1,2025-10-01 05:30:00
+PG1152,/en-us/shop/monitor,Product Category,P1004,Monitor,1,2025-10-01 05:31:00
+PG1153,/en-us/shop/gaming-laptop,Product Category,P1007,Gaming Laptop,1,2025-10-01 05:32:00
+PG1154,/en-us/shop/server,Product Category,P1010,Server,1,2025-10-01 05:33:00
+PG1155,/en-us/shop/workstation,Product Category,P1013,Workstation,1,2025-10-01 05:34:00
+PG1156,/en-us/shop/accessories,Product Category,P1016,Accessories,1,2025-10-01 05:35:00
+PG1157,/en-us/shop/laptop,Product Category,P1019,Laptop,1,2025-10-01 05:36:00
+PG1158,/en-us/shop/laptop,Product Category,P1022,Laptop,1,2025-10-01 05:37:00
+PG1159,/en-us/shop/desktop,Product Category,P1025,Desktop,1,2025-10-01 05:38:00
+PG1160,/en-us/shop/monitor,Product Category,P1028,Monitor,1,2025-10-01 05:39:00
+PG1161,/en-us/shop/workstation,Product Category,P1031,Workstation,1,2025-10-01 05:40:00
+PG1162,/en-us/shop/desktop,Product Category,P1034,Desktop,1,2025-10-01 05:41:00
+PG1163,/en-us/shop/accessories,Product Category,P1037,Accessories,1,2025-10-01 05:42:00
+PG1164,/en-us/shop/workstation,Product Category,P1040,Workstation,1,2025-10-01 05:43:00
+PG1165,/en-us/shop/monitor,Product Category,P1043,Monitor,1,2025-10-01 05:44:00
+PG1166,/en-us/shop/laptop,Product Category,P1046,Laptop,1,2025-10-01 05:45:00
+PG1167,/en-us/shop/accessories,Product Category,P1049,Accessories,1,2025-10-01 05:46:00
+PG1168,/en-us/shop/laptop,Product Category,P1002,Laptop,1,2025-10-01 05:47:00
+PG1169,/en-us/shop/laptop,Product Category,P1005,Laptop,1,2025-10-01 05:48:00
+PG1170,/en-us/shop/gaming-laptop,Product Category,P1008,Gaming Laptop,1,2025-10-01 05:49:00
+PG1171,/en-us/shop/desktop,Product Category,P1011,Desktop,1,2025-10-01 05:50:00
+PG1172,/en-us/shop/accessories,Product Category,P1014,Accessories,1,2025-10-01 05:51:00
+PG1173,/en-us/shop/monitor,Product Category,P1017,Monitor,1,2025-10-01 05:52:00
+PG1174,/en-us/shop/server,Product Category,P1020,Server,1,2025-10-01 05:53:00
+PG1175,/en-us/shop/gaming-laptop,Product Category,P1023,Gaming Laptop,1,2025-10-01 05:54:00
+PG1176,/en-us/shop/accessories,Product Category,P1026,Accessories,1,2025-10-01 05:55:00
+PG1177,/en-us/shop/laptop,Product Category,P1029,Laptop,1,2025-10-01 05:56:00
+PG1178,/en-us/shop/server,Product Category,P1032,Server,1,2025-10-01 05:57:00
+PG1179,/en-us/shop/monitor,Product Category,P1035,Monitor,1,2025-10-01 05:58:00
+PG1180,/en-us/shop/accessories,Product Category,P1038,Accessories,1,2025-10-01 05:59:00
+PG1181,/en-us/shop/server,Product Category,P1041,Server,1,2025-10-01 06:00:00
+PG1182,/en-us/shop/laptop,Product Category,P1044,Laptop,1,2025-10-01 06:01:00
+PG1183,/en-us/shop/workstation,Product Category,P1047,Workstation,1,2025-10-01 06:02:00
+PG1184,/en-us/shop/accessories,Product Category,P1050,Accessories,1,2025-10-01 06:03:00
+PG1185,/en-us/shop/laptop,Product Category,P1003,Laptop,1,2025-10-01 06:04:00
+PG1186,/en-us/shop/workstation,Product Category,P1006,Workstation,1,2025-10-01 06:05:00
+PG1187,/en-us/shop/monitor,Product Category,P1009,Monitor,1,2025-10-01 06:06:00
+PG1188,/en-us/shop/laptop,Product Category,P1012,Laptop,1,2025-10-01 06:07:00
+PG1189,/en-us/shop/accessories,Product Category,P1015,Accessories,1,2025-10-01 06:08:00
+PG1190,/en-us/shop/laptop,Product Category,P1018,Laptop,1,2025-10-01 06:09:00
+PG1191,/en-us/shop/workstation,Product Category,P1021,Workstation,1,2025-10-01 06:10:00
+PG1192,/en-us/shop/monitor,Product Category,P1024,Monitor,1,2025-10-01 06:11:00
+PG1193,/en-us/shop/accessories,Product Category,P1027,Accessories,1,2025-10-01 06:12:00
+PG1194,/en-us/shop/laptop,Product Category,P1030,Laptop,1,2025-10-01 06:13:00
+PG1195,/en-us/shop/laptop,Product Category,P1033,Laptop,0,2025-10-01 06:14:00
+PG1196,/en-us/shop/monitor,Product Category,P1036,Monitor,1,2025-10-01 06:15:00
+PG1197,/en-us/shop/laptop,Product Category,P1039,Laptop,1,2025-10-01 06:16:00
+PG1198,/en-us/shop/desktop,Product Category,P1042,Desktop,1,2025-10-01 06:17:00
+PG1199,/en-us/shop/laptop,Product Category,P1045,Laptop,1,2025-10-01 06:18:00
+PG1200,/en-us/shop/desktop,Product Category,P1048,Desktop,1,2025-10-01 06:19:00
+PG1201,/en-us/shop/laptop,Product Category,P1001,Laptop,1,2025-10-01 06:20:00
+PG1202,/en-us/shop/monitor,Product Category,P1004,Monitor,1,2025-10-01 06:21:00
+PG1203,/en-us/shop/gaming-laptop,Product Category,P1007,Gaming Laptop,1,2025-10-01 06:22:00
+PG1204,/en-us/shop/server,Product Category,P1010,Server,1,2025-10-01 06:23:00
+PG1205,/en-us/shop/workstation,Product Category,P1013,Workstation,1,2025-10-01 06:24:00
+PG1206,/en-us/shop/accessories,Product Category,P1016,Accessories,1,2025-10-01 06:25:00
+PG1207,/en-us/shop/laptop,Product Category,P1019,Laptop,1,2025-10-01 06:26:00
+PG1208,/en-us/shop/laptop,Product Category,P1022,Laptop,1,2025-10-01 06:27:00
+PG1209,/en-us/shop/desktop,Product Category,P1025,Desktop,1,2025-10-01 06:28:00
+PG1210,/en-us/shop/monitor,Product Category,P1028,Monitor,1,2025-10-01 06:29:00
+PG1211,/en-us/shop/workstation,Product Category,P1031,Workstation,1,2025-10-01 06:30:00
+PG1212,/en-us/shop/desktop,Product Category,P1034,Desktop,1,2025-10-01 06:31:00
+PG1213,/en-us/shop/accessories,Product Category,P1037,Accessories,1,2025-10-01 06:32:00
+PG1214,/en-us/shop/workstation,Product Category,P1040,Workstation,1,2025-10-01 06:33:00
+PG1215,/en-us/shop/monitor,Product Category,P1043,Monitor,1,2025-10-01 06:34:00
+PG1216,/en-us/shop/laptop,Product Category,P1046,Laptop,1,2025-10-01 06:35:00
+PG1217,/en-us/shop/accessories,Product Category,P1049,Accessories,1,2025-10-01 06:36:00
+PG1218,/en-us/shop/laptop,Product Category,P1002,Laptop,1,2025-10-01 06:37:00
+PG1219,/en-us/shop/laptop,Product Category,P1005,Laptop,1,2025-10-01 06:38:00
+PG1220,/en-us/shop/gaming-laptop,Product Category,P1008,Gaming Laptop,1,2025-10-01 06:39:00
+PG1221,/en-us/support/article/50220,Support,,Support,1,2025-10-01 06:40:00
+PG1222,/en-us/support/article/50221,Support,,Support,1,2025-10-01 06:41:00
+PG1223,/en-us/support/article/50222,Support,,Support,1,2025-10-01 06:42:00
+PG1224,/en-us/support/article/50223,Support,,Support,1,2025-10-01 06:43:00
+PG1225,/en-us/support/article/50224,Support,,Support,1,2025-10-01 06:44:00
+PG1226,/en-us/support/article/50225,Support,,Support,1,2025-10-01 06:45:00
+PG1227,/en-us/support/article/50226,Support,,Support,1,2025-10-01 06:46:00
+PG1228,/en-us/support/article/50227,Support,,Support,1,2025-10-01 06:47:00
+PG1229,/en-us/support/article/50228,Support,,Support,1,2025-10-01 06:48:00
+PG1230,/en-us/support/article/50229,Support,,Support,1,2025-10-01 06:49:00
+PG1231,/en-us/support/article/50230,Support,,Support,1,2025-10-01 06:50:00
+PG1232,/en-us/support/article/50231,Support,,Support,1,2025-10-01 06:51:00
+PG1233,/en-us/support/article/50232,Support,,Support,1,2025-10-01 06:52:00
+PG1234,/en-us/support/article/50233,Support,,Support,1,2025-10-01 06:53:00
+PG1235,/en-us/support/article/50234,Support,,Support,1,2025-10-01 06:54:00
+PG1236,/en-us/support/article/50235,Support,,Support,1,2025-10-01 06:55:00
+PG1237,/en-us/support/article/50236,Support,,Support,1,2025-10-01 06:56:00
+PG1238,/en-us/support/article/50237,Support,,Support,1,2025-10-01 06:57:00
+PG1239,/en-us/support/article/50238,Support,,Support,1,2025-10-01 06:58:00
+PG1240,/en-us/support/article/50239,Support,,Support,1,2025-10-01 06:59:00
+PG1241,/en-us/support/article/50240,Support,,Support,1,2025-10-01 07:00:00
+PG1242,/en-us/support/article/50241,Support,,Support,1,2025-10-01 07:01:00
+PG1243,/en-us/support/article/50242,Support,,Support,1,2025-10-01 07:02:00
+PG1244,/en-us/support/article/50243,Support,,Support,1,2025-10-01 07:03:00
+PG1245,/en-us/support/article/50244,Support,,Support,1,2025-10-01 07:04:00
+PG1246,/en-us/support/article/50245,Support,,Support,1,2025-10-01 07:05:00
+PG1247,/en-us/support/article/50246,Support,,Support,1,2025-10-01 07:06:00
+PG1248,/en-us/support/article/50247,Support,,Support,1,2025-10-01 07:07:00
+PG1249,/en-us/support/article/50248,Support,,Support,1,2025-10-01 07:08:00
+PG1250,/en-us/support/article/50249,Support,,Support,1,2025-10-01 07:09:00
+PG1251,/en-us/support/article/50250,Support,,Support,1,2025-10-01 07:10:00
+PG1252,/en-us/support/article/50251,Support,,Support,1,2025-10-01 07:11:00
+PG1253,/en-us/support/article/50252,Support,,Support,1,2025-10-01 07:12:00
+PG1254,/en-us/support/article/50253,Support,,Support,1,2025-10-01 07:13:00
+PG1255,/en-us/support/article/50254,Support,,Support,1,2025-10-01 07:14:00
+PG1256,/en-us/support/article/50255,Support,,Support,1,2025-10-01 07:15:00
+PG1257,/en-us/support/article/50256,Support,,Support,1,2025-10-01 07:16:00
+PG1258,/en-us/support/article/50257,Support,,Support,1,2025-10-01 07:17:00
+PG1259,/en-us/support/article/50258,Support,,Support,1,2025-10-01 07:18:00
+PG1260,/en-us/support/article/50259,Support,,Support,1,2025-10-01 07:19:00
+PG1261,/en-us/support/article/50260,Support,,Support,1,2025-10-01 07:20:00
+PG1262,/en-us/support/article/50261,Support,,Support,1,2025-10-01 07:21:00
+PG1263,/en-us/support/article/50262,Support,,Support,1,2025-10-01 07:22:00
+PG1264,/en-us/support/article/50263,Support,,Support,1,2025-10-01 07:23:00
+PG1265,/en-us/support/article/50264,Support,,Support,1,2025-10-01 07:24:00
+PG1266,/en-us/support/article/50265,Support,,Support,1,2025-10-01 07:25:00
+PG1267,/en-us/support/article/50266,Support,,Support,1,2025-10-01 07:26:00
+PG1268,/en-us/support/article/50267,Support,,Support,1,2025-10-01 07:27:00
+PG1269,/en-us/support/article/50268,Support,,Support,1,2025-10-01 07:28:00
+PG1270,/en-us/support/article/50269,Support,,Support,1,2025-10-01 07:29:00
+PG1271,/en-us/support/article/50270,Support,,Support,1,2025-10-01 07:30:00
+PG1272,/en-us/support/article/50271,Support,,Support,1,2025-10-01 07:31:00
+PG1273,/en-us/support/article/50272,Support,,Support,1,2025-10-01 07:32:00
+PG1274,/en-us/support/article/50273,Support,,Support,1,2025-10-01 07:33:00
+PG1275,/en-us/support/article/50274,Support,,Support,1,2025-10-01 07:34:00
+PG1276,/en-us/support/article/50275,Support,,Support,1,2025-10-01 07:35:00
+PG1277,/en-us/support/article/50276,Support,,Support,1,2025-10-01 07:36:00
+PG1278,/en-us/support/article/50277,Support,,Support,1,2025-10-01 07:37:00
+PG1279,/en-us/support/article/50278,Support,,Support,1,2025-10-01 07:38:00
+PG1280,/en-us/support/article/50279,Support,,Support,1,2025-10-01 07:39:00
+PG1281,/en-us/support/article/50280,Support,,Support,1,2025-10-01 07:40:00
+PG1282,/en-us/support/article/50281,Support,,Support,1,2025-10-01 07:41:00
+PG1283,/en-us/support/article/50282,Support,,Support,1,2025-10-01 07:42:00
+PG1284,/en-us/support/article/50283,Support,,Support,1,2025-10-01 07:43:00
+PG1285,/en-us/support/article/50284,Support,,Support,1,2025-10-01 07:44:00
+PG1286,/en-us/support/article/50285,Support,,Support,1,2025-10-01 07:45:00
+PG1287,/en-us/support/article/50286,Support,,Support,1,2025-10-01 07:46:00
+PG1288,/en-us/support/article/50287,Support,,Support,1,2025-10-01 07:47:00
+PG1289,/en-us/support/article/50288,Support,,Support,1,2025-10-01 07:48:00
+PG1290,/en-us/support/article/50289,Support,,Support,1,2025-10-01 07:49:00
+PG1291,/en-us/support/article/50290,Support,,Support,1,2025-10-01 07:50:00
+PG1292,/en-us/support/article/50291,Support,,Support,0,2025-10-01 07:51:00
+PG1293,/en-us/support/article/50292,Support,,Support,1,2025-10-01 07:52:00
+PG1294,/en-us/support/article/50293,Support,,Support,1,2025-10-01 07:53:00
+PG1295,/en-us/support/article/50294,Support,,Support,1,2025-10-01 07:54:00
+PG1296,/en-us/support/article/50295,Support,,Support,1,2025-10-01 07:55:00
+PG1297,/en-us/support/article/50296,Support,,Support,1,2025-10-01 07:56:00
+PG1298,/en-us/support/article/50297,Support,,Support,1,2025-10-01 07:57:00
+PG1299,/en-us/support/article/50298,Support,,Support,1,2025-10-01 07:58:00
+PG1300,/en-us/support/article/50299,Support,,Support,1,2025-10-01 07:59:00
+PG1301,/en-us/blog/article-300,Article,,Information,1,2025-10-01 08:00:00
+PG1302,/en-us/blog/article-301,Article,,Information,1,2025-10-01 08:01:00
+PG1303,/en-us/blog/article-302,Article,,Information,1,2025-10-01 08:02:00
+PG1304,/en-us/blog/article-303,Article,,Information,1,2025-10-01 08:03:00
+PG1305,/en-us/blog/article-304,Article,,Information,1,2025-10-01 08:04:00
+PG1306,/en-us/blog/article-305,Article,,Information,1,2025-10-01 08:05:00
+PG1307,/en-us/blog/article-306,Article,,Information,1,2025-10-01 08:06:00
+PG1308,/en-us/blog/article-307,Article,,Information,1,2025-10-01 08:07:00
+PG1309,/en-us/blog/article-308,Article,,Information,1,2025-10-01 08:08:00
+PG1310,/en-us/blog/article-309,Article,,Information,1,2025-10-01 08:09:00
+PG1311,/en-us/blog/article-310,Article,,Information,1,2025-10-01 08:10:00
+PG1312,/en-us/blog/article-311,Article,,Information,1,2025-10-01 08:11:00
+PG1313,/en-us/blog/article-312,Article,,Information,1,2025-10-01 08:12:00
+PG1314,/en-us/blog/article-313,Article,,Information,1,2025-10-01 08:13:00
+PG1315,/en-us/blog/article-314,Article,,Information,1,2025-10-01 08:14:00
+PG1316,/en-us/blog/article-315,Article,,Information,1,2025-10-01 08:15:00
+PG1317,/en-us/blog/article-316,Article,,Information,1,2025-10-01 08:16:00
+PG1318,/en-us/blog/article-317,Article,,Information,1,2025-10-01 08:17:00
+PG1319,/en-us/blog/article-318,Article,,Information,1,2025-10-01 08:18:00
+PG1320,/en-us/blog/article-319,Article,,Information,1,2025-10-01 08:19:00
+PG1321,/en-us/blog/article-320,Article,,Information,1,2025-10-01 08:20:00
+PG1322,/en-us/blog/article-321,Article,,Information,1,2025-10-01 08:21:00
+PG1323,/en-us/blog/article-322,Article,,Information,1,2025-10-01 08:22:00
+PG1324,/en-us/blog/article-323,Article,,Information,1,2025-10-01 08:23:00
+PG1325,/en-us/blog/article-324,Article,,Information,1,2025-10-01 08:24:00
+PG1326,/en-us/blog/article-325,Article,,Information,1,2025-10-01 08:25:00
+PG1327,/en-us/blog/article-326,Article,,Information,1,2025-10-01 08:26:00
+PG1328,/en-us/blog/article-327,Article,,Information,1,2025-10-01 08:27:00
+PG1329,/en-us/blog/article-328,Article,,Information,1,2025-10-01 08:28:00
+PG1330,/en-us/blog/article-329,Article,,Information,1,2025-10-01 08:29:00
+PG1331,/en-us/blog/article-330,Article,,Information,1,2025-10-01 08:30:00
+PG1332,/en-us/blog/article-331,Article,,Information,1,2025-10-01 08:31:00
+PG1333,/en-us/blog/article-332,Article,,Information,1,2025-10-01 08:32:00
+PG1334,/en-us/blog/article-333,Article,,Information,1,2025-10-01 08:33:00
+PG1335,/en-us/blog/article-334,Article,,Information,1,2025-10-01 08:34:00
+PG1336,/en-us/blog/article-335,Article,,Information,1,2025-10-01 08:35:00
+PG1337,/en-us/blog/article-336,Article,,Information,1,2025-10-01 08:36:00
+PG1338,/en-us/blog/article-337,Article,,Information,1,2025-10-01 08:37:00
+PG1339,/en-us/blog/article-338,Article,,Information,1,2025-10-01 08:38:00
+PG1340,/en-us/blog/article-339,Article,,Information,1,2025-10-01 08:39:00
+PG1341,/en-us/blog/article-340,Article,,Information,1,2025-10-01 08:40:00
+PG1342,/en-us/blog/article-341,Article,,Information,1,2025-10-01 08:41:00
+PG1343,/en-us/blog/article-342,Article,,Information,1,2025-10-01 08:42:00
+PG1344,/en-us/blog/article-343,Article,,Information,1,2025-10-01 08:43:00
+PG1345,/en-us/blog/article-344,Article,,Information,1,2025-10-01 08:44:00
+PG1346,/en-us/blog/article-345,Article,,Information,1,2025-10-01 08:45:00
+PG1347,/en-us/blog/article-346,Article,,Information,1,2025-10-01 08:46:00
+PG1348,/en-us/blog/article-347,Article,,Information,1,2025-10-01 08:47:00
+PG1349,/en-us/blog/article-348,Article,,Information,1,2025-10-01 08:48:00
+PG1350,/en-us/blog/article-349,Article,,Information,1,2025-10-01 08:49:00
+PG1351,/en-us/blog/article-350,Article,,Information,1,2025-10-01 08:50:00
+PG1352,/en-us/blog/article-351,Article,,Information,1,2025-10-01 08:51:00
+PG1353,/en-us/blog/article-352,Article,,Information,1,2025-10-01 08:52:00
+PG1354,/en-us/blog/article-353,Article,,Information,1,2025-10-01 08:53:00
+PG1355,/en-us/blog/article-354,Article,,Information,1,2025-10-01 08:54:00
+PG1356,/en-us/blog/article-355,Article,,Information,1,2025-10-01 08:55:00
+PG1357,/en-us/blog/article-356,Article,,Information,1,2025-10-01 08:56:00
+PG1358,/en-us/blog/article-357,Article,,Information,1,2025-10-01 08:57:00
+PG1359,/en-us/blog/article-358,Article,,Information,1,2025-10-01 08:58:00
+PG1360,/en-us/blog/article-359,Article,,Information,1,2025-10-01 08:59:00
+PG1361,/en-us/blog/article-360,Article,,Information,1,2025-10-01 09:00:00
+PG1362,/en-us/blog/article-361,Article,,Information,1,2025-10-01 09:01:00
+PG1363,/en-us/blog/article-362,Article,,Information,1,2025-10-01 09:02:00
+PG1364,/en-us/blog/article-363,Article,,Information,1,2025-10-01 09:03:00
+PG1365,/en-us/blog/article-364,Article,,Information,1,2025-10-01 09:04:00
+PG1366,/en-us/blog/article-365,Article,,Information,1,2025-10-01 09:05:00
+PG1367,/en-us/blog/article-366,Article,,Information,1,2025-10-01 09:06:00
+PG1368,/en-us/blog/article-367,Article,,Information,1,2025-10-01 09:07:00
+PG1369,/en-us/blog/article-368,Article,,Information,1,2025-10-01 09:08:00
+PG1370,/en-us/blog/article-369,Article,,Information,1,2025-10-01 09:09:00
+PG1371,/en-us/blog/article-370,Article,,Information,1,2025-10-01 09:10:00
+PG1372,/en-us/blog/article-371,Article,,Information,1,2025-10-01 09:11:00
+PG1373,/en-us/blog/article-372,Article,,Information,1,2025-10-01 09:12:00
+PG1374,/en-us/blog/article-373,Article,,Information,1,2025-10-01 09:13:00
+PG1375,/en-us/blog/article-374,Article,,Information,1,2025-10-01 09:14:00
+PG1376,/en-us/blog/article-375,Article,,Information,1,2025-10-01 09:15:00
+PG1377,/en-us/blog/article-376,Article,,Information,1,2025-10-01 09:16:00
+PG1378,/en-us/blog/article-377,Article,,Information,1,2025-10-01 09:17:00
+PG1379,/en-us/blog/article-378,Article,,Information,1,2025-10-01 09:18:00
+PG1380,/en-us/blog/article-379,Article,,Information,1,2025-10-01 09:19:00
+PG1381,/en-us/blog/article-380,Article,,Information,1,2025-10-01 09:20:00
+PG1382,/en-us/blog/article-381,Article,,Information,1,2025-10-01 09:21:00
+PG1383,/en-us/blog/article-382,Article,,Information,1,2025-10-01 09:22:00
+PG1384,/en-us/blog/article-383,Article,,Information,1,2025-10-01 09:23:00
+PG1385,/en-us/blog/article-384,Article,,Information,1,2025-10-01 09:24:00
+PG1386,/en-us/blog/article-385,Article,,Information,1,2025-10-01 09:25:00
+PG1387,/en-us/blog/article-386,Article,,Information,1,2025-10-01 09:26:00
+PG1388,/en-us/blog/article-387,Article,,Information,1,2025-10-01 09:27:00
+PG1389,/en-us/blog/article-388,Article,,Information,0,2025-10-01 09:28:00
+PG1390,/en-us/blog/article-389,Article,,Information,1,2025-10-01 09:29:00
+PG1391,/en-us/blog/article-390,Article,,Information,1,2025-10-01 09:30:00
+PG1392,/en-us/blog/article-391,Article,,Information,1,2025-10-01 09:31:00
+PG1393,/en-us/blog/article-392,Article,,Information,1,2025-10-01 09:32:00
+PG1394,/en-us/blog/article-393,Article,,Information,1,2025-10-01 09:33:00
+PG1395,/en-us/blog/article-394,Article,,Information,1,2025-10-01 09:34:00
+PG1396,/en-us/blog/article-395,Article,,Information,1,2025-10-01 09:35:00
+PG1397,/en-us/blog/article-396,Article,,Information,1,2025-10-01 09:36:00
+PG1398,/en-us/blog/article-397,Article,,Information,1,2025-10-01 09:37:00
+PG1399,/en-us/blog/article-398,Article,,Information,1,2025-10-01 09:38:00
+PG1400,/en-us/blog/article-399,Article,,Information,1,2025-10-01 09:39:00
+PG1401,/en-us/landing/laptop-400,Landing Page,P1001,Laptop,1,2025-10-01 09:40:00
+PG1402,/en-us/landing/gaming-laptop-401,Landing Page,P1008,Gaming Laptop,1,2025-10-01 09:41:00
+PG1403,/en-us/landing/accessories-402,Landing Page,P1015,Accessories,1,2025-10-01 09:42:00
+PG1404,/en-us/landing/laptop-403,Landing Page,P1022,Laptop,1,2025-10-01 09:43:00
+PG1405,/en-us/landing/laptop-404,Landing Page,P1029,Laptop,1,2025-10-01 09:44:00
+PG1406,/en-us/landing/monitor-405,Landing Page,P1036,Monitor,1,2025-10-01 09:45:00
+PG1407,/en-us/landing/monitor-406,Landing Page,P1043,Monitor,1,2025-10-01 09:46:00
+PG1408,/en-us/landing/accessories-407,Landing Page,P1050,Accessories,1,2025-10-01 09:47:00
+PG1409,/en-us/landing/gaming-laptop-408,Landing Page,P1007,Gaming Laptop,1,2025-10-01 09:48:00
+PG1410,/en-us/landing/accessories-409,Landing Page,P1014,Accessories,1,2025-10-01 09:49:00
+PG1411,/en-us/landing/workstation-410,Landing Page,P1021,Workstation,1,2025-10-01 09:50:00
+PG1412,/en-us/landing/monitor-411,Landing Page,P1028,Monitor,1,2025-10-01 09:51:00
+PG1413,/en-us/landing/monitor-412,Landing Page,P1035,Monitor,1,2025-10-01 09:52:00
+PG1414,/en-us/landing/desktop-413,Landing Page,P1042,Desktop,1,2025-10-01 09:53:00
+PG1415,/en-us/landing/accessories-414,Landing Page,P1049,Accessories,1,2025-10-01 09:54:00
+PG1416,/en-us/landing/workstation-415,Landing Page,P1006,Workstation,1,2025-10-01 09:55:00
+PG1417,/en-us/landing/workstation-416,Landing Page,P1013,Workstation,1,2025-10-01 09:56:00
+PG1418,/en-us/landing/server-417,Landing Page,P1020,Server,1,2025-10-01 09:57:00
+PG1419,/en-us/landing/accessories-418,Landing Page,P1027,Accessories,1,2025-10-01 09:58:00
+PG1420,/en-us/landing/desktop-419,Landing Page,P1034,Desktop,1,2025-10-01 09:59:00
+PG1421,/en-us/landing/server-420,Landing Page,P1041,Server,1,2025-10-01 10:00:00
+PG1422,/en-us/landing/desktop-421,Landing Page,P1048,Desktop,1,2025-10-01 10:01:00
+PG1423,/en-us/landing/laptop-422,Landing Page,P1005,Laptop,1,2025-10-01 10:02:00
+PG1424,/en-us/landing/laptop-423,Landing Page,P1012,Laptop,1,2025-10-01 10:03:00
+PG1425,/en-us/landing/laptop-424,Landing Page,P1019,Laptop,1,2025-10-01 10:04:00
+PG1426,/en-us/landing/accessories-425,Landing Page,P1026,Accessories,1,2025-10-01 10:05:00
+PG1427,/en-us/landing/laptop-426,Landing Page,P1033,Laptop,1,2025-10-01 10:06:00
+PG1428,/en-us/landing/workstation-427,Landing Page,P1040,Workstation,1,2025-10-01 10:07:00
+PG1429,/en-us/landing/workstation-428,Landing Page,P1047,Workstation,1,2025-10-01 10:08:00
+PG1430,/en-us/landing/monitor-429,Landing Page,P1004,Monitor,1,2025-10-01 10:09:00
+PG1431,/en-us/landing/desktop-430,Landing Page,P1011,Desktop,1,2025-10-01 10:10:00
+PG1432,/en-us/landing/laptop-431,Landing Page,P1018,Laptop,1,2025-10-01 10:11:00
+PG1433,/en-us/landing/desktop-432,Landing Page,P1025,Desktop,1,2025-10-01 10:12:00
+PG1434,/en-us/landing/server-433,Landing Page,P1032,Server,1,2025-10-01 10:13:00
+PG1435,/en-us/landing/laptop-434,Landing Page,P1039,Laptop,1,2025-10-01 10:14:00
+PG1436,/en-us/landing/laptop-435,Landing Page,P1046,Laptop,1,2025-10-01 10:15:00
+PG1437,/en-us/landing/laptop-436,Landing Page,P1003,Laptop,1,2025-10-01 10:16:00
+PG1438,/en-us/landing/server-437,Landing Page,P1010,Server,1,2025-10-01 10:17:00
+PG1439,/en-us/landing/monitor-438,Landing Page,P1017,Monitor,1,2025-10-01 10:18:00
+PG1440,/en-us/landing/monitor-439,Landing Page,P1024,Monitor,1,2025-10-01 10:19:00
+PG1441,/en-us/landing/workstation-440,Landing Page,P1031,Workstation,1,2025-10-01 10:20:00
+PG1442,/en-us/landing/accessories-441,Landing Page,P1038,Accessories,1,2025-10-01 10:21:00
+PG1443,/en-us/landing/laptop-442,Landing Page,P1045,Laptop,1,2025-10-01 10:22:00
+PG1444,/en-us/landing/laptop-443,Landing Page,P1002,Laptop,1,2025-10-01 10:23:00
+PG1445,/en-us/landing/monitor-444,Landing Page,P1009,Monitor,1,2025-10-01 10:24:00
+PG1446,/en-us/landing/accessories-445,Landing Page,P1016,Accessories,1,2025-10-01 10:25:00
+PG1447,/en-us/landing/gaming-laptop-446,Landing Page,P1023,Gaming Laptop,1,2025-10-01 10:26:00
+PG1448,/en-us/landing/laptop-447,Landing Page,P1030,Laptop,1,2025-10-01 10:27:00
+PG1449,/en-us/landing/accessories-448,Landing Page,P1037,Accessories,1,2025-10-01 10:28:00
+PG1450,/en-us/landing/laptop-449,Landing Page,P1044,Laptop,1,2025-10-01 10:29:00
+PG1451,/en-us/landing/laptop-450,Landing Page,P1001,Laptop,1,2025-10-01 10:30:00
+PG1452,/en-us/landing/gaming-laptop-451,Landing Page,P1008,Gaming Laptop,1,2025-10-01 10:31:00
+PG1453,/en-us/landing/accessories-452,Landing Page,P1015,Accessories,1,2025-10-01 10:32:00
+PG1454,/en-us/landing/laptop-453,Landing Page,P1022,Laptop,1,2025-10-01 10:33:00
+PG1455,/en-us/landing/laptop-454,Landing Page,P1029,Laptop,1,2025-10-01 10:34:00
+PG1456,/en-us/landing/monitor-455,Landing Page,P1036,Monitor,1,2025-10-01 10:35:00
+PG1457,/en-us/landing/monitor-456,Landing Page,P1043,Monitor,1,2025-10-01 10:36:00
+PG1458,/en-us/landing/accessories-457,Landing Page,P1050,Accessories,1,2025-10-01 10:37:00
+PG1459,/en-us/landing/gaming-laptop-458,Landing Page,P1007,Gaming Laptop,1,2025-10-01 10:38:00
+PG1460,/en-us/landing/accessories-459,Landing Page,P1014,Accessories,1,2025-10-01 10:39:00
+PG1461,/en-us/landing/workstation-460,Landing Page,P1021,Workstation,1,2025-10-01 10:40:00
+PG1462,/en-us/landing/monitor-461,Landing Page,P1028,Monitor,1,2025-10-01 10:41:00
+PG1463,/en-us/landing/monitor-462,Landing Page,P1035,Monitor,1,2025-10-01 10:42:00
+PG1464,/en-us/landing/desktop-463,Landing Page,P1042,Desktop,1,2025-10-01 10:43:00
+PG1465,/en-us/landing/accessories-464,Landing Page,P1049,Accessories,1,2025-10-01 10:44:00
+PG1466,/en-us/landing/workstation-465,Landing Page,P1006,Workstation,1,2025-10-01 10:45:00
+PG1467,/en-us/landing/workstation-466,Landing Page,P1013,Workstation,1,2025-10-01 10:46:00
+PG1468,/en-us/landing/server-467,Landing Page,P1020,Server,1,2025-10-01 10:47:00
+PG1469,/en-us/landing/accessories-468,Landing Page,P1027,Accessories,1,2025-10-01 10:48:00
+PG1470,/en-us/landing/desktop-469,Landing Page,P1034,Desktop,1,2025-10-01 10:49:00
+PG1471,/en-us/landing/server-470,Landing Page,P1041,Server,1,2025-10-01 10:50:00
+PG1472,/en-us/landing/desktop-471,Landing Page,P1048,Desktop,1,2025-10-01 10:51:00
+PG1473,/en-us/landing/laptop-472,Landing Page,P1005,Laptop,1,2025-10-01 10:52:00
+PG1474,/en-us/landing/laptop-473,Landing Page,P1012,Laptop,1,2025-10-01 10:53:00
+PG1475,/en-us/landing/laptop-474,Landing Page,P1019,Laptop,1,2025-10-01 10:54:00
+PG1476,/en-us/landing/accessories-475,Landing Page,P1026,Accessories,1,2025-10-01 10:55:00
+PG1477,/en-us/landing/laptop-476,Landing Page,P1033,Laptop,1,2025-10-01 10:56:00
+PG1478,/en-us/landing/workstation-477,Landing Page,P1040,Workstation,1,2025-10-01 10:57:00
+PG1479,/en-us/landing/workstation-478,Landing Page,P1047,Workstation,1,2025-10-01 10:58:00
+PG1480,/en-us/landing/monitor-479,Landing Page,P1004,Monitor,1,2025-10-01 10:59:00
+PG1481,/en-us/landing/desktop-480,Landing Page,P1011,Desktop,1,2025-10-01 11:00:00
+PG1482,/en-us/landing/laptop-481,Landing Page,P1018,Laptop,1,2025-10-01 11:01:00
+PG1483,/en-us/landing/desktop-482,Landing Page,P1025,Desktop,1,2025-10-01 11:02:00
+PG1484,/en-us/landing/server-483,Landing Page,P1032,Server,1,2025-10-01 11:03:00
+PG1485,/en-us/landing/laptop-484,Landing Page,P1039,Laptop,1,2025-10-01 11:04:00
+PG1486,/en-us/landing/laptop-485,Landing Page,P1046,Laptop,0,2025-10-01 11:05:00
+PG1487,/en-us/landing/laptop-486,Landing Page,P1003,Laptop,1,2025-10-01 11:06:00
+PG1488,/en-us/landing/server-487,Landing Page,P1010,Server,1,2025-10-01 11:07:00
+PG1489,/en-us/landing/monitor-488,Landing Page,P1017,Monitor,1,2025-10-01 11:08:00
+PG1490,/en-us/landing/monitor-489,Landing Page,P1024,Monitor,1,2025-10-01 11:09:00
+PG1491,/en-us/landing/workstation-490,Landing Page,P1031,Workstation,1,2025-10-01 11:10:00
+PG1492,/en-us/landing/accessories-491,Landing Page,P1038,Accessories,1,2025-10-01 11:11:00
+PG1493,/en-us/landing/laptop-492,Landing Page,P1045,Laptop,1,2025-10-01 11:12:00
+PG1494,/en-us/landing/laptop-493,Landing Page,P1002,Laptop,1,2025-10-01 11:13:00
+PG1495,/en-us/landing/monitor-494,Landing Page,P1009,Monitor,1,2025-10-01 11:14:00
+PG1496,/en-us/landing/accessories-495,Landing Page,P1016,Accessories,1,2025-10-01 11:15:00
+PG1497,/en-us/landing/gaming-laptop-496,Landing Page,P1023,Gaming Laptop,1,2025-10-01 11:16:00
+PG1498,/en-us/landing/laptop-497,Landing Page,P1030,Laptop,1,2025-10-01 11:17:00
+PG1499,/en-us/landing/accessories-498,Landing Page,P1037,Accessories,1,2025-10-01 11:18:00
+PG1500,/en-us/landing/laptop-499,Landing Page,P1044,Laptop,1,2025-10-01 11:19:00

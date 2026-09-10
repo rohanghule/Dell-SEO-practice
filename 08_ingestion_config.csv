@@ -1,0 +1,8 @@
+config_id,source_system,source_file,target_table,load_type,watermark_column,primary_key,active_flag,source_layer,target_layer,file_format
+1,SEO,seo_traffic.csv,Fact_SEO_Traffic,Incremental,updated_timestamp,traffic_id,1,GitHub,Bronze,CSV
+2,SEO,seo_keyword_performance.csv,Fact_Keyword_Performance,Incremental,updated_timestamp,keyword_performance_id,1,GitHub,Bronze,CSV
+3,SEO,seo_orders.csv,Fact_SEO_Orders,Incremental,updated_timestamp,order_id,1,GitHub,Bronze,CSV
+4,Master,keyword_master.csv,Dim_Keyword,Incremental,updated_timestamp,keyword_id,1,GitHub,Bronze,CSV
+5,Master,page_master.csv,Dim_Page,Incremental,updated_timestamp,page_id,1,GitHub,Bronze,CSV
+6,Master,country_master.csv,Dim_Country,Full,updated_timestamp,country_code,1,GitHub,Bronze,CSV
+7,Master,product_master.csv,Dim_Product,Incremental,updated_timestamp,product_id,1,GitHub,Bronze,CSV
