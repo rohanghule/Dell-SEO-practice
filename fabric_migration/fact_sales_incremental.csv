@@ -1,4 +1,6 @@
 sale_id,sale_date,customer_id,country,product,category,quantity,unit_price,revenue,updated_timestamp
-10011,2026-02-01,C1011,US,Laptop,Computing,1,1300,1300,2026-02-01 10:00:00
-10012,2026-02-02,C1012,IN,Monitor,Computing,2,350,700,2026-02-02 11:00:00
-10013,2026-02-03,C1013,UK,Mouse,Accessories,5,25,125,2026-02-03 12:00:00
+10004,2026-01-04,C1004,US,Laptop,Computing,1,1600,1600,2026-02-01 10:00:00
+10005,2026-01-05,C1005,IN,Mouse,Accessories,4,25,100,2026-02-01 10:05:00
+10011,2026-02-01,C1011,US,Laptop,Computing,1,1300,1300,2026-02-01 10:10:00
+10012,2026-02-02,C1012,IN,Monitor,Computing,2,350,700,2026-02-01 10:15:00
+10013,2026-02-03,C1013,UK,Mouse,Accessories,5,25,125,2026-02-01 10:20:00
